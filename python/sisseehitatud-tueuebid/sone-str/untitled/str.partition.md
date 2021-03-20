@@ -1,7 +1,7 @@
 ---
 description: >-
-  tükelda sõne esimese eraldaja esinemise kohalt ja tagasta kolmeliikmeline
-  ennik (tuple) kus esimeseks liikmeks on sõne osa kuni eraldajani, teiseks
+  tükelda sõne esimese eraldaja esinemise kohalt ja tagasta kolmeliikmeline 
+  ennik (tuple) kus esimeseks liikmeks on sõne osa kuni eraldajani, teiseks 
   eraldaja ja kolmandaks sõne osa peale eraldajat
 ---
 
