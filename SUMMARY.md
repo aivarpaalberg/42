@@ -48,7 +48,7 @@
       * [str.rstrip\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-6.md)
       * [str.split\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-7.md)
       * [str.splitlines\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-8.md)
-      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-9.md)
+      * [str.startswith\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-9.md)
       * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-10.md)
 
 ## Terminid
