@@ -34,6 +34,10 @@
       * [str.ljust\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.ljust.md)
       * [str.lower](python/sisseehitatud-tueuebid/sone-str/untitled/str.lower.md)
       * [str.lstrip\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.lstrip.md)
+      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled.md)
+      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-1.md)
+      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-2.md)
+      * [str.maketrans\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.maketrans.md)
 
 ## Terminid
 

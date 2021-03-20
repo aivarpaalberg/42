@@ -23,3 +23,4 @@ isnumeric(self, /)
     A string is numeric if all characters in the string are numeric and there is at
     least one character in the string.
 ```
+
