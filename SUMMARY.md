@@ -31,6 +31,7 @@
       * [str.istitle\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.istitle.md)
       * [str.isupper\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.isupper.md)
       * [str.join\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.join.md)
+      * [str.ljust\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.ljust.md)
 
 ## Terminid
 
