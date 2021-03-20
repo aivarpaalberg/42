@@ -41,6 +41,8 @@
       * [str.removesuffix\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.removesuffix.md)
       * [str.replace\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-3.md)
       * [str.rfind\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-4.md)
+      * [str.rindex\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.rindex.md)
+      * [str.rjust\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.rjust.md)
 
 ## Terminid
 
