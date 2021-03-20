@@ -1,7 +1,7 @@
 ---
 description: >-
   tagasta sõnede loend tükeldades algse sõne määratud eraldaja (vaikimisi tühik)
-  kohalt
+  kohalt alustades paremalt
 ---
 
 # str.rsplit\(\)
