@@ -28,6 +28,7 @@
       * [str.isnumeric\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.isnumeric.md)
       * [str.isprintable\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.isprintable.md)
       * [str.isspace\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.isspace.md)
+      * [str.istitle\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.istitle.md)
 
 ## Terminid
 
