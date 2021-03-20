@@ -37,7 +37,7 @@
       * [str.maketrans\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.maketrans.md)
       * [str.mro\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled.md)
       * [str.partition\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-1.md)
-      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-2.md)
+      * [str.removeprefix\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-2.md)
 
 ## Terminid
 
