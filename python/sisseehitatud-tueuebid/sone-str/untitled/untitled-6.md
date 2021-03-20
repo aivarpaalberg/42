@@ -1,5 +1,5 @@
 ---
-description: tagasta sõne mille lõpust on eemaldatud tühikud
+description: tagasta sõne mille lõpust on eemaldatud määratud märgid (vaikimisi tühik)
 ---
 
 # str.rstrip\(\)
