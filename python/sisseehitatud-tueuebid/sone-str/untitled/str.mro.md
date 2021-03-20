@@ -1,5 +1,5 @@
 ---
-description: tagasta tüübi meetodi lahendamise järjekord (method resolution order)
+description: tagasta tüübi meetodi lahendamise järjekord (method resolution order).
 ---
 
 # str.mro\(\)
