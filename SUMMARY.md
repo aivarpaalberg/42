@@ -40,7 +40,7 @@
       * [str.removeprefix\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-2.md)
       * [str.removesuffix\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.removesuffix.md)
       * [str.replace\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-3.md)
-      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-4.md)
+      * [str.rfind\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-4.md)
 
 ## Terminid
 
