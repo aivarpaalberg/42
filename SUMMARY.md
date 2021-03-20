@@ -44,6 +44,12 @@
       * [str.rindex\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.rindex.md)
       * [str.rjust\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.rjust.md)
       * [str.rpartition\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.rpartition.md)
+      * [str.rsplit\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.rsplit.md)
+      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-6.md)
+      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-7.md)
+      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-8.md)
+      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-9.md)
+      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-10.md)
 
 ## Terminid
 
