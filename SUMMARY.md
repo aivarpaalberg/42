@@ -36,7 +36,7 @@
       * [str.lstrip\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.lstrip.md)
       * [str.maketrans\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.maketrans.md)
       * [str.mro\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled.md)
-      * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-1.md)
+      * [str.partition\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-1.md)
       * [Untitled](python/sisseehitatud-tueuebid/sone-str/untitled/untitled-2.md)
 
 ## Terminid
