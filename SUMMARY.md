@@ -5,6 +5,7 @@
 ## Python
 
 * [Sisseehitatud tüübid](python/sisseehitatud-tueuebid/README.md)
+  * [Tõesuse testimine](python/sisseehitatud-tueuebid/toesuse-testimine.md)
   * [sõne \(str\)](python/sisseehitatud-tueuebid/sone-str/README.md)
     * [sõne \(str\) meetodid](python/sisseehitatud-tueuebid/sone-str/untitled/README.md)
       * [str.capitalize\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.capitalize.md)
