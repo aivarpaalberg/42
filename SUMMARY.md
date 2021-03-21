@@ -50,6 +50,7 @@
       * [str.splitlines\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.splitlines.md)
       * [str.startswith\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.startswith.md)
       * [str.strip\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.strip.md)
+      * [str.swapcase\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.swapcase.md)
 
 ## Terminid
 

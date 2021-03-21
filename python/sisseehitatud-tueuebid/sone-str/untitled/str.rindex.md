@@ -1,6 +1,6 @@
 ---
 description: >-
-  tagasta sõnes leitud alamsõne suurim indeks, sea veateade _ValueError_ kui
+  tagasta sõnes leitud alamsõne suurim indeks, sea veateade ValueError kui
   alamsõnet ei leita
 ---
 
