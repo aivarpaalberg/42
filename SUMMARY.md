@@ -53,6 +53,7 @@
       * [str.swapcase\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.swapcase.md)
       * [str.title\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.title.md)
       * [str.translate\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.translate.md)
+      * [str.upper\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.upper.md)
 
 ## Terminid
 
