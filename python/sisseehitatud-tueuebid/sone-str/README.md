@@ -8,5 +8,10 @@ Tekstilisi andmeid käsitsetakse \(_handled_\) Pythonis `str` objektidega ehk s�
 
 Sõne \(_string_\) literaale kirjutatakse erineval viisil:
 
-* ühe ülakomaga \(_single quotes_\): `'võimaldab lõimida "topelt" ülakomasid'`
+* ülakomaga jutumärgiga \(_single quotes_\): `'võimaldab tekstis kasutada "kahe ülakomaga" jutumärki'`
+* kahe ülakomaga jutumärgiga \(_double quotes_\): `"võimaldab tekstis kasutada 'ülakomaga' jutumärki"`
+* jutumärgid kolmekordselt \(_triple quoted_\): `'''kolm ülakomaga jutumärki'''`, `"""kolm kahe ülakomaga jutumärki"""`
+
+
+
 
