@@ -61,7 +61,7 @@
 
 * [Boole'i tehe](terminid/boolei-tehe.md)
 * [funktsioon \(function\)](terminid/funktsioon-function.md)
-* [jutumärgid](terminid/jutumaergid.md)
+* [jutumärgid \(quotes\)](terminid/jutumaergid.md)
 * [osuti \(pointer\)](terminid/osuti-pointer.md)
 * [täitmine \(execution\)](terminid/taeitmine-execution.md)
 * [viip \(prompt\)](terminid/viip-prompt.md)
