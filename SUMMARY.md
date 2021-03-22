@@ -59,6 +59,7 @@
 
 ## Terminid
 
+* [Boole'i tehe](terminid/boolei-tehe.md)
 * [funktsioon \(function\)](terminid/funktsioon-function.md)
 * [osuti \(pointer\)](terminid/osuti-pointer.md)
 * [täitmine \(execution\)](terminid/taeitmine-execution.md)
