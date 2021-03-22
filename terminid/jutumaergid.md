@@ -16,11 +16,11 @@ Inimese jaoks pole teksti sisu ja selle mõistmise jaoks oluline, millised jutum
 
 Pythonis kasutatavad jutumärgid on: 
 
-* ühe ülakomaga jutumärk `' '` 
+* ülakomaga jutumärk `' '` 
 * kahe ülakomaga jutumärk `" "`
 * jutumärgid kolmekordselt `''' '''`, `""" """` 
 
-Eesti asetusega klaviatuuril saab ühekordse ülakoma vajutades klahvile mis asub `Ä` klahvist paremal \(sellel on kujutatud `*` ja `'` \) ning kahekordse ülakomaga jutumärgi klahvikombinatsiooniga ⇧ + 2 \(SHIFT klahv ja 2\)
+Eesti asetusega klaviatuuril saab ülakoma vajutades klahvile mis asub `Ä` klahvist paremal \(sellel on kujutatud `*` ja `'` üksteise all\) ning kahekordse ülakomaga jutumärgi klahvikombinatsiooniga ⇧ + 2 \(SHIFT  + 2\)
 
 ### Abiinfo ja viited
 
