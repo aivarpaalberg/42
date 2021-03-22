@@ -22,6 +22,10 @@ Pythonis kasutatavad jutumärgid on:
 
 Eesti asetusega klaviatuuril saab ülakoma vajutades klahvile mis asub `Ä` klahvist paremal \(sellel on kujutatud `*` ja `'` üksteise all\) ning kahekordse ülakomaga jutumärgi klahvikombinatsiooniga ⇧ + 2 \(SHIFT  + 2\)
 
+┌─────┐   ┌─────┐
+│  ⇧  │ + │  2  │
+└─────┘   └─────┘
+
 ### Abiinfo ja viited
 
 * Wikipedia: [jutumärgid](https://et.wikipedia.org/wiki/Jutumärgid)
