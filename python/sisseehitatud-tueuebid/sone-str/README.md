@@ -6,7 +6,7 @@ description: 'Teksti jada tüüp (Text Sequence Type), Pythoni sisseehitatud and
 
 Tekstilisi andmeid käsitsetakse \(_handled_\) Pythonis `str` objektidega ehk sõnedega \(_string_\). Sõned \(_strings_\) on Unicode koodipunktide **muutumatud** \(immutable\) **jadad** \(sequences\).
 
-Sõne \(_string_\) literaale kirjutatakse erinevatel viisidel:
+Sõne \(_string_\) [literaale](../../../terminid/sonastik/literaal-literal.md) \(_literals_\) kirjutatakse erinevatel viisidel:
 
 * ülakomaga jutumärgiga \(_single quotes_\): `'võimaldab sõnes kasutada "kahe ülakomaga" jutumärki'`
 * kahe ülakomaga jutumärgiga \(_double quotes_\): `"võimaldab sõnes kasutada 'ülakomaga' jutumärki"`
