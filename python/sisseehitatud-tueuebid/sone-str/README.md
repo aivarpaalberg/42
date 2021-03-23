@@ -38,3 +38,7 @@ Sõne [literaalid](../../../terminid/sonastik/literaal-literal.md) \(_literals_\
 True
 ```
 
+Sõnesid \(_strings_\) saab luua ka teistest objektidest kasutades str konstuktorit.
+
+Ei ole olemas muudetavat \(mutable\) sõne tüüpi kuid [str.join\(\)](untitled/str.join.md) ja io.StringIO\(\) saab efektiivselt kasutada erinevate sõnede konstrueerimiseks üheks sõneks.
+
