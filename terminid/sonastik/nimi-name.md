@@ -6,7 +6,7 @@ description: Pythoni identifikaatorid mis esinevad aatomitena on nimed.
 
 ## Üksikasjalikumalt
 
-Kui nimi seotakse \(bound\) objektiga siis aatomi väärtustamine \(evaluation\) annab \(yields\) selle objekti. Kui nimi on sidumata siis katse seda väärtustada tõstab NameError erandi.
+Kui nimi seotakse \(bound\) objektiga siis [aatomi](aatom-atom.md) \(_atom_\) väärtustamine \(evaluation\) annab \(yields\) selle objekti. Kui nimi on sidumata siis katse seda väärtustada tõstab NameError erandi.
 
 ## Viited
 
