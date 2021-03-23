@@ -14,5 +14,12 @@ Sõne \(_string_\) literaale kirjutatakse erinevatel viisidel:
 
 Kolmekordsetes jutumärkides sõned võivad ulatuda üle mitme rea ning säilivad kõik sõnes esinevad mitteväljastatavad märgid \(tühikud, reavahetused jms\).
 
-Sõne literaalid, mis  on ühe \(_expression_\) osad
+Sõne [literaalid](../../../terminid/sonastik/literaal-literal.md) \(_literals_\), mis  on ühe [avaldise](../../../terminid/sonastik/avaldis-expression.md) \(_expression_\) osad ning mille vahel on ainult tühikud \(_whitespace_\) teisendatakse \(_converted_\) ilmutamata \(_implicitly_\) üheks sõne literaaliks:
+
+```python
+>>> 'abra' 'kad' 'abra'
+'abrakadabra'
+>>> 'abra' 'kad' 'abra' == 'abrakadabra'
+True
+```
 
