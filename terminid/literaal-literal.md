@@ -10,15 +10,15 @@ description: >-
 
 Teisiti öeldes on literaal väärtus mis on kirjutatud nii nagu seda interpreteeritakse programmi poolt s.t literaali väärtust ei ole vaja arvutada; tegu on objektiga mille väärtus ei sõltu teiste muutujate \(objektide\) väärtustest ja nende muutumistest ning mis ei sisalda tehet.
 
-Python toetab [sõne]() \(str\) ja baidi \(bytes\) literaale ning mitmeid numbri \(numeric\) literaale:
+Python toetab [sõne](../python/sisseehitatud-tueuebid/sone-str/) \(_str_\) ja baidi \(_bytes_\) literaale ning mitmeid numbri \(_numeric_\) literaale:
 
 ```python
 literal ::= stringliterals | bytesliterals | integer | floatnumber | imagnumber
 ```
 
-Literaali hindamine \(evaluation\) annab \(yields\) antud tüüpi objekti \(sõne, baidid, täisarv, ujukomaarv, kompleksarv\) selle väärtusega. Väärtus võib olla ligikaudne ujukomaarvude ja imaginaararvude \(kompleksarvude\) puhul.
+Literaali hindamine \(_evaluation_\) annab \(_yields_\) antud tüüpi objekti \(sõne, baidid, täisarv, ujukomaarv, kompleksarv\) selle väärtusega. Väärtus võib olla ligikaudne ujukomaarvude ja imaginaararvude \(kompleksarvude\) puhul.
 
-Kõik Pythoni literaalid on muutumatud \(immutable\) mistõttu objekti identiteet on vähem tähtis kui selle väärtus. Sama väärtusega literaalide mitmekordsed hindamised \(evaluations\) võivad saada \(obtain\) sama objekti või teise objekti sama väärtusega.
+Kõik Pythoni literaalid on muutumatud \(_immutable_\) mistõttu objekti identiteet on vähem tähtis kui selle väärtus. Sama väärtusega literaalide mitmekordsed hindamised \(evaluations\) võivad saada \(\_obtain-\) sama objekti või teise objekti sama väärtusega.
 
 Literaalide näited:
 
