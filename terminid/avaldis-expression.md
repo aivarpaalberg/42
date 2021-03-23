@@ -10,6 +10,11 @@ Teisiti öeldes on avaldis \(expression\) kogum avaldiste elemente nagu[ literaa
 
 Vastupidiselt paljudele programmeerimiskeeltele ei ole kõik [tarindid](https://notebooks.azure.com/perfringo/projects/python/html/terminid/tarind.ipynb) \(construct\) Pythonis avaldised. On olemas selliseid [lauseid](https://notebooks.azure.com/perfringo/projects/python/html/terminid/lause.ipynb) \(statements\) mida ei saa kasutada avaldistena, näiteks `if`. [Omistamised](https://notebooks.azure.com/perfringo/projects/python/html/terminid/omistuslause-assignment_statement.ipynb) \(assignments\) on ka [laused](https://notebooks.azure.com/perfringo/projects/python/html/terminid/lause.ipynb) \(statements\), mitte avaldised \(expressions\).
 
+```python
+spam = 42    # omistuslause (assignment statement)
+spam + 1     # avaldis (expression)
+```
+
 ### Viited
 
 * [expression](https://docs.python.org/3/glossary.html#term-expression) \(Pythoni termin\)
