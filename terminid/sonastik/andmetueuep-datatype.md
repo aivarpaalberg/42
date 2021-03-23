@@ -9,7 +9,15 @@ description: >-
 
 ## Üksikasjalikumalt
 
-### Viited
+Andmetüüp - täisarv \(_int_\), tehted - aritmeetikatehted täisarvudega 
+
+```python
+>>> 42        # andmetüüp täisarv (int)
+>>> 4 + 2     # kahe täisarvu liitmistehe
+>>> 4 * 2     # kahe täiarvu korrutamistehe
+```
+
+## Viited
 
 * Pythoni dokumentatsioon: [The Python Standard Library &gt; 4. Built-in Types](https://docs.python.org/3/library/stdtypes.html#built-in-types)
 * Pythoni dokumentatsioon: [The Python Standard Library &gt; 8. Data Types](https://docs.python.org/3/library/datatypes.html#data-types)
