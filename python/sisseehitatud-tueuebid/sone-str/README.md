@@ -14,6 +14,21 @@ Sõne \(_string_\) [literaale](../../../terminid/sonastik/literaal-literal.md) \
 
 Kolmekordsetes jutumärkides sõned võivad ulatuda üle mitme rea ning säilivad kõik sõnes esinevad mitteväljastatavad märgid \(tühikud, reavahetused jms\).
 
+```python
+>>> spam = """
+... see
+...     on
+...        trepp
+... """
+>>> print(spam)
+
+see
+    on
+       trepp
+
+>>>
+```
+
 Sõne [literaalid](../../../terminid/sonastik/literaal-literal.md) \(_literals_\), mis  on ühe [avaldise](../../../terminid/sonastik/avaldis-expression.md) \(_expression_\) osad ning mille vahel on ainult tühikud \(_whitespace_\) teisendatakse \(_converted_\) ilmutamata \(_implicitly_\) üheks sõne literaaliks:
 
 ```python
