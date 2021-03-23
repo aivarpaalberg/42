@@ -6,7 +6,7 @@ description: seeria lauseid (statements) mis tagastavad väljakutsujale mingi v�
 
 ## Üksikasjalikumalt
 
-Funktsioonile saab edastada \(_pass_\) null või rohkem argumenti \(_argument_\) mida võidakse kasutada täitmisel \(_execution_\).
+Funktsioonile saab edastada \(_pass_\) null või rohkem argumenti \(_argument_\) mida võidakse kasutada [täitmisel](taeitmine-execution.md) \(_execution_\).
 
 ### Viited
 
