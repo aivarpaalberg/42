@@ -68,6 +68,7 @@
   * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
   * [literaal \(literal\)](terminid/sonastik/literaal-literal.md)
+  * [muudetav \(mutable\)](terminid/sonastik/muudetav-mutable.md)
   * [muutumatu \(immutable\)](terminid/sonastik/muutumatu-immutable.md)
   * [nimi \(name\)](terminid/sonastik/nimi-name.md)
   * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
