@@ -10,7 +10,7 @@ description: >-
 
 Teisiti öeldes on literaal väärtus mis on kirjutatud nii nagu seda interpreteeritakse programmi poolt s.t literaali väärtust ei ole vaja arvutada; tegu on objektiga mille väärtus ei sõltu teiste muutujate \(objektide\) väärtustest ja nende muutumistest ning mis ei sisalda tehet.
 
-Python toetab [sõne](../python/sisseehitatud-tueuebid/sone-str/) \(_str_\) ja baidi \(_bytes_\) literaale ning mitmeid numbri \(_numeric_\) literaale:
+Python toetab [sõne](../../python/sisseehitatud-tueuebid/sone-str/) \(_str_\) ja baidi \(_bytes_\) literaale ning mitmeid numbri \(_numeric_\) literaale:
 
 ```python
 literal ::= stringliterals | bytesliterals | integer | floatnumber | imagnumber

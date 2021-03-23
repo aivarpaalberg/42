@@ -59,13 +59,13 @@
 
 ## Terminid
 
-* [Sõnastik](terminid/sonastik.md)
-* [avaldis \(expression\)](terminid/avaldis-expression.md)
-* [Boole'i tehe](terminid/boolei-tehe.md)
-* [funktsioon \(function\)](terminid/funktsioon-function.md)
-* [jutumärgid \(quotes\)](terminid/jutumaergid.md)
-* [literaal \(literal\)](terminid/literaal-literal.md)
-* [osuti \(pointer\)](terminid/osuti-pointer.md)
-* [täitmine \(execution\)](terminid/taeitmine-execution.md)
-* [viip \(prompt\)](terminid/viip-prompt.md)
+* [Sõnastik](terminid/sonastik/README.md)
+  * [avaldis \(expression\)](terminid/sonastik/avaldis-expression.md)
+  * [Boole'i tehe](terminid/sonastik/boolei-tehe.md)
+  * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
+  * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
+  * [literaal \(literal\)](terminid/sonastik/literaal-literal.md)
+  * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
+  * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
+  * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
 
