@@ -59,6 +59,7 @@
 
 ## Terminid
 
+* [Sõnastik](terminid/sonastik.md)
 * [avaldis \(expression\)](terminid/avaldis-expression.md)
 * [Boole'i tehe](terminid/boolei-tehe.md)
 * [funktsioon \(function\)](terminid/funktsioon-function.md)
