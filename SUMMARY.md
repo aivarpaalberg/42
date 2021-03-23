@@ -61,6 +61,7 @@
 
 * [Sõnastik](terminid/sonastik/README.md)
   * [aatom \(atom\)](terminid/sonastik/aatom-atom.md)
+  * [andmed \(data\)](terminid/sonastik/andmed-data.md)
   * [avaldis \(expression\)](terminid/sonastik/avaldis-expression.md)
   * [Boole'i tehe](terminid/sonastik/boolei-tehe.md)
   * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
