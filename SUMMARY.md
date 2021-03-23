@@ -59,6 +59,7 @@
 
 ## Terminid
 
+* [avaldis \(expression\)](terminid/avaldis-expression.md)
 * [Boole'i tehe](terminid/boolei-tehe.md)
 * [funktsioon \(function\)](terminid/funktsioon-function.md)
 * [jutumärgid \(quotes\)](terminid/jutumaergid.md)
