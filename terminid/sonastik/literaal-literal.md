@@ -16,9 +16,9 @@ Python toetab [sõne](../../python/sisseehitatud-tueuebid/sone-str/) \(_str_\) j
 literal ::= stringliterals | bytesliterals | integer | floatnumber | imagnumber
 ```
 
-Literaali hindamine \(_evaluation_\) annab \(_yields_\) antud tüüpi objekti \(sõne, baidid, täisarv, ujukomaarv, kompleksarv\) selle väärtusega. Väärtus võib olla ligikaudne ujukomaarvude ja imaginaararvude \(kompleksarvude\) puhul.
+Literaali hindamine \(_evaluation_\) annab \(_yields_\) antud tüüpi objekti \([sõne](../../python/sisseehitatud-tueuebid/sone-str/), baidid, täisarv, ujukomaarv, kompleksarv\) selle väärtusega. Väärtus võib olla ligikaudne ujukomaarvude ja imaginaararvude \(kompleksarvude\) puhul.
 
-Kõik Pythoni literaalid on muutumatud \(_immutable_\) mistõttu objekti identiteet on vähem tähtis kui selle väärtus. Sama väärtusega literaalide mitmekordsed hindamised \(evaluations\) võivad saada \(\_obtain-\) sama objekti või teise objekti sama väärtusega.
+Kõik Pythoni literaalid on muutumatud \(_immutable_\) mistõttu objekti identiteet on vähem tähtis kui selle väärtus. Sama väärtusega literaalide mitmekordsed hindamised \(evaluations\) võivad saada \(_obtain_\) sama objekti või teise objekti sama väärtusega.
 
 Literaalide näited:
 
