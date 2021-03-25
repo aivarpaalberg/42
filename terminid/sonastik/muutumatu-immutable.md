@@ -10,7 +10,7 @@ Muutumatute \(immutable\) objektide hulka kuuluvad numbrid \(_numbers_\), sõned
 
 Muutumatu \(_immutable_\) konteiner objekti \(_container object_\)  mis sisaldab viidet \(_reference_\) muudetavale objektile \(_mutable object_\) võib muutuda kui viidatud objekt muutub; vaatamata sellele loetakse konteinerit muutumatuks. 
 
-Objekti muudetavus on määratud tema tüübiga, näiteks numbrid \(_numbers_\), sõned \(_str_\) ja ennikud \(_tuple_\) on muutumatud aga sõnastikud \(_dict_\) ja loendid \(_list_\) on muutuvad.
+Objekti muudetavus on määratud tema tüübiga, näiteks numbrid \(_numbers_\), [sõned](../../python/sisseehitatud-tueuebid/sone-str/) \(_str_\) ja ennikud \(_tuple_\) on muutumatud aga sõnastikud \(_dict_\) ja loendid \(_list_\) on muutuvad.
 
 Järgneva näiteme kuidas muutumatu andmetüübi \(ennik\) väärtus võib muutuda. Ennik \(_tuple_\) `spam` koosneb kahest loendist \(_list_\). Loendid on [muudetavad](muudetav-mutable.md) ning kui lisada sellele uus liige siis muutub ka ennik \(_tuple_\). See on võimalik tänu selllele et ennik koosneb viidetest loenditele ning need viited ei muutu, muutub objekt millele viidatakse: 
 
