@@ -1,6 +1,6 @@
 # Tõesuse testimine
 
-Iga objekti tõesust saab testida, mida saab kasutada _if_ või _for_ tingimuses või operandina Boole'i tehetes
+Iga objekti tõesust saab testida ja seda saab kasutada _if_ või _for_ tingimuses või operandina Boole'i tehetes
 
 Objekti loetakse vaikimisi tõeseks \(_true_\).
 
