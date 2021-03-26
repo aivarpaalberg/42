@@ -11,4 +11,11 @@ Pythoni interpretaatoril on hulk funktsioone ja tüüpe mis on sisseehitatud ja 
 | bin\(\) | enumerate\(\) | input\(\) | oct\(\) | staticmethod\(\) |
 | bool\(\) | eval\(\) | int\(\) | open\(\) | str\(\) |
 | breakpoint\(\) | exec\(\) | isinstance\(\) | ord\(\) | sum\(\) |
+| bytearray\(\) | filter\(\) | issubclass\(\) | pow\(\) | super\(\) |
+| bytes\(\) | float\(\) | iter\(\) | print\(\) | tuple\(\) |
+| callable\(\) | format\(\) | len\(\) | property\(\) | type\(\) |
+| chr\(\) | frozenset\(\) | list\(\) | range\(\) | vars\(\) |
+| classmethod\(\) | getattr\(\) | locals\(\) | repr\(\) | zip\(\) |
+| compile\(\) | globals\(\) | map\(\) | reversed\(\) | import\(\) |
+| complex\(\) | hasattr\(\) | max\(\) | round\(\) |  |
 
