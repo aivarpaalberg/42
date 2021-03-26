@@ -15,7 +15,7 @@ Argumendid omistatakse \(_assigned_\) nimetatud lokaalsetele muutujatele \(_loca
 
 ### Võtmesõna argument
 
-Kui on funktsioon `summa` ja sellel on kaks võtmesõna argumenti: `hind` ja `kogus` siis saab seda välja kutsuda kahel viisil:
+Kui on [funktsioon](funktsioon-function.md) `summa` ja sellel on kaks võtmesõna argumenti: `hind` ja `kogus` siis saab seda funktsiooni välja kutsuda kahel viisil:
 
 ```python
 summa(hind=4, kogus=2)        # identifikaatoritega
@@ -31,7 +31,7 @@ summa(**andmed)               # nimega sõnastikuga
 
 ### Kohaargument
 
-Kui on funktsioon summa ja selle on kaks kohaargumenti siis saab seda välja kutsuda kahe viisil:
+Kui on [funktsioon](funktsioon-function.md) `summa`ja selle on kaks kohaargumenti siis saab seda funktsiooni välja kutsuda kahe viisil:
 
 ```python
 summa(4, 2)      # kohaargumentidega
