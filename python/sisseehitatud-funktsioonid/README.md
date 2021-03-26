@@ -4,7 +4,7 @@ Pythoni interpretaatoril on hulk funktsioone ja tüüpe mis on sisseehitatud ja 
 
 |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- |
-| abs\(\) | delattr\(\) | hash\(\) | memoryview\(\) | set\(\) |
+| [abs\(\)](abs.md) | delattr\(\) | hash\(\) | memoryview\(\) | set\(\) |
 | all\(\) | dict\(\) | help\(\) | min\(\) | setattr\(\) |
 | any\(\) | dir\(\) | hex\(\) | next\(\) | slice\(\) |
 | ascii\(\) | divmod\(\) | id\(\) | object\(\) | sorted\(\) |
