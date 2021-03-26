@@ -68,6 +68,7 @@
   * [Boole'i tehe](terminid/sonastik/boolei-tehe.md)
   * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
+  * [lause \(statement\)](terminid/sonastik/lause-statement.md)
   * [literaal \(literal\)](terminid/sonastik/literaal-literal.md)
   * [muudetav \(mutable\)](terminid/sonastik/muudetav-mutable.md)
   * [muutumatu \(immutable\)](terminid/sonastik/muutumatu-immutable.md)
