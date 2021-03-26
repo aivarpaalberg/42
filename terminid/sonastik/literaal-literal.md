@@ -1,7 +1,7 @@
 ---
 description: >-
   Pythoni literaalid on mõnede sissehitatud (built-in) andmetüüpide (data types)
-  konstantsete väärtuste tähistused.
+  konstantsete väärtuste esitused.
 ---
 
 # literaal \(literal\)
