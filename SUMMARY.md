@@ -4,6 +4,7 @@
 
 ## Python
 
+* [Sisseehitatud funktsioonid](python/sisseehitatud-funktsioonid.md)
 * [Sisseehitatud tüübid](python/sisseehitatud-tueuebid/README.md)
   * [Tõesuse testimine](python/sisseehitatud-tueuebid/toesuse-testimine.md)
   * [sõne \(str\)](python/sisseehitatud-tueuebid/sone-str/README.md)
