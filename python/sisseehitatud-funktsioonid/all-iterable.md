@@ -37,7 +37,7 @@ Funktsioon tagastab tõesusväärtuse \(booli\):
 
 ### Näited
 
-Lihtne kontroll kas kõik itereeritava elemendid on tõesed:
+Kas kõik itereeritava elemendid on tõesed?
 
 ```python
 >>> all('abc')
@@ -49,6 +49,22 @@ True
 >>> all([0, 1, 2])
 False
 ```
+
+Kas kõik elemendid vastavad seatud tingimustele?
+
+Antud on DNA ahel ning on vaja kontrollida kas see on kehtiv s.t. selles esinevad ainult `A`, `C`, `G` või `T` 
+
+```python
+>>> ahel = 'TATCAGAAAACACGCGCTTAAGTGAGCGGAACGGGTGGAACAAGGTTGTA'
+>>> lubatud = ('A', 'C', 'G', 'T')
+>>> all(char in lubatud for char in ahel)
+True
+>>> ahel = 'TATCAGAAAACACGCGCTTAAGTGAGCGGAACGGGTGGAACAAGGUTTGTA'
+>>> all(char in lubatud for char in ahel)
+False
+```
+
+
 
 ## Viited
 
