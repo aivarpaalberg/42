@@ -20,7 +20,7 @@ def all(iterable):
 
 Koodist on näha, et funktsioon rakendab lühist \(_short circuit_\) s.t. et esimese väära \(_False_\) korral tagastab funktsioon väärtuse ning järelejäänud elemente enam ei kontrollita.
 
-### Argumendid
+### Argument
 
 Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), loend, hulk, sõnastik vms\). 
 
