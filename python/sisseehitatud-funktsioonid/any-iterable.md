@@ -8,9 +8,19 @@ description: >-
 
 ## Üksikasjalikumalt
 
+Funktsioon `any()` on samaväärne \(_equivalent_\) alljärgnevaga:
+
+```python
+def any(iterable):
+    for element in iterable:
+        if element:
+            return True
+    return False
+```
+
 ### Argument
 
-Funktsioonile tuleb välja kutsudes edastada üks argument mis peab olema **itereeritav** \(sõne, loend, hulk, sõnastik vms\).
+Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), loend, hulk, sõnastik vms\).
 
 Juhul kui argumenti ei edastata või edastatud argument ei ole itereeritav tõstetakse `TypeError` erand.
 
@@ -20,8 +30,10 @@ Funktsioon tagastab tõesusväärtuse \(booli\).
 
 | Väärtus | Tingimus\(ed\) |
 | :--- | :--- |
-| True | vähemalt üks itereeritava element on tõene |
-| False | itereeritav on tühi või kõik elemendid on väärad |
+| True | vähemalt üks itereeritava element on tõene¹ |
+| False | itereeritav on tühi või kõik elemendid on väärad¹ |
+
+¹ vt [tõesuse testimine](../sisseehitatud-tueuebid/toesuse-testimine.md)
 
 ### Näited
 
