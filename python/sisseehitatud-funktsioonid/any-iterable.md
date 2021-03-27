@@ -18,6 +18,8 @@ def any(iterable):
     return False
 ```
 
+Koodist on näha, et funktsioon rakendab lühist \(_short circuit_\) s.t. et esimese väära \(_True_\) korral tagastab funktsioon väärtuse ning järelejäänud elemente enam ei kontrollita.
+
 ### Argument
 
 Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), loend, hulk, sõnastik vms\).
