@@ -8,9 +8,23 @@ description: >-
 
 ## Üksikasjalikumalt
 
+Funktsioon `all()`on samaväärne \(_equivalent_\) alljärgnevaga:
+
+```python
+def all(iterable):
+    for element in iterable:
+        if not element:
+            return False
+    return True
+```
+
+Koodist on näha, et funktsioon rakendab lühist \(_short circuit_\) s.t. et esimese väära \(_False_\) korral tagastab funktsioon väärtuse ning järelejäänud elemente enam ei kontrollita.
+
 ### Argumendid
 
-Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), loend, hulk, sõnastik jne\). Juhul kui argumenti ei edastata või edastatud argumendiks ei ole itereeritav, siis tõstetakse `TypeError`erand.
+Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), loend, hulk, sõnastik jne\). 
+
+Juhul kui argumenti ei edastata või edastatud argumendiks ei ole itereeritav, siis tõstetakse `TypeError`erand.
 
 ### Tagastatav väärtus
 
