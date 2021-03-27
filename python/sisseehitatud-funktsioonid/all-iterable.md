@@ -32,8 +32,10 @@ Funktsioon tagastab tõesusväärtuse \(booli\):
 
 |  Väärtus | Tingimus\(ed\) |
 | :--- | :--- |
-| **True** | kõik itereeritava elemendid on [tõesed](../sisseehitatud-tueuebid/toesuse-testimine.md) või itereeritav on tühi |
-| **False** | vähemalt üks itereeritava element on väär |
+| **True** | kõik itereeritava elemendid on tõesed¹ või itereeritav on tühi |
+| **False** | vähemalt üks itereeritava element on väär¹ |
+
+¹ vt [tõesuse testimine](../sisseehitatud-tueuebid/toesuse-testimine.md)
 
 ### Näited
 
