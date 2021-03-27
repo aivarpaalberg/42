@@ -24,7 +24,7 @@ Koodist on näha, et funktsioon rakendab lühist \(_short circuit_\) s.t. et esi
 
 Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), loend, hulk, sõnastik jne\). 
 
-Juhul kui argumenti ei edastata või edastatud argumendiks ei ole itereeritav, siis tõstetakse `TypeError`erand.
+Juhul kui argumenti ei edastata või edastatud argument ei ole itereeritav, siis tõstetakse `TypeError`erand.
 
 ### Tagastatav väärtus
 
