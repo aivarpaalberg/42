@@ -39,4 +39,5 @@ Täisarvu \(_int_\) ja ujukomaarvu \(_floating point number_\) absoluutväärtus
 ### Viited
 
 * Pythoni ametlik dokumentatsioon \(inglise keeles\): [abs\(\)](https://docs.python.org/3/library/functions.html#abs)
+* Pythoni interaktiivses interpretaatoris sisesta `help(abs)`
 

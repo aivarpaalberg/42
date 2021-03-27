@@ -7,6 +7,7 @@
 * [Sisseehitatud funktsioonid](python/sisseehitatud-funktsioonid/README.md)
   * [abs\(\)](python/sisseehitatud-funktsioonid/abs.md)
   * [all\(iterable\)](python/sisseehitatud-funktsioonid/all-iterable.md)
+  * [any\(iterable\)](python/sisseehitatud-funktsioonid/any-iterable.md)
 * [Sisseehitatud tüübid](python/sisseehitatud-tueuebid/README.md)
   * [Tõesuse testimine](python/sisseehitatud-tueuebid/toesuse-testimine.md)
   * [sõne \(str\)](python/sisseehitatud-tueuebid/sone-str/README.md)
