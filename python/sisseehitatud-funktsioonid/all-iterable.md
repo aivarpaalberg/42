@@ -35,6 +35,10 @@ Funktsioon tagastab tõesusväärtuse \(booli\):
 | **True** | kõik itereeritava elemendid on tõesed või itereeritav on tühi |
 | **False** | vähemalt üks itereeritava element on väär |
 
+### Näited
+
+Lihtne kontroll kas kõik itereeritava elemendid on tõesed:
+
 ```python
 >>> all('abc')
 True
