@@ -8,7 +8,16 @@ description: >-
 
 ## Üksikasjalikumalt
 
-[Argumendiks](../../terminid/sonastik/argument.md) peab olema itereeritav \(kui ei ole, siis tõstetakse `TypeError`erand\).
+### Argumendid
+
+Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), loend, hulk, sõnastik jne\). Juhul kui argumenti ei edastata või edastatud argumendiks ei ole itereeritav, siis tõstetakse `TypeError`erand.
+
+### Tagastatavad väärtused
+
+| Tagastatav väärtus | Tingimus\(ed\) |
+| :--- | :--- |
+| **True** | kõik itereeritava elemendid on tõesed või itereeritav on tühi |
+| **False** | vähemalt üks itereeritava element on väär |
 
 ```python
 >>> all('abc')
