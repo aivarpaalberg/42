@@ -10,5 +10,5 @@ Sisseehitatud objektid mida tõesuse testimisel loetakse vääraks \(_false_\):
 * mistahes numbritüübi null: `0`, `0.0`, `0j`, `Decimal(0)`, `Fraction(0, 1)`
 * tühjad jadad \(_sequences_\) ja kogumikud \(_collections_\): `''`, `()`, `[]`, `{}`, `set()`, `range(0)`
 
-Tehted \(_operations_\) ja sisseehitatud funktsioonid mis annavad tulemuseks tõesusväärtuse \(_Boolean result_\) tagastavad alati `0`või `False` väära korral ja `1` või `True` tõese korral, kui ei ole teisiti öeldud. Oluline erand: Boole'i tehted \(Boolean operations\) `or` ja `and` tagastavad alati ühe operandidest.
+Tehted \(_operations_\) ja sisseehitatud funktsioonid mis annavad tulemuseks tõesusväärtuse \(_Boolean result_\) tagastavad alati `0`või `False` väära korral ja `1` või `True` tõese korral, kui ei ole teisiti öeldud. Oluline erand: [Boole'i tehted](../../terminid/sonastik/boolei-tehe.md) \(Boolean operations\) `or` ja `and` tagastavad alati ühe operandidest.
 
