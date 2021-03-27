@@ -69,4 +69,5 @@ False
 ## Viited
 
 * Pythoni ametlik dokumentatsioon \(inglise keeles\): [all\(iterable\)](https://docs.python.org/3/library/functions.html#all)
+* Pythoni interaktiivses interpretaatoris sisesta `help(all)`
 
