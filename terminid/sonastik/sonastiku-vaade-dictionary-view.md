@@ -6,7 +6,17 @@ description: 'objektid mida tagastavad dict.keys(), dict.values() ja dict.items(
 
 ## Üksikasjalikumalt
 
-Sõnastiku vaate objektid pakuvad \(_provide_\) sõnastiku kirjete \(_dictionary's entries_\) dünaamilist vaadet \(_dynamic view_\) mis tähendab, et kui sõnastik muutub siis vaade peegeldab neid muutusi. Sundimaks \(to force\) sõnastiku vaadet muutuma loendiks \(_list_\) kasuta `list(dictview)`
+Sõnastiku vaate objektid pakuvad \(_provide_\) sõnastiku kirjete \(_dictionary's entries_\) dünaamilist vaadet \(_dynamic view_\) mis tähendab, et kui sõnastik muutub siis vaade peegeldab neid muutusi. Sundimaks \(to force\) sõnastiku vaadet muutuma loendiks \(_list_\) kasuta `list(dictview)` 
+
+```python
+>>> d = dict(enumerate('abc', start=1))
+>>> d
+{1: 'a', 2: 'b', 3: 'c'}
+>>> keys = d.keys()
+>>> d.update({4: 'e'})
+>>> keys
+dict_keys([1, 2, 3, 4])
+```
 
 ## Viited
 
