@@ -7,7 +7,7 @@ Pythoni interpretaatoril on hulk funktsioone ja tüüpe mis on sisseehitatud ja 
 | [abs\(\)](abs.md) | delattr\(\) | hash\(\) | memoryview\(\) | set\(\) |
 | [all\(\)](all-iterable.md) | dict\(\) | help\(\) | min\(\) | setattr\(\) |
 | [any\(\)](any-iterable.md) | dir\(\) | hex\(\) | next\(\) | slice\(\) |
-| ascii\(\) | divmod\(\) | id\(\) | object\(\) | sorted\(\) |
+| [ascii\(\)](ascii-object.md) | divmod\(\) | id\(\) | object\(\) | sorted\(\) |
 | bin\(\) | enumerate\(\) | input\(\) | oct\(\) | staticmethod\(\) |
 | bool\(\) | eval\(\) | int\(\) | open\(\) | str\(\) |
 | breakpoint\(\) | exec\(\) | isinstance\(\) | ord\(\) | sum\(\) |
