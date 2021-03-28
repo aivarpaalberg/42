@@ -73,6 +73,7 @@
   * [andmed \(data\)](terminid/sonastik/andmed-data.md)
   * [andmetüüp \(datatype\)](terminid/sonastik/andmetueuep-datatype.md)
   * [argument](terminid/sonastik/argument.md)
+  * [atribuut \(attribute\)](terminid/sonastik/atribuut-attribute.md)
   * [avaldis \(expression\)](terminid/sonastik/avaldis-expression.md)
   * [Boole'i tehe](terminid/sonastik/boolei-tehe.md)
   * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
