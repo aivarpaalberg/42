@@ -8,8 +8,8 @@ Pythoni interpretaatoril on hulk funktsioone ja tüüpe mis on sisseehitatud ja 
 | [all\(\)](all-iterable.md) | dict\(\) | help\(\) | min\(\) | setattr\(\) |
 | [any\(\)](any-iterable.md) | dir\(\) | hex\(\) | next\(\) | slice\(\) |
 | [ascii\(\)](ascii-object.md) | divmod\(\) | id\(\) | object\(\) | sorted\(\) |
-| bin\(\) | enumerate\(\) | input\(\) | oct\(\) | staticmethod\(\) |
-| bool\(\) | eval\(\) | int\(\) | open\(\) | str\(\) |
+| [bin\(\)](bin-x.md) | enumerate\(\) | input\(\) | oct\(\) | staticmethod\(\) |
+| [bool\(\)](bool-x.md) | eval\(\) | int\(\) | open\(\) | str\(\) |
 | breakpoint\(\) | exec\(\) | isinstance\(\) | ord\(\) | sum\(\) |
 | bytearray\(\) | filter\(\) | issubclass\(\) | pow\(\) | super\(\) |
 | bytes\(\) | float\(\) | iter\(\) | print\(\) | tuple\(\) |
