@@ -10,7 +10,7 @@ Pythoni interpretaatoril on hulk funktsioone ja tüüpe mis on sisseehitatud ja 
 | [ascii\(\)](ascii-object.md) | divmod\(\) | id\(\) | object\(\) | sorted\(\) |
 | [bin\(\)](bin-x.md) | enumerate\(\) | input\(\) | oct\(\) | staticmethod\(\) |
 | [bool\(\)](bool-x.md) | eval\(\) | int\(\) | open\(\) | str\(\) |
-| breakpoint\(\) | exec\(\) | isinstance\(\) | ord\(\) | sum\(\) |
+| [breakpoint\(\)](breakpoint-args-kws.md) | exec\(\) | isinstance\(\) | ord\(\) | sum\(\) |
 | bytearray\(\) | filter\(\) | issubclass\(\) | pow\(\) | super\(\) |
 | bytes\(\) | float\(\) | iter\(\) | print\(\) | tuple\(\) |
 | callable\(\) | format\(\) | len\(\) | property\(\) | type\(\) |
