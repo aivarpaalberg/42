@@ -90,6 +90,7 @@
   * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
   * [parameeter \(parameter\)](terminid/sonastik/parameeter-parameter.md)
   * [sõnastik \(dictionary\)](terminid/sonastik/sonastik-dictionary.md)
+  * [sõnastiku hõlmamine \(dictionary comprehension\)](terminid/sonastik/sonastiku-holmamine-dictionary-comprehension.md)
   * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
   * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
 
