@@ -79,6 +79,7 @@
   * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
   * [klass \(class\)](terminid/sonastik/klass-class.md)
+  * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)
   * [lause \(statement\)](terminid/sonastik/lause-statement.md)
   * [literaal \(literal\)](terminid/sonastik/literaal-literal.md)
@@ -86,8 +87,9 @@
   * [muutumatu \(immutable\)](terminid/sonastik/muutumatu-immutable.md)
   * [nimi \(name\)](terminid/sonastik/nimi-name.md)
   * [objekt \(object\)](terminid/sonastik/objekt-object.md)
-  * [parameeter \(parameter\)](terminid/sonastik/parameeter-parameter.md)
   * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
+  * [parameeter \(parameter\)](terminid/sonastik/parameeter-parameter.md)
+  * [sõnastik \(dictionary\)](terminid/sonastik/sonastik-dictionary.md)
   * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
   * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
 
