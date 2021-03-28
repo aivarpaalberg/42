@@ -10,6 +10,7 @@
   * [any\(iterable\)](python/sisseehitatud-funktsioonid/any-iterable.md)
   * [ascii\(object\)](python/sisseehitatud-funktsioonid/ascii-object.md)
   * [bin\(x\)](python/sisseehitatud-funktsioonid/bin-x.md)
+  * [bool\(\[x\]\)](python/sisseehitatud-funktsioonid/bool-x.md)
 * [Sisseehitatud tüübid](python/sisseehitatud-tueuebid/README.md)
   * [Tõesuse testimine](python/sisseehitatud-tueuebid/toesuse-testimine.md)
   * [sõne \(str\)](python/sisseehitatud-tueuebid/sone-str/README.md)
