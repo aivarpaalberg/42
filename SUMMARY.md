@@ -78,6 +78,7 @@
   * [Boole'i tehe](terminid/sonastik/boolei-tehe.md)
   * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
+  * [klass \(class\)](terminid/sonastik/klass-class.md)
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)
   * [lause \(statement\)](terminid/sonastik/lause-statement.md)
   * [literaal \(literal\)](terminid/sonastik/literaal-literal.md)
