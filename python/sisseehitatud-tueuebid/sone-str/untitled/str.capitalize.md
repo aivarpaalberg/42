@@ -8,7 +8,7 @@ description: >-
 
 ## Kasutamine
 
-`str.capitalize` ei väljakutsumisel pole vaja anda sellele argumente.
+`str.capitalize` väljakutsumisel ei anta sellele argumente.
 
 ```python
 >>> 'tere maailm'.capitalize()
