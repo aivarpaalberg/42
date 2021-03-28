@@ -83,6 +83,7 @@
   * [muudetav \(mutable\)](terminid/sonastik/muudetav-mutable.md)
   * [muutumatu \(immutable\)](terminid/sonastik/muutumatu-immutable.md)
   * [nimi \(name\)](terminid/sonastik/nimi-name.md)
+  * [objekt \(object\)](terminid/sonastik/objekt-object.md)
   * [parameeter \(parameter\)](terminid/sonastik/parameeter-parameter.md)
   * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
   * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
