@@ -8,11 +8,17 @@ description: muudetavate objektide väärtus saab muutuda kuid nad säilitavad o
 
 Objektid mille väärtus võib muutuda öeldakse olevat **muudetavad** \(_mutable_\). Nende objektide väärtus võib muutuda kuid nende identiteet jääb samaks.
 
+
+
 ```python
 >>> spam = [1, 2, 3]
+>>> id(spam)
+140447132656640        # objekti identiteet konkreetses arvutis
 >>> spam.append(4)
 >>> spam
 [1, 2, 3, 4]
+>>> id(spam)
+140447132656640        # peale muutmist on identiteet sama
 ```
 
 ## Viited
