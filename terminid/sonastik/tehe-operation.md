@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-Piiritletud toiming, mille rakendamine suvalisele lubatavale teadaolevale olemite kombinatsioonile tekitab uue olemi.
+Piiritletud toiming, mille rakendamine suvalisele lubatavale teadaolevale [olemite](olem-entity.md) kombinatsioonile tekitab uue olemi.
 {% endhint %}
 
 ## Täpsemalt
