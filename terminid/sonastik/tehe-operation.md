@@ -12,7 +12,7 @@ Liitmisprotsess: `3 + 5 = 8`
 
 * `5`  ja `3`  on [operandid](operand-operand.md), 
 * `8` on [tulem](tulem-result.md) 
-* `+` on tehtemärk, mis näitab, et sooritatav tehe on liitmine.
+* `+` on [tehtemärk](tehtemaerk-operator.md), mis näitab, et sooritatav tehe on liitmine.
 
 ## Viited
 
