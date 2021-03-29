@@ -1,5 +1,9 @@
 # aatom \(atom\)
 
+## Definitsioon
+
+> aatomid on Pythoni [avaldiste](avaldis-expression.md) \(_expressions_\) algelemendid \(_most basic elements_\).
+
 {% hint style="info" %}
 aatomid on Pythoni [avaldiste](avaldis-expression.md) \(_expressions_\) algelemendid \(_most basic elements_\).
 {% endhint %}
