@@ -8,7 +8,7 @@ description: objekt mis sisaldab viiteid teistele objektidele
 
 Pythoni konteineriteks \(_container_\) on näiteks ennikud \(_tuples_\), loendid \(_lists_\) ja sõnastikud \(_dictionaries_\). 
 
-Viide on osa konteineri väärtusest. Enamasti kui me räägime konteineri väärtusest \(_value of container_\) mõtleme me väärtusi ja mitte selles sisalduvate objektide identiteete; kuid kui me räägime konteineri muudetavusest \(_mutability of container_\) siis mõeldakse konteineris vahetult sisalduvate objektide identiteete. Seega kui [muutumatu](muutumatu-immutable.md) konteiner \(_immutable container_\) nagu näiteks ennik \(_tuple_\) sisaldab viidet \(_reference_\) [muudetavale](muudetav-mutable.md) objektile siis enniku \(_tuple_\) väärtus muutub kui viidatud muudetav objekt muutub:
+Viide on osa konteineri väärtusest. Enamasti kui me räägime konteineri väärtusest \(_value of container_\) mõtleme me väärtusi ja mitte selles sisalduvate objektide [identiteete](identiteet-identity.md); kuid kui me räägime konteineri muudetavusest \(_mutability of container_\) siis mõeldakse konteineris vahetult sisalduvate objektide identiteete. Seega kui [muutumatu](muutumatu-immutable.md) konteiner \(_immutable container_\) nagu näiteks ennik \(_tuple_\) sisaldab viidet \(_reference_\) [muudetavale](muudetav-mutable.md) objektile siis enniku \(_tuple_\) väärtus muutub kui viidatud muudetav objekt muutub:
 
 ```python
 >>> spam = ([1, 2, 3], [4, 5, 6])  # muutumatu konteiner ennik (tuple)
