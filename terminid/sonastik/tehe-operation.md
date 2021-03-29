@@ -8,7 +8,7 @@ Piiritletud toiming, mille rakendamine suvalisele lubatavale teadaolevale olemit
 
 ## Täpsemalt
 
-Tehe `3 + 5 = 8` 
+Liitmisprotsess: `3 + 5 = 8` 
 
 * `5`  ja `3`  on operandid, 
 * `8` on tulem 
