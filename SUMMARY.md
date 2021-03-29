@@ -89,6 +89,7 @@
   * [nimi \(name\)](terminid/sonastik/nimi-name.md)
   * [objekt \(object\)](terminid/sonastik/objekt-object.md)
   * [olem \(entity\)](terminid/sonastik/olem-entity.md)
+  * [operand \(operand\)](terminid/sonastik/operand-operand.md)
   * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
   * [parameeter \(parameter\)](terminid/sonastik/parameeter-parameter.md)
   * [sõnastik \(dictionary\)](terminid/sonastik/sonastik-dictionary.md)
