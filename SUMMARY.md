@@ -96,6 +96,7 @@
   * [sõnastiku hõlmamine \(dictionary comprehension\)](terminid/sonastik/sonastiku-holmamine-dictionary-comprehension.md)
   * [sõnastiku vaade \(dictionary view\)](terminid/sonastik/sonastiku-vaade-dictionary-view.md)
   * [tehe \(operation\)](terminid/sonastik/tehe-operation.md)
+  * [tehtemärk \(operator\)](terminid/sonastik/tehtemaerk-operator.md)
   * [tulem \(result\)](terminid/sonastik/tulem-result.md)
   * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
   * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
