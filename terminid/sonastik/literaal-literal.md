@@ -8,7 +8,7 @@ description: >-
 
 ## Üksikasjalikumalt
 
-Teisiti öeldes on literaal väärtus mis on kirjutatud nii nagu seda interpreteeritakse programmi poolt s.t literaali väärtust ei ole vaja arvutada; tegu on objektiga mille väärtus ei sõltu teiste muutujate \(objektide\) väärtustest ja nende muutumistest ning mis ei sisalda tehet.
+Teisiti öeldes on literaal väärtus mis on kirjutatud nii nagu seda interpreteeritakse programmi poolt s.t literaali väärtust ei ole vaja arvutada; tegu on [objektiga](objekt-object.md) mille väärtus ei sõltu teiste muutujate \(objektide\) väärtustest ja nende muutumistest ning mis ei sisalda tehet.
 
 Python toetab [sõne](../../python/sisseehitatud-tueuebid/sone-str/) \(_str_\) ja baidi \(_bytes_\) literaale ning mitmeid numbri \(_numeric_\) literaale:
 
@@ -18,7 +18,7 @@ literal ::= stringliterals | bytesliterals | integer | floatnumber | imagnumber
 
 Literaali hindamine \(_evaluation_\) annab \(_yields_\) antud tüüpi objekti \([sõne](../../python/sisseehitatud-tueuebid/sone-str/), baidid, täisarv, ujukomaarv, kompleksarv\) selle väärtusega. Väärtus võib olla ligikaudne ujukomaarvude ja imaginaararvude \(kompleksarvude\) puhul.
 
-Kõik Pythoni literaalid on muutumatud \(_immutable_\) mistõttu objekti identiteet on vähem tähtis kui selle väärtus. Sama väärtusega literaalide mitmekordsed hindamised \(evaluations\) võivad saada \(_obtain_\) sama objekti või teise objekti sama väärtusega.
+Kõik Pythoni literaalid on [muutumatud](muutumatu-immutable.md) \(_immutable_\) mistõttu objekti [identiteet](identiteet-identity.md) on vähem tähtis kui selle väärtus. Sama väärtusega literaalide mitmekordsed hindamised \(evaluations\) võivad saada \(_obtain_\) sama objekti või teise objekti sama väärtusega.
 
 Literaalide näited:
 
