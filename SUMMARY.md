@@ -77,6 +77,7 @@
   * [avaldis \(expression\)](terminid/sonastik/avaldis-expression.md)
   * [Boole'i tehe](terminid/sonastik/boolei-tehe.md)
   * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
+  * [identiteet \(identity\)](terminid/sonastik/identiteet-identity.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
   * [klass \(class\)](terminid/sonastik/klass-class.md)
   * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
