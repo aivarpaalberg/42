@@ -18,6 +18,11 @@ enclosure ::= parenth_form | list_display | dict_display | set_display
 
 ## Viited
 
-* [The Python Language Reference &gt;&gt;&gt; 6. Expressions &gt;&gt;&gt; 6.2. Atoms](https://docs.python.org/3/reference/expressions.html#atoms)
+Pythoni ametlik dokumentatsioon \(inglise keeles\):
+
+* The Python Language Reference &gt; 6. Expressions &gt; [6.2. Atoms](https://docs.python.org/3/reference/expressions.html#atoms)
+
+Termin:
+
 * [avaldis \(expression\)](avaldis-expression.md)
 
