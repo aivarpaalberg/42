@@ -1,12 +1,10 @@
----
-description: >-
-  informatsiooni taastõlgendatav esitus formaliseeritud kujul, mis sobib
-  edastuseks, tõlgenduseks või töötluseks.
----
-
 # andmed \(data\)
 
-## Üksikasjalikumalt
+## Tähendus
+
+{% hint style="info" %}
+informatsiooni taastõlgendatav esitus formaliseeritud kujul, mis sobib edastuseks, tõlgenduseks või töötluseks.
+{% endhint %}
 
 ### Viited
 
