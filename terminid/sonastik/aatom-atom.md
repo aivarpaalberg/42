@@ -2,11 +2,11 @@
 
 ## Tähendus
 
-> aatomid on Pythoni [avaldiste](avaldis-expression.md) \(_expressions_\) algelemendid \(_most basic elements_\).
-
 {% hint style="info" %}
 aatomid on Pythoni [avaldiste](avaldis-expression.md) \(_expressions_\) algelemendid \(_most basic elements_\).
 {% endhint %}
+
+## Täpsemalt
 
 Kõige lihtsamad aatomid on [identifikaatorid](https://notebooks.azure.com/perfringo/projects/python/html/terminid/identifikaator.ipynb) \(identifiers\) või [literaalid](literaal-literal.md) \(literals\). Sulgudes \(`( )` _parentheses_\), nurksulgudes \(`[ ]` _brackets_\) ja loogelistes sulgudes \(`{ }` _braces_\) olevaid vorme liigitatakse \(_categorized_\) süntaktilisteks aatomiteks.
 
