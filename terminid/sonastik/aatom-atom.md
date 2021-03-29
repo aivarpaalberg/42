@@ -1,6 +1,6 @@
 # aatom \(atom\)
 
-## Definitsioon
+## Tähendus
 
 > aatomid on Pythoni [avaldiste](avaldis-expression.md) \(_expressions_\) algelemendid \(_most basic elements_\).
 
