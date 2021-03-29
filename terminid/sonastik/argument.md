@@ -9,7 +9,7 @@ description: väärtus mis edastatakse funktsioonile (või meetodile) seda välj
 Argumente on kahte liiki:
 
 * **võtmesõna argument** \(_keyword argument_\)- argumendid millele eelneb identifikaator \(`nimi=`\) funktsiooni väljakutses või edastatakse \(_passed_\) kui väärtus sõnastikus \(_dict_\) millele eelneb `**`. 
-* **kohaargument** \(_positional argument_\) - argumendid mis ei ole võtmesõna argumendid on kohaargumendid. Kohaargumendid võivad ilmuda \(_appear_\) argumnetide loendi alguses või edastatakse itereeritava liikmetena millele eelneb `*`. 
+* **kohaargument** \(_positional argument_\) - argumendid mis ei ole võtmesõna argumendid on kohaargumendid. Kohaargumendid võivad ilmuda \(_appear_\) argumentide loendi alguses või edastatakse itereeritava elementidena millele eelneb `*`. 
 
 Argumendid omistatakse \(_assigned_\) nimetatud lokaalsetele muutujatele \(_local variables_\) funtsiooni kehas \(_body_\)
 
