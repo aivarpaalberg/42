@@ -2,7 +2,7 @@
 
 Iga objekti tõesust saab testida ja seda saab kasutada _if_ või _for_ tingimuses või operandina Boole'i tehetes
 
-Objekti loetakse vaikimisi tõeseks \(_true_\).
+[Objekti](../../terminid/sonastik/objekt-object.md) loetakse vaikimisi tõeseks \(_true_\).
 
 Sisseehitatud objektid mida tõesuse testimisel loetakse vääraks \(_false_\):
 
