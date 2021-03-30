@@ -1,13 +1,12 @@
----
-description: >-
-  andmete (data) ettemääratud struktuuriga andmeobjektide (data object)
-  piiritletud hulk koos neid objekte (objects) operandidena kasutatada lubavate
-  tehete hulgaga.
----
-
 # andmetüüp \(datatype\)
 
-## Üksikasjalikumalt
+## Tähendus
+
+{% hint style="info" %}
+[andmete](andmed-data.md) \(_data_\) ettemääratud struktuuriga andmeobjektide \(data object\) piiritletud hulk koos neid [objekte](objekt-object.md) \(objects\) [operandidena](operand-operand.md) kasutatada lubavate [tehete](tehe-operation.md) hulgaga.
+{% endhint %}
+
+## Täpsemalt
 
 Andmetüüp - täisarv \(_int_\), tehted - aritmeetikatehted täisarvudega 
 
