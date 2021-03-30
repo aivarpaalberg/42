@@ -1,10 +1,12 @@
----
-description: väärtus mis edastatakse funktsioonile (või meetodile) seda välja kutsudes
----
-
 # argument
 
-## Üksikasjalikumalt
+## Tähendus
+
+{% hint style="info" %}
+väärtus mis edastatakse [funktsioonile](funktsioon-function.md) \(või [meetodile](meetod-method.md)\) seda välja kutsudes
+{% endhint %}
+
+## Täpsemalt
 
 Argumente on kahte liiki:
 
@@ -47,5 +49,7 @@ summa(*andmed)   # nimega itereeritavaga
 
 ### Viited
 
-* Pythoni ametlik dokumentatsioon \(inglise keeles\): [argument](https://docs.python.org/3/glossary.html#term-argument)
+Pythoni ametlik dokumentatsioon \(inglise keeles\):
+
+* Documentation &gt; Glossary &gt; [argument](https://docs.python.org/3/glossary.html#term-argument)
 
