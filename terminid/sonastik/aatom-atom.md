@@ -22,7 +22,3 @@ Pythoni ametlik dokumentatsioon \(inglise keeles\):
 
 * The Python Language Reference &gt; 6. Expressions &gt; [6.2. Atoms](https://docs.python.org/3/reference/expressions.html#atoms)
 
-Termin:
-
-* [avaldis \(expression\)](avaldis-expression.md)
-
