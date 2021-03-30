@@ -90,6 +90,7 @@
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)
   * [lause \(statement\)](terminid/sonastik/lause-statement.md)
   * [literaal \(literal\)](terminid/sonastik/literaal-literal.md)
+  * [loend \(list\)](terminid/sonastik/loend-list.md)
   * [meetod \(method\)](terminid/sonastik/meetod-method.md)
   * [muudetav \(mutable\)](terminid/sonastik/muudetav-mutable.md)
   * [muutumatu \(immutable\)](terminid/sonastik/muutumatu-immutable.md)
