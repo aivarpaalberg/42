@@ -78,6 +78,8 @@
   * [Boole'i tehe](terminid/sonastik/boolei-tehe.md)
   * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
   * [identiteet \(identity\)](terminid/sonastik/identiteet-identity.md)
+  * [itereeritav \(iterable\)](terminid/sonastik/itereeritav-iterable.md)
+  * [Untitled](terminid/sonastik/untitled.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
   * [klass \(class\)](terminid/sonastik/klass-class.md)
   * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
