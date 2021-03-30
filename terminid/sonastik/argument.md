@@ -1,4 +1,4 @@
-# argument
+# argument \(argument\)
 
 ## Tähendus
 

@@ -1,12 +1,14 @@
----
-description: seeria lauseid (statements) mis tagastavad väljakutsujale mingi väärtuse.
----
-
 # funktsioon \(function\)
 
-## Üksikasjalikumalt
+## Tähendus
 
-Funktsioonile saab edastada \(_pass_\) null või rohkem argumenti \(_argument_\) mida võidakse kasutada [täitmisel](taeitmine-execution.md) \(_execution_\).
+{% hint style="info" %}
+seeria [lauseid](lause-statement.md) \(statements\) mis tagastavad väljakutsujale mingi väärtuse.
+{% endhint %}
+
+## Täpsemalt
+
+Funktsioonile saab edastada \(_pass_\) null või rohkem [argumenti](argument.md) \(_argument_\) mida võidakse kasutada [täitmisel](taeitmine-execution.md) \(_execution_\).
 
 ### Viited
 
