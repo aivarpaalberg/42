@@ -1,14 +1,14 @@
----
-description: >-
-  väärtus mis on seotud objektiga ja millele viidatakse nimega kasutades
-  punktiga avaldisi.
----
-
 # atribuut \(attribute\)
 
-## Üksikasjalikumalt
+## Tähendus
 
-Kui objektil o on atribuut a siis viidataks sellele kui o.a
+{% hint style="info" %}
+väärtus mis on seotud [objektiga](objekt-object.md) ja millele viidatakse nimega kasutades punktiga [avaldisi](avaldis-expression.md) \(_expressions_\).
+{% endhint %}
+
+## Täpsemalt
+
+Kui [objektil](objekt-object.md) o on atribuut a siis viidataks sellele kui o.a
 
 ## Viited
 

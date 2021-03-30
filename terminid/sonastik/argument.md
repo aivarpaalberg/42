@@ -47,6 +47,8 @@ andmed = (4, 2)
 summa(*andmed)   # nimega itereeritavaga
 ```
 
+Vaata ka [parameeter](parameeter-parameter.md) \(parameter\)
+
 ### Viited
 
 Pythoni ametlik dokumentatsioon \(inglise keeles\):
