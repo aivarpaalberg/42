@@ -26,5 +26,5 @@ Pythoni ametlik dokumentatsioon \(inglise keeles\):
 
 [ EVS-ISO/IEC 2382-15:2001](https://www.evs.ee/et/evs-iso-iec-2382-15-2001) _Infotehnoloogia. Sõnastik. Osa 15: Programmikeeled_
 
-* [avaldis](http://www.eki.ee/dict/its/index.cgi?Q=D357F4D0-6C03-1014-88DC-FC5F0DBED45A&F=GUID&C01=1&C02=0&C10=1) \(EVS-ISO/IEC 2382-15:2001 termin\)
+* [avaldis](http://www.eki.ee/dict/its/index.cgi?Q=D357F4D0-6C03-1014-88DC-FC5F0DBED45A&F=GUID&C01=1&C02=0&C10=1) 
 
