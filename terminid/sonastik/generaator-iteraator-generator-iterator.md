@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[Objekt](objekt-object.md) mis on loodud [generaator](generaator-generator.md) funktsiooniga
+[objekt](objekt-object.md) mis on loodud [generaator](generaator-generator.md) funktsiooniga
 {% endhint %}
 
 ## Täpsemalt
