@@ -8,11 +8,30 @@ kompaktne viis käitlemaks \(_to process_\) kõiki või osasid [itereeritava](it
 
 ## Täpsemalt 
 
-[Itereeritava](itereeritav-iterable.md) kõikide elementide käitlemine ja [loendi](loend-list.md) tagastamine: `anna mulle Unicode koodipunkt iga tähe kohta sõnes` 
+[Itereeritava](itereeritav-iterable.md) kõikide elementide käitlemine ja [loendi](loend-list.md) tagastamine: `anna mulle Unicode koodipunkt iga märgi kohta sõnes` 
 
 ```python
 >>> [ord(char) for char in 'abc']
 [97, 98, 99]
+```
+
+Loendi hõlmamise süntaks võib esialgu tunduda arusaamatu, kuna element mis mida käideldakse ja millest saab uue loodava loendi \(_list_\) element on enne `for` silmust \(_loop_\). Samas on see tegelikult lihtne nagu on näha järgnevast skeemist:
+
+```bash
+     mis sa      kuskohast sa                     
+      saad        selle saad                  
+       │              │
+  ╭────┴────╮╭────────┴────────╮
+  
+ [ ord(char)  for char in 'abc' ]
+  
+  ╰────┬────╯╰────────┬────────╯ 
+       │              │          
+                                
+   anna mulle    iga märgi kohta                  │
+    Unicode         sõnes      
+   koodipunkt
+
 ```
 
 Itereeritava osade elementide käitlemine ja loendi tagastamine: `anna mulle arvu ruut iga arvu kohta ennikus mis on paarisarv`
