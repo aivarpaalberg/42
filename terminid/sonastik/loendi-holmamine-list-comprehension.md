@@ -41,6 +41,24 @@ Itereeritava osade elementide käitlemine ja loendi tagastamine: `anna mulle arv
 [36, 64]
 ```
 
+Siin on süntaks pikem kui põhimõte jääb samaks:
+
+```python
+  mis sa      kuskohast sa         mis tingimusel sa            
+   saad        selle saad            selle saad      
+     │               │                    │     
+  ╭──┴──╮╭───────────┴────────────╮╭──────┴──────╮
+  
+ [ i * i  for i in (3, 5, 6, 7, 8)  if i % 2 == 0 ]
+  
+  ╰──┬──╯╰────────────┬───────────╯╰──────┬──────╯
+     │                │                   │   
+                                
+   anna mulle   iga täisarvu kohta      mis on             │
+   arvu ruut       ennikus            paarisarv 
+
+```
+
 Vaata ka [sõnastiku hõlmamine](sonastiku-holmamine-dictionary-comprehension.md) \(_dictionary comprehension_\)
 
 ## Viited
