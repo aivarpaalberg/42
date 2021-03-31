@@ -15,7 +15,7 @@ kompaktne viis käitlemaks \(_to process_\) kõiki või osasid [itereeritava](it
 [97, 98, 99]
 ```
 
-Loendi hõlmamise süntaks võib esialgu tunduda arusaamatu, kuna element mis mida käideldakse ja millest saab uue loodava loendi \(_list_\) element on enne `for` silmust \(_loop_\). Samas on see tegelikult lihtne nagu on näha järgnevast skeemist:
+Loendi hõlmamise süntaks võib esialgu tunduda arusaamatu, kuna element millest peale käitlemist saab  uue loodava loendi \(_list_\) element on enne `for` silmust \(_loop_\). Samas on see tegelikult lihtne nagu on näha järgnevast skeemist:
 
 ```bash
      mis sa      kuskohast sa                     
