@@ -101,6 +101,7 @@
   * [operand \(operand\)](terminid/sonastik/operand-operand.md)
   * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
   * [parameeter \(parameter\)](terminid/sonastik/parameeter-parameter.md)
+  * [Pythoni Zen \(Zen of Python\)](terminid/sonastik/pythoni-zen-zen-of-python.md)
   * [sõnastik \(dictionary\)](terminid/sonastik/sonastik-dictionary.md)
   * [sõnastiku hõlmamine \(dictionary comprehension\)](terminid/sonastik/sonastiku-holmamine-dictionary-comprehension.md)
   * [sõnastiku vaade \(dictionary view\)](terminid/sonastik/sonastiku-vaade-dictionary-view.md)
