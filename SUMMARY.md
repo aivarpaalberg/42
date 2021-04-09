@@ -88,6 +88,7 @@
   * [klass \(class\)](terminid/sonastik/klass-class.md)
   * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)
+  * [lambda \(lambda\)](terminid/sonastik/lambda-lambda.md)
   * [lause \(statement\)](terminid/sonastik/lause-statement.md)
   * [literaal \(literal\)](terminid/sonastik/literaal-literal.md)
   * [loend \(list\)](terminid/sonastik/loend-list.md)
