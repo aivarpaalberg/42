@@ -12,6 +12,8 @@ Lambda funktsiooni loomise süntaks on: `lambda [parameetrid]: avaldis`
 
 Sünktaktiliselt \(_syntactically_\) on `lambda` funktsioon piiratud \(_restricted_\) ainsa avaldisega \(_single expression_\). Semantiliselt \(_semantically_\) on see aga vaid tavalise funktsiooni defineerimise süntaktiline suhkur \(_synctactic suger_\). Nii nagu pesastatult defineeritud funktsioonid \(_nested function definitions_\) saavad ka lambda funktsioonid viidata \(_reference_\) muutujaid \(_variables_\) sisalduvast käsitlusalast \(_containing scope_\).
 
+
+
 ## Viited
 
 Pythoni ametlik dokumentatsioon \(inglise keeles\):
