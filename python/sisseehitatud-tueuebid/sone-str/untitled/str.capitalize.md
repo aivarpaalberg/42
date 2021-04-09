@@ -22,7 +22,7 @@ description: >-
 'Tere maailm'
 ```
 
-Tasub silmas pidada, et kui sõne \(str\) sisaldab nime vms sõna mis peab olema kirjutatud suure tähega siis antud meetod annab soovimatu tulemuse:
+Tasub silmas pidada, et kui sõne \(_str_\) sisaldab nime vms sõna mis peab olema kirjutatud suure tähega siis antud meetod annab soovimatu tulemuse:
 
 ```python
 >>> 'Suure-Jaani linn'.capitalize()

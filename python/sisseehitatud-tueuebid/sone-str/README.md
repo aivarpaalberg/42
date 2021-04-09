@@ -12,6 +12,17 @@ Sõne \(_string_\) [literaale](../../../terminid/sonastik/literaal-literal.md) \
 * kahe ülakomaga jutumärgiga \(_double quotes_\): `"võimaldab sõnes kasutada 'ülakomaga' jutumärki"`
 * jutumärgid kolmekordselt \(_triple quoted_\): `'''kolm ülakomaga jutumärki'''`, `"""kolm kahe ülakomaga jutumärki"""`
 
+Ülakomaga jutumärgiga \(_single quotes_\) sõnedes saab kasutada kasutada ülakoma ja kahe ülakomaga jutumärgiga \(_double quotes_\) saab kasutada kahte ülekoma kui kasutada märgi ees paomärki \(_escape character_\) `\` :
+
+```python
+>>> s = 'sõnes võib kasutada \'ühte ülakoma\' kasutades paomärki'
+>>> s
+"sõnes võib kasutada 'ühte ülakoma' kasutades paomärki"
+>>> s = "sõnes võib kasutada \"kahte ülakoma\" kasutades paomärki"
+>>> s
+'sõnes võib kasutada "kahte ülakoma" kasutades paomärki'
+```
+
 Kolmekordsetes jutumärkides sõned võivad ulatuda üle mitme rea ning säilivad kõik sõnes esinevad mitteväljastatavad märgid \(tühikud, reavahetused jms\).
 
 ```python
@@ -40,5 +51,5 @@ True
 
 Sõnesid \(_strings_\) saab luua ka teistest objektidest kasutades str konstuktorit.
 
-Ei ole olemas muudetavat \(mutable\) sõne tüüpi kuid [str.join\(\)](untitled/str.join.md) ja io.StringIO\(\) saab efektiivselt kasutada erinevate sõnede konstrueerimiseks üheks sõneks.
+Ei ole olemas [muudetavat](../../../terminid/sonastik/muudetav-mutable.md) \(_mutable_\) sõne tüüpi kuid [str.join\(\)](untitled/str.join.md) ja io.StringIO\(\) saab efektiivselt kasutada erinevate sõnede konstrueerimiseks üheks sõneks.
 

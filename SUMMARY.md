@@ -110,4 +110,5 @@
   * [tulem \(result\)](terminid/sonastik/tulem-result.md)
   * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
   * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
+  * [võtme funktsioon \(key function\)](terminid/sonastik/votme-funktsioon-key-function.md)
 
