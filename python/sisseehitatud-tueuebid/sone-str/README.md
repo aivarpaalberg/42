@@ -10,6 +10,8 @@ description: 'Teksti jada tüüp (Text Sequence Type), Pythoni sisseehitatud and
 Pythonis on sõne \(_str_\) teksti jada tüüp \(_text sequence type_\) üks sisemistest \(_built-in_\) [andmetüüpidest](../../../terminid/sonastik/andmetueuep-datatype.md) \(_datatypes_\). 
 {% endhint %}
 
+Informaatikas on sõne \(_string_\) defineeritud kui tervikuna käsitletav samalaadsete elementide, näiteks [märkide](../../../terminid/sonastik/maerk-character.md), [jada](../../../terminid/sonastik/jada-sequence.md) \(_sequence_\)
+
 ## Täpsemalt
 
 Tekstilisi andmeid käsitsetakse \(_handled_\) Pythonis `str` objektidega ehk sõnedega \(_string_\). Sõned \(_strings_\) on Unicode koodipunktide **muutumatud** \(immutable\) **jadad** \(sequences\).
@@ -57,7 +59,7 @@ Sõne [literaalid](../../../terminid/sonastik/literaal-literal.md) \(_literals_\
 True
 ```
 
-Sõnesid \(_strings_\) saab luua ka teistest objektidest kasutades str konstuktorit.
+Sõnesid \(_strings_\) saab luua ka teistest objektidest kasutades `str` konstuktorit.
 
-Ei ole olemas [muudetavat](../../../terminid/sonastik/muudetav-mutable.md) \(_mutable_\) sõne tüüpi kuid [str.join\(\)](untitled/str.join.md) ja io.StringIO\(\) saab efektiivselt kasutada erinevate sõnede konstrueerimiseks üheks sõneks.
+Pythonis ei ole olemas [muudetavat](../../../terminid/sonastik/muudetav-mutable.md) \(_mutable_\) sõne tüüpi kuid [str.join\(\)](untitled/str.join.md) ja io.StringIO\(\) saab efektiivselt kasutada erinevate sõnede konstrueerimiseks üheks sõneks.
 
