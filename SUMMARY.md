@@ -128,6 +128,7 @@
   * [tehe \(operation\)](terminid/sonastik/tehe-operation.md)
   * [tehtemärk \(operator\)](terminid/sonastik/tehtemaerk-operator.md)
   * [tulem \(result\)](terminid/sonastik/tulem-result.md)
+  * [täht \(letter\)](terminid/sonastik/taeht-letter.md)
   * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
   * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
   * [võtme funktsioon \(key function\)](terminid/sonastik/votme-funktsioon-key-function.md)
