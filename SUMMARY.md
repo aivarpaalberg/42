@@ -120,6 +120,7 @@
   * [sõnastik \(dictionary\)](terminid/sonastik/sonastik-dictionary.md)
   * [sõnastiku hõlmamine \(dictionary comprehension\)](terminid/sonastik/sonastiku-holmamine-dictionary-comprehension.md)
   * [sõnastiku vaade \(dictionary view\)](terminid/sonastik/sonastiku-vaade-dictionary-view.md)
+  * [sümbol \(symbol\)](terminid/sonastik/suembol-symbol.md)
   * [tehe \(operation\)](terminid/sonastik/tehe-operation.md)
   * [tehtemärk \(operator\)](terminid/sonastik/tehtemaerk-operator.md)
   * [tulem \(result\)](terminid/sonastik/tulem-result.md)
