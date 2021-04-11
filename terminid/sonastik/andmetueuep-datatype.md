@@ -15,7 +15,9 @@ Andmetüüp - täisarv \(_int_\), tehted - aritmeetikatehted täisarvudega
 ```python
 >>> 42        # andmetüüp täisarv (int)
 >>> 4 + 2     # kahe täisarvu liitmistehe
+6
 >>> 4 * 2     # kahe täiarvu korrutamistehe
+8
 ```
 
 ## Viited
