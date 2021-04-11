@@ -4,7 +4,7 @@
 
 ## Python
 
-* [Sisseehitatud funktsioonid](python/sisseehitatud-funktsioonid/README.md)
+* [Sisemised funktsioonid](python/sisseehitatud-funktsioonid/README.md)
   * [abs\(\)](python/sisseehitatud-funktsioonid/abs.md)
   * [all\(iterable\)](python/sisseehitatud-funktsioonid/all-iterable.md)
   * [any\(iterable\)](python/sisseehitatud-funktsioonid/any-iterable.md)
@@ -13,7 +13,7 @@
   * [bool\(\[x\]\)](python/sisseehitatud-funktsioonid/bool-x.md)
   * [breakpoint\(\*args, \*\*kws\)](python/sisseehitatud-funktsioonid/breakpoint-args-kws.md)
   * [bytearray\(\[source\[, encoding\[, errors\]\]\]\)](python/sisseehitatud-funktsioonid/bytearray-source-encoding-errors.md)
-* [Sisseehitatud tüübid](python/sisseehitatud-tueuebid/README.md)
+* [Sisemised tüübid](python/sisseehitatud-tueuebid/README.md)
   * [Tõesuse testimine](python/sisseehitatud-tueuebid/toesuse-testimine.md)
   * [sõne \(str\)](python/sisseehitatud-tueuebid/sone-str/README.md)
     * [sõne \(str\) meetodid](python/sisseehitatud-tueuebid/sone-str/untitled/README.md)

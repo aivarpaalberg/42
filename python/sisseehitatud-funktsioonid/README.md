@@ -1,4 +1,4 @@
-# Sisseehitatud funktsioonid
+# Sisemised funktsioonid
 
 Pythoni interpretaatoril on hulk funktsioone ja tüüpe mis on sisseehitatud ja alati saadaval.
 

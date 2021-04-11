@@ -1,2 +1,2 @@
-# Sisseehitatud tüübid
+# Sisemised tüübid
 
