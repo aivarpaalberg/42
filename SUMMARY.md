@@ -127,6 +127,7 @@
   * [sümbol \(symbol\)](terminid/sonastik/suembol-symbol.md)
   * [tehe \(operation\)](terminid/sonastik/tehe-operation.md)
   * [tehtemärk \(operator\)](terminid/sonastik/tehtemaerk-operator.md)
+  * [tehiskeel \(artificial language\)](terminid/sonastik/tehiskeel-artificial-language.md)
   * [tulem \(result\)](terminid/sonastik/tulem-result.md)
   * [täht \(letter\)](terminid/sonastik/taeht-letter.md)
   * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
