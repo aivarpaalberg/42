@@ -108,6 +108,7 @@
   * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
   * [pakett \(package\)](terminid/sonastik/pakett-package.md)
   * [parameeter \(parameter\)](terminid/sonastik/parameeter-parameter.md)
+  * [protsess \(process\)](terminid/sonastik/protsess-process.md)
   * [Pythoni Zen \(Zen of Python\)](terminid/sonastik/pythoni-zen-zen-of-python.md)
   * [rekursioon \(recursion\)](terminid/sonastik/rekursioon-recursion.md)
   * [sõnastik \(dictionary\)](terminid/sonastik/sonastik-dictionary.md)
