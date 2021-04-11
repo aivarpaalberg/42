@@ -1,14 +1,14 @@
----
-description: >-
-  andmed millel on olek (atribuudid või väärtus) ja defineeritud käitumine
-  (meetodid)
----
-
 # objekt \(object\)
 
-## Üksikasjalikumalt
+## Tähendus
 
-Objektid on Pythoni andmete abstraktsioon. Kõik andmed \(_data_\) Pythoni programmis on esitatud objektidena \(_objects_\) või suhetena objektide vahel \(_relations between objects_\)
+{% hint style="info" %}
+[andmed](andmed-data.md) millel on olek \([atribuudid](atribuut-attribute.md) või väärtus\) ja defineeritud käitumine \([meetodid](meetod-method.md)\)
+{% endhint %}
+
+## Täpsemalt
+
+Objektid on Pythoni [andmete](andmed-data.md) abstraktsioon. Kõik andmed \(_data_\) Pythoni programmis on esitatud objektidena \(_objects_\) või suhetena objektide vahel \(_relations between objects_\)
 
 Igal objektil on identiteet \(_identity_\), tüüp \(_type_\) ja väärtus \(_value_\) 
 
