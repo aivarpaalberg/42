@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-aatomid on Pythoni [avaldiste](avaldis-expression.md) \(_expressions_\) algelemendid \(_most basic elements_\).
+aatomid on Pythoni [avaldiste](avaldis-expression.md) \(_expressions_\) elementaarüksused \(_most basic elements_\).
 {% endhint %}
 
 ## Täpsemalt
