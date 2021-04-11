@@ -3,7 +3,7 @@
 ## Definitsioon
 
 {% hint style="info" %}
-Garanteeritult unikaalne ja konstantne väärtus mis ei muutu [objekti ](objekt-object.md)eluea jooksul
+garanteeritult unikaalne ja konstantne väärtus mis ei muutu [objekti ](objekt-object.md)eluea jooksul
 {% endhint %}
 
 ## Täpsemalt
