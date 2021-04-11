@@ -8,7 +8,7 @@ aatomid on Pythoni [avaldiste](avaldis-expression.md) \(_expressions_\) elementa
 
 ## Täpsemalt
 
-Kõige lihtsamad aatomid on [identifikaatorid](https://notebooks.azure.com/perfringo/projects/python/html/terminid/identifikaator.ipynb) \(identifiers\) või [literaalid](literaal-literal.md) \(literals\). Sulgudes \(`( )` _parentheses_\), nurksulgudes \(`[ ]` _brackets_\) ja loogelistes sulgudes \(`{ }` _braces_\) olevaid vorme liigitatakse \(_categorized_\) süntaktilisteks aatomiteks.
+Kõige lihtsamad aatomid on identifikaatorid \(_identifiers_\) või [literaalid](literaal-literal.md) \(_literals_\). Sulgudes \(`( )` _parentheses_\), nurksulgudes \(`[ ]` _brackets_\) ja loogelistes sulgudes \(`{ }` _braces_\) olevaid vorme liigitatakse \(_categorized_\) süntaktilisteks aatomiteks.
 
 ```python
 atom      ::= identifier | literal | enclosure
