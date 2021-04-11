@@ -91,6 +91,7 @@
   * [itereeritav \(iterable\)](terminid/sonastik/itereeritav-iterable.md)
   * [jada \(sequence\)](terminid/sonastik/jada-sequence.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
+  * [keel \(language\)](terminid/sonastik/keel-language.md)
   * [keeletarind \(language construct\)](terminid/sonastik/keeletarind-language-construct.md)
   * [klass \(class\)](terminid/sonastik/klass-class.md)
   * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
