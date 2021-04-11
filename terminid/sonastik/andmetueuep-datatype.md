@@ -8,6 +8,8 @@
 
 ## Täpsemalt
 
+Andmetüübi \(_datatype_\) asemel võib kasutada \(ja kasutataksegi\) terminit tüüp \(_type_\), kui sellega ei kaasne mitmetähenduslikkus.
+
 Andmetüüp - täisarv \(_int_\), tehted - aritmeetikatehted täisarvudega 
 
 ```python
