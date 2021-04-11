@@ -6,7 +6,7 @@
 [keel](keel-language.md) \(_language_\), mille reeglid põhinevad käibival kasutusel, olemata spetsiaalselt ette kirjutatud.
 {% endhint %}
 
-Vaata ka [tehiskeel \(artificial language\)](tehiskeel-artificial-language.md)
+Vaata ka [tehiskeel \(artificial language\)](tehiskeel-artificial-language.md), [programmeerimiskeel \(programming language\)](programmeerimiskeel-programming-language.md)
 
 ## Viide
 
