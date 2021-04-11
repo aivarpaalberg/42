@@ -85,6 +85,7 @@
   * [harilik pakett \(regular package\)](terminid/sonastik/harilik-pakett-regular-package.md)
   * [identiteet \(identity\)](terminid/sonastik/identiteet-identity.md)
   * [importimine \(importing\)](terminid/sonastik/importimine-importing.md)
+  * [informatsioon \(information\)](terminid/sonastik/informatsioon-information.md)
   * [iteraator \(iterator\)](terminid/sonastik/iteraator-iterator.md)
   * [itereeritav \(iterable\)](terminid/sonastik/itereeritav-iterable.md)
   * [jada \(sequence\)](terminid/sonastik/jada-sequence.md)
