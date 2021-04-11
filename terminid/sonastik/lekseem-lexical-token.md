@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[Programmikeele](programmeerimiskeel-programming-language.md) \(_programming language_\) alfabeedi ühest või mitmest märgist \(_character_\) koosnev string, mis kokkuleppeliselt esitab mingit tähenduse elementaarüksust.
+[Programmikeele](programmeerimiskeel-programming-language.md) \(_programming language_\) alfabeedi ühest või mitmest [märgist](maerk-character.md) \(_character_\) koosnev string, mis kokkuleppeliselt esitab mingit tähenduse elementaarüksust.
 {% endhint %}
 
 ## Täpsemalt
