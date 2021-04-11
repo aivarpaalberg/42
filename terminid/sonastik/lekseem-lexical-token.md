@@ -6,6 +6,10 @@
 [Programmikeele](programmeerimiskeel-programming-language.md) \(_programming language_\) alfabeedi ühest või mitmest märgist \(_character_\) koosnev string, mis kokkuleppeliselt esitab mingit tähenduse elementaarüksust.
 {% endhint %}
 
+## Täpsemalt
+
+Pythoni lekseemid on [aatomid](aatom-atom.md)
+
 ## Viited
 
 [EVS-ISO/IEC 2382-15:2001](https://www.evs.ee/et/evs-iso-iec-2382-15-2001), _Infotehnoloogia. Sõnastik. Osa 15: Programmikeeled:_
