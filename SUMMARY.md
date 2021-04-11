@@ -70,6 +70,7 @@
 
 * [Sõnastik](terminid/sonastik/README.md)
   * [aatom \(atom\)](terminid/sonastik/aatom-atom.md)
+  * [alfabeet \(alphabet\)](terminid/sonastik/alfabeet-alphabet.md)
   * [andmed \(data\)](terminid/sonastik/andmed-data.md)
   * [andmetüüp \(datatype\)](terminid/sonastik/andmetueuep-datatype.md)
   * [argument \(argument\)](terminid/sonastik/argument.md)
