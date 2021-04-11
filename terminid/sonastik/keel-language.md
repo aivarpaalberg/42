@@ -6,6 +6,8 @@
 [informatsiooni](informatsioon-information.md) \(_information_\) edasiandmiseks kasutatav [märkide](maerk-character.md) \(_characters_\), lepete \(_convention_\) ja reeglite \(_rules_\) kogum.
 {% endhint %}
 
+Seotud terminid: [loomulik keel \(natural language\)](loomulik-keel-natural-language.md), [tehiskeel \(artificial language\)](tehiskeel-artificial-language.md), [programmeerimiskeel \(programming language\)](programmeerimiskeel-programming-language.md)
+
 ## Viited
 
 [EVS-ISO/IEC 2382-7:2002](https://www.evs.ee/et/evs-iso-iec-2382-7-2002), Infotehnoloogia. Sõnastik. Osa 7: Programmeerimine
