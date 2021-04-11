@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
- ettemääratud sündmusejada, mis leiab aset kogu programmi või mingi ta osa [täitmisel](taeitmine-execution.md) \(_execution_\).
+ ettemääratud sündmusejada, mis leiab aset kogu [programmi](programm-program.md) või mingi ta osa [täitmisel](taeitmine-execution.md) \(_execution_\).
 {% endhint %}
 
 ## Täpsemalt
