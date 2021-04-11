@@ -1,10 +1,8 @@
----
-description: >-
-  tagasta sõne kus esimene märk on muudetud suurtäheks ja kõik ülejäänud
-  väiketähtedeks.
----
-
 # str.capitalize\(\)
+
+## Käsk \(command\)
+
+tagasta sõne kus esimene [märk](../../../../terminid/sonastik/maerk-character.md) on muudetud suurtäheks ja kõik ülejäänud väiketähtedeks
 
 ## Kasutamine
 
