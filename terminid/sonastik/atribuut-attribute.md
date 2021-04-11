@@ -15,6 +15,7 @@ Kui [objektil](objekt-object.md) o on atribuut a siis viidataks sellele kui o.a
 Pythoni ametlik dokumentatsioon \(inglise keeles\):
 
 * Documentation &gt; Glossary &gt; [attribute](https://docs.python.org/3/glossary.html#term-attribute)
+* [PEP 232 -- Function Attributes](https://www.python.org/dev/peps/pep-0232/)
 
 
 
