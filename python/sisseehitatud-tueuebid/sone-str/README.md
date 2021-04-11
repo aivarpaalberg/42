@@ -7,8 +7,10 @@ description: 'Teksti jada tüüp (Text Sequence Type), Pythoni sisseehitatud and
 ## Tähendus
 
 {% hint style="info" %}
-teksti jada tüüp \(Text Sequence Type\), Pythoni sisseehitatud andmetüüp.
+Pythonis on sõne \(_str_\) teksti jada tüüp \(_text sequence type_\) üks sisemistest \(_built-in_\) [andmetüüpidest](../../../terminid/sonastik/andmetueuep-datatype.md) \(_datatypes_\). 
 {% endhint %}
+
+## Täpsemalt
 
 Tekstilisi andmeid käsitsetakse \(_handled_\) Pythonis `str` objektidega ehk sõnedega \(_string_\). Sõned \(_strings_\) on Unicode koodipunktide **muutumatud** \(immutable\) **jadad** \(sequences\).
 
