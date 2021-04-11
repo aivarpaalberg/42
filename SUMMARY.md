@@ -94,6 +94,7 @@
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)
   * [lambda \(lambda\)](terminid/sonastik/lambda-lambda.md)
   * [lause \(statement\)](terminid/sonastik/lause-statement.md)
+  * [lekseem \(lexical token\)](terminid/sonastik/lekseem-lexical-token.md)
   * [literaal \(literal\)](terminid/sonastik/literaal-literal.md)
   * [loend \(list\)](terminid/sonastik/loend-list.md)
   * [loendi hõlmamine \(list comprehension\)](terminid/sonastik/loendi-holmamine-list-comprehension.md)
