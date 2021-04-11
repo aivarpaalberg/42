@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-süntaktiline üksus, mis vastab mingi programmikeele reeglitele ning koosneb teatava funktsiooni täitmiseks, töö teostamiseks või ülesande lahendamiseks vajalikest deklaratsioonidest \(_deklarations_\) ja [lausetest](lause-statement.md) \(_statements_\) või käskudest \(_instructions_\).
+süntaktiline üksus, mis vastab mingi [programmikeele ](programmeerimiskeel-programming-language.md)reeglitele ning koosneb teatava funktsiooni täitmiseks, töö teostamiseks või ülesande lahendamiseks vajalikest deklaratsioonidest \(_deklarations_\) ja [lausetest](lause-statement.md) \(_statements_\) või käskudest \(_instructions_\).
 {% endhint %}
 
 ## Viited
