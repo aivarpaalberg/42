@@ -48,11 +48,11 @@ def function(a, b):
 
 ## Mitmerealised dokusõned
 
-Mitmerealised dokusõned \(_multi-line docstring_\) sisaldavad sarnaselt üherealistele dokusõnedele lühikokkuvõtte rida \(_summary line_\) millele järgneb tühi rida, millele järgneb täpsem kirjeldus. Lühikokkuvõtte rida \(_summary line_\) võivad kasutada automaatsete indekseerimise vahendid; on tähtis, et see mahuks ühele reale ja tühi rida eraldaks seda ülejäänud dokusõnest \(_docstring_\). Lühikokkuvõtte rida \(_summary line_\) võib olla alustavate jutumärkidega samal või järgmisel real. Kogu dokusõne \(_docstring_\) on taandatud sama palju kui alustavad jutumärgid esimeses reas \(vaata näidet allpool\):
+Mitmerealised dokusõned \(_multi-line docstring_\) sisaldavad sarnaselt üherealistele dokusõnedele lühikokkuvõtte rida \(_summary line_\) millele järgneb tühi rida, millele järgneb täpsem kirjeldus. Lühikokkuvõtte rida \(_summary line_\) võivad kasutada automaatsete indekseerimise vahendid; on tähtis, et see mahuks ühele reale ja tühi rida eraldaks seda ülejäänud dokusõnest \(_docstring_\). Lühikokkuvõtte rida \(_summary line_\) võib olla alustavate [jutumärkidega](jutumaergid.md) samal või järgmisel real. Kogu dokusõne \(_docstring_\) on taandatud sama palju kui alustavad jutumärgid esimeses reas \(vaata näidet allpool\):
 
 Lisa \(_insert_\) tühi rida peale kõiki dokusõnesid \(nii üherealisi kui mitmerealisi\) mis dokumenteerivad [klassi](klass-class.md) - üldistatult öeldes on klassi [meetodid](meetod-method.md) eraldatud üksteisest ainsa tühja reaga ja dokusõne ise peab olema eraldatud esimesest meetodist tühja reaga.
 
-Insert a blank line after all docstrings \(one-line or multi-line\) that document a class -- generally speaking, the class's methods are separated from each other by a single blank line, and the docstring needs to be offset from the first method by a blank line.
+
 
 The docstring of a script \(a stand-alone program\) should be usable as its "usage" message, printed when the script is invoked with incorrect or missing arguments \(or perhaps with a "-h" option, for "help"\). Such a docstring should document the script's function and command line syntax, environment variables, and files. Usage messages can be fairly elaborate \(several screens full\) and should be sufficient for a new user to use the command properly, as well as a complete quick reference to all options and arguments for the sophisticated user.
 
