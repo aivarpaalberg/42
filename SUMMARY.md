@@ -104,6 +104,7 @@
   * [moodul \(module\)](terminid/sonastik/moodul-module.md)
   * [muudetav \(mutable\)](terminid/sonastik/muudetav-mutable.md)
   * [muutumatu \(immutable\)](terminid/sonastik/muutumatu-immutable.md)
+  * [märgistik \(character set\)](terminid/sonastik/maergistik-character-set.md)
   * [märk \(character\)](terminid/sonastik/maerk-character.md)
   * [nimeruumi pakett \(namespace package\)](terminid/sonastik/nimeruumi-pakett-namespace-package.md)
   * [nimi \(name\)](terminid/sonastik/nimi-name.md)
