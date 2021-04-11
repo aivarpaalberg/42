@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
- sümbolite hulk ja reeglistik nende sümbolite kasutamiseks [andmete](andmed-data.md) esitamiseks.
+ [sümbolite](suembol-symbol.md) hulk ja reeglistik nende sümbolite kasutamiseks [andmete](andmed-data.md) esitamiseks.
 {% endhint %}
 
 ## Viited
