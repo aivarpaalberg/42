@@ -3,8 +3,10 @@
 ## Tähendus
 
 {% hint style="info" %}
-keel \(_language_\), mille reeglid on enne ta kasutamist selgesõnaliselt \(_explicitly_\) kehtestatud.
+[keel](keel-language.md) \(_language_\), mille reeglid on enne ta kasutamist selgesõnaliselt \(_explicitly_\) kehtestatud.
 {% endhint %}
+
+Vaata ka [loomulik keel \(natural language\)](loomulik-keel-natural-language.md)
 
 ## Viited
 
