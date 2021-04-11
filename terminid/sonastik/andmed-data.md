@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-informatsiooni taastõlgendatav esitus formaliseeritud kujul, mis sobib edastuseks, tõlgenduseks või töötluseks.
+informatsiooni taastõlgendatav \(_reinterpretable_\) esitus formaliseeritud kujul, mis sobib edastuseks \(_communication_\), tõlgenduseks \(_interpretation_\) või töötluseks \(_processing_\).
 {% endhint %}
 
 ## Viited
