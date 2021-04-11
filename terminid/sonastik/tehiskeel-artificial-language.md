@@ -6,7 +6,7 @@
 [keel](keel-language.md) \(_language_\), mille reeglid on enne ta kasutamist selgesõnaliselt \(_explicitly_\) kehtestatud.
 {% endhint %}
 
-Vaata ka [loomulik keel \(natural language\)](loomulik-keel-natural-language.md)
+Vaata ka [loomulik keel \(natural language\)](loomulik-keel-natural-language.md), [programmeerimiskeel \(programming language\)](programmeerimiskeel-programming-language.md)
 
 ## Viited
 
