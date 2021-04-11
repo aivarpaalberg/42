@@ -16,7 +16,7 @@ enclosure ::= parenth_form | list_display | dict_display | set_display
               | generator_expression | yield_atom
 ```
 
-Vaata ka [lekseem \(lexical token\)](lekseem-lexical-token.md)
+Seotud termin: [lekseem \(lexical token\)](lekseem-lexical-token.md)
 
 ## Viited
 
