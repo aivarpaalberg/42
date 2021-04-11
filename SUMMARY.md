@@ -115,6 +115,7 @@
   * [protsess \(process\)](terminid/sonastik/protsess-process.md)
   * [Pythoni Zen \(Zen of Python\)](terminid/sonastik/pythoni-zen-zen-of-python.md)
   * [rekursioon \(recursion\)](terminid/sonastik/rekursioon-recursion.md)
+  * [reserveeritud sõna \(reserved word\)](terminid/sonastik/reserveeritud-sona-reserved-word.md)
   * [sõnastik \(dictionary\)](terminid/sonastik/sonastik-dictionary.md)
   * [sõnastiku hõlmamine \(dictionary comprehension\)](terminid/sonastik/sonastiku-holmamine-dictionary-comprehension.md)
   * [sõnastiku vaade \(dictionary view\)](terminid/sonastik/sonastiku-vaade-dictionary-view.md)
