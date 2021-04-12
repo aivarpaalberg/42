@@ -4,9 +4,15 @@ description: Pythoni identifikaatorid mis esinevad aatomitena on nimed.
 
 # nimi \(name\)
 
+## Tähendus
+
+{% hint style="info" %}
+Pythoni identifikaatorid \(_identifier_\) mis esinevad [aatomitena](aatom-atom.md) \(_atoms_\) on nimed \(_names_\).
+{% endhint %}
+
 ## Üksikasjalikumalt
 
-Kui nimi seotakse \(bound\) objektiga siis [aatomi](aatom-atom.md) \(_atom_\) väärtustamine \(evaluation\) annab \(yields\) selle objekti. Kui nimi on sidumata siis katse seda väärtustada tõstab NameError erandi.
+Kui nimi seotakse \(_bound_\) [objektiga](objekt-object.md) siis [aatomi](aatom-atom.md) \(_atom_\) väärtustamine \(_evaluation_\) annab \(_yields_\) selle objekti. Kui nimi on sidumata siis katse seda väärtustada tõstab NameError erandi.
 
 ## Viited
 
