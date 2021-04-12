@@ -8,7 +8,7 @@ eeldefineeritud identifikaator, mida programmeerija ei saa redefineerida.
 
 ## Pythoni reserveeritud sõnad 
 
-Pythoni reserveeritud sõnu \(_reserved word_\) nimetatakse võtmesõnadeks \(_keyword_\). 
+Pythoni reserveeritud sõnu \(_reserved word_\) nimetatakse ka võtmesõnadeks \(_keyword_\). 
 
 Alljärgnevaid identifikaatoreid \(_identifiers_\) kasutakse Pythonis kui reserveeritud sõnu \(_reserved word_\) ehk võtmesõnu \(_keyword_\) ja neid ei saa kasutada tavaliste identifikaatoritena \(_ordinary identifiers_\). Need võtmesõnad \(_keyword_\) peavad olema kirjutatud täpselt nii nagu toodud:
 
