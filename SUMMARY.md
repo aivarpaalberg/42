@@ -116,6 +116,7 @@
   * [operand \(operand\)](terminid/sonastik/operand-operand.md)
   * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
   * [pakett \(package\)](terminid/sonastik/pakett-package.md)
+  * [plokk \(block\)](terminid/sonastik/plokk-block.md)
   * [parameeter \(parameter\)](terminid/sonastik/parameeter-parameter.md)
   * [programm \(program\)](terminid/sonastik/programm-program.md)
   * [programmeerimiskeel \(programming language\)](terminid/sonastik/programmeerimiskeel-programming-language.md)
