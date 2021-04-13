@@ -98,6 +98,7 @@
   * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
   * [kompileerima \(to compile\)](terminid/sonastik/kompileerima-to-compile.md)
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)
+  * [käitusjärk \(runtime\)](terminid/sonastik/kaeitusjaerk-runtime.md)
   * [lambda \(lambda\)](terminid/sonastik/lambda-lambda.md)
   * [lause \(statement\)](terminid/sonastik/lause-statement.md)
   * [lekseem \(lexical token\)](terminid/sonastik/lekseem-lexical-token.md)
