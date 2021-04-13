@@ -96,6 +96,7 @@
   * [keeletarind \(language construct\)](terminid/sonastik/keeletarind-language-construct.md)
   * [klass \(class\)](terminid/sonastik/klass-class.md)
   * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
+  * [kompileerima \(to compile\)](terminid/sonastik/kompileerima-to-compile.md)
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)
   * [lambda \(lambda\)](terminid/sonastik/lambda-lambda.md)
   * [lause \(statement\)](terminid/sonastik/lause-statement.md)
