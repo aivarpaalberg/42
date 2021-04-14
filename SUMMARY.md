@@ -72,6 +72,7 @@
   * [aatom \(atom\)](terminid/sonastik/aatom-atom.md)
   * [alfabeet \(alphabet\)](terminid/sonastik/alfabeet-alphabet.md)
   * [andmed \(data\)](terminid/sonastik/andmed-data.md)
+  * [andmeobjekt \(data object\)](terminid/sonastik/andmeobjekt-data-object.md)
   * [andmestruktuur \(data structure\)](terminid/sonastik/andmestruktuur-data-structure.md)
   * [andmetüüp \(datatype\)](terminid/sonastik/andmetueuep-datatype.md)
   * [argument \(argument\)](terminid/sonastik/argument.md)
