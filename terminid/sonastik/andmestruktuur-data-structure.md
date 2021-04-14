@@ -8,7 +8,7 @@ andme üksuste \(_units of data_\) ja [andmete](andmed-data.md) \(_data_\) endi 
 
 ## Täpsemalt
 
-Pythoni sõne \(_string_\) on andmestruktuur \(_data structure_\) mille andme üksuseks \(_unit of data_\) on [märk](maerk-character.md) \(_character_\). Märgiks on antud juhul Unicode koodipunkt \(_Unicode codepoint_\).
+Pythoni [sõne](../../python/sisseehitatud-tueuebid/sone-str/) \(_string_\) on andmestruktuur \(_data structure_\) mille andme üksuseks \(_unit of data_\) on [märk](maerk-character.md) \(_character_\). Märgiks on antud juhul Unicode koodipunkt \(_Unicode codepoint_\).
 
 ## Viited
 
