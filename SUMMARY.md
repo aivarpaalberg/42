@@ -78,6 +78,7 @@
   * [avaldis \(expression\)](terminid/sonastik/avaldis-expression.md)
   * [Boole'i tehe](terminid/sonastik/boolei-tehe.md)
   * [dokusõne \(docstring\)](terminid/sonastik/dokumentatsiooni-sone-docstring.md)
+  * [diskreetandmed \(discrete data\)](terminid/sonastik/diskreetandmed-discrete-data.md)
   * [esitus \(notation\)](terminid/sonastik/esitus-notation.md)
   * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
   * [generaator \(generator\)](terminid/sonastik/generaator-generator.md)
