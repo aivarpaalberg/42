@@ -10,7 +10,7 @@ garanteeritult unikaalne ja konstantne väärtus mis ei muutu [objekti ](objekt-
 
 Igal [objektil](objekt-object.md) on identiteet, [tüüp](andmetueuep-datatype.md) ja väärtus. Objekti identiteet ei muutu kunagi peale loomist, sellest võib mõelda kui objekti aadressist mälus. Kaks objekti mille eluiga ei kattu võivad omada sama identiteeti \(s.t. et identiteete võidakse taaskasutada\).'
 
-`is` operaator võrdleb kahe objekti identiteete; `id()` funktsioon tagastab täisarvu \(_integer_\) mis esitab \(_representing_\) objekti identideedi.
+`is` operaator võrdleb kahe [objekti](objekt-object.md) identiteete; `id()` funktsioon tagastab täisarvu \(_integer_\) mis esitab \(_representing_\) objekti identideedi.
 
 CPythoni teostuse \(_implementation_\) detail: identiteet on objekti aadress mälus.
 
