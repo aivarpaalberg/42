@@ -10,7 +10,7 @@ väärtus mis edastatakse [funktsioonile](funktsioon-function.md) \(või [meetod
 
 Argumente on kahte liiki:
 
-* **võtmesõna argument** \(_keyword argument_\)- argumendid millele eelneb identifikaator \(`nimi=`\) [funktsiooni](funktsioon-function.md) väljakutses või edastatakse \(_passed_\) kui väärtus sõnastikus \(_dict_\) millele eelneb `**`. 
+* **võtmesõna argument** \(_keyword argument_\)- argumendid millele eelneb identifikaator \(`nimi=`\) [funktsiooni](funktsioon-function.md) väljakutses või edastatakse \(_passed_\) kui väärtus [sõnastikus](sonastik-dictionary.md) \(_dict_\) millele eelneb `**`. 
 * **kohaargument** \(_positional argument_\) - argumendid mis ei ole võtmesõna argumendid on kohaargumendid. Kohaargumendid võivad ilmuda \(_appear_\) argumentide loendi alguses või edastatakse[ itereeritava](itereeritav-iterable.md) elementidena millele eelneb `*`. 
 
 Argumendid omistatakse \(_assigned_\) nimega lokaalsetele muutujatele \(_local variables_\) funktsiooni kehas \(_body_\)
@@ -24,7 +24,7 @@ summa(hind=4, kogus=2)        # identifikaatoritega
 summa(**{hind:4, kogus:2})    # sõnastikuga
 ```
 
-Sõnastiku saab funktsioonile edastada ka nimena:
+[Sõnastiku](sonastik-dictionary.md) saab funktsioonile edastada ka [nimena](nimi-name.md) \(_name_\):
 
 ```python
 andmed = {hind: 4, kogus:2}
@@ -40,7 +40,7 @@ summa(4, 2)      # kohaargumentidega
 summa(*(4, 2))   # itereeritavaga
 ```
 
-Itereeritava saab edastada ka nimena:
+[Itereeritava](itereeritav-iterable.md) \(_iterable_\) saab edastada ka [nimena](nimi-name.md) \(_name_\):
 
 ```python
 andmed = (4, 2)
