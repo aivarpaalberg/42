@@ -6,6 +6,8 @@
 [programmi](programm-program.md) süntaktiliselt lubatav osa, mille võib moodustada ühest või mitmest [lekseemist  ](lekseem-lexical-token.md)\(_lexical token_\) vastavalt mingi [programmikeele](programmeerimiskeel-programming-language.md) reeglitele.
 {% endhint %}
 
+Olenevalt kontekstist kasutatakse terminit ka selliselt, et  jäetakse ära 'keele' \(_language_\) osa s.t. kasutatakse lihtsalt tarind \(_construct_\).
+
 ## Viited
 
 [EVS-ISO/IEC 2382-15:2001](https://www.evs.ee/et/evs-iso-iec-2382-15-2001), _Infotehnoloogia. Sõnastik. Osa 15: Programmikeeled:_
