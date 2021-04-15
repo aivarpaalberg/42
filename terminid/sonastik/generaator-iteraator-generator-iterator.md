@@ -8,7 +8,7 @@
 
 ## Täpsemalt
 
-Iga `yield` peatab \(_suspends_\) ajutiselt \(_temporarily_\) käitlemise \(_processing_\), jättes meelde täitmise oleku \(_execution state_\) asukoha \(_location_\) s.h. lokaalsed muutujad \(_local variable_\) ja ootel `try` laused \(_statements_\). Kui generaator iteraator jätkab \(_resumes_\) siis jätkub see sealt kus pooleli jäi \(erinevalt funktsioonidest mis alustavad uuesti igal väljakutsel\)
+Iga `yield` peatab \(_suspends_\) ajutiselt \(_temporarily_\) käitlemise \(_processing_\), jättes meelde täitmise oleku \(_execution state_\) asukoha \(_location_\) s.h. lokaalsed muutujad \(_local variable_\) ja ootel `try` [laused](lause-statement.md) \(_statements_\). Kui generaator iteraator jätkab \(_resumes_\) siis jätkub see sealt kus pooleli jäi \(erinevalt [funktsioonidest](funktsioon-function.md) mis alustavad uuesti igal väljakutsel\)
 
 ## Viited
 
