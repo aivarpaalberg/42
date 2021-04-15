@@ -94,6 +94,7 @@
   * [interpreteerima \(to interpret\)](terminid/sonastik/interpreteerima-to-interpret.md)
   * [interaktiivne interpretaator \(interactive interpretator\)](terminid/sonastik/interaktiivne-interactive.md)
   * [iteraator \(iterator\)](terminid/sonastik/iteraator-iterator.md)
+  * [iteraatori tüübid \(iterator types\)](terminid/sonastik/iteraatori-tueuebid-iterator-types.md)
   * [itereeritav \(iterable\)](terminid/sonastik/itereeritav-iterable.md)
   * [jada \(sequence\)](terminid/sonastik/jada-sequence.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
