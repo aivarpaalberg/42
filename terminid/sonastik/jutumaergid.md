@@ -6,6 +6,12 @@ description: >-
 
 # jutumärgid \(quotes\)
 
+## Tähendus
+
+{% hint style="info" %}
+Pythonis kasutatakse jutumärke [sõne](../../python/sisseehitatud-tueuebid/sone-str/) \(_string_\) [literaali](literaal-literal.md) \(_literal_\) kirjutamiseks. Pythoni jutumärgid erinevad eesti keele jutumärkide kirjutusviisist.
+{% endhint %}
+
 ## Eesti keel ja Python
 
 Kõnekeeles on jutumärgid paaris kirjavahemärgid, mida kasutatakse otsese kõne, tsitaadi või väljendi mitteotsese tähenduse eristamiseks tekstis.
