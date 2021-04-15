@@ -8,7 +8,7 @@
 
 ## Täpsemalt
 
-Generaator avaldis näeb välja nagu tavaline [avaldis](avaldis-expression.md) \(_expression_\). Kui loendi hõlmamisel \(_list comprehension_\) on avaldis ümbritsetud nurksulgudega \(`[]`  _brackets_\) siis generaator avaldis on ümbritsetud sulgudega \(`()`  _paranthesis_\) 
+Generaator avaldis näeb välja nagu tavaline [avaldis](avaldis-expression.md) \(_expression_\). Kui [loendi hõlmamisel](loendi-holmamine-list-comprehension.md) \(_list comprehension_\) on avaldis ümbritsetud nurksulgudega \(`[]`  _brackets_\) siis generaator avaldis on ümbritsetud sulgudega \(`()`  _paranthesis_\) 
 
 ```python
 >>> nums = (i * i for i in range(1, 6))  # generaator avaldis loob iteraatori 
