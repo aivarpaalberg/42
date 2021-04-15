@@ -1,14 +1,14 @@
----
-description: muudetavate objektide väärtus saab muutuda kuid nad säilitavad oma identiteedi
----
-
 # muudetav \(mutable\)
 
-## Üksikasjalikumalt
+## Tähendus
 
-Objektid mille väärtus võib muutuda öeldakse olevat **muudetavad** \(_mutable_\). Nende objektide väärtus võib muutuda kuid nende identiteet jääb samaks.
+{% hint style="info" %}
+muudetavate [objektide](objekt-object.md) \(_mutable object_\) väärtus \(_value_\) saab muutuda kuid nad säilitavad oma [identiteedi](identiteet-identity.md) \(_identity_\)
+{% endhint %}
 
+## Täpsemalt
 
+[Objektid](objekt-object.md) \(_object_\) mille väärtus võib muutuda öeldakse olevat **muudetavad** \(_mutable_\). Nende objektide väärtus võib muutuda kuid nende identiteet jääb samaks.
 
 ```python
 >>> spam = [1, 2, 3]
@@ -23,8 +23,10 @@ Objektid mille väärtus võib muutuda öeldakse olevat **muudetavad** \(_mutabl
 
 ## Viited
 
-* Pythoni dokumentatsioon \(inglise keeles\): [mutable](https://docs.python.org/3/glossary.html#term-mutable)
-* Pythoni dokumentatsioon \(inglise keeles\): [Objects, values and types](https://docs.python.org/3/reference/datamodel.html#objects-values-and-types)
+Pythoni ametlik dokumentatsioon \(inglise keeles\):
+
+* Documentationd &gt; Glossary &gt; [mutable](https://docs.python.org/3/glossary.html#term-mutable)
+* Documentation &gt; The Python Language Reference &gt; 3. Data model &gt;  [3.1. Objects, values and types](https://docs.python.org/3/reference/datamodel.html#objects-values-and-types)
 
 
 
