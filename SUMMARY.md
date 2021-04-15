@@ -90,7 +90,7 @@
   * [identiteet \(identity\)](terminid/sonastik/identiteet-identity.md)
   * [importimine \(importing\)](terminid/sonastik/importimine-importing.md)
   * [informatsioon \(information\)](terminid/sonastik/informatsioon-information.md)
-  * [interaktiivne \(interactive\)](terminid/sonastik/interaktiivne-interactive.md)
+  * [interaktiivne interpretaator \(interactive interpretator\)](terminid/sonastik/interaktiivne-interactive.md)
   * [iteraator \(iterator\)](terminid/sonastik/iteraator-iterator.md)
   * [itereeritav \(iterable\)](terminid/sonastik/itereeritav-iterable.md)
   * [jada \(sequence\)](terminid/sonastik/jada-sequence.md)

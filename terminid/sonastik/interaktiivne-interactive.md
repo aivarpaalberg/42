@@ -1,4 +1,4 @@
-# interaktiivne \(interactive\)
+# interaktiivne interpretaator \(interactive interpretator\)
 
 ## Tähendus
 
