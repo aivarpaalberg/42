@@ -8,7 +8,7 @@ Suvaline konkreetne või abstraktne asi, mis eksisteerib, eksisteeris või võik
 
 ## Täpsemalt
 
-Olem \(_entity_\) võib olla isik, objekt, sündmus, idee, protsess jne. Olem eksisteerib sõltumatult sellest, kas tema kohta on andmeid või mitte.
+Olem \(_entity_\) võib olla isik, [objekt](objekt-object.md), sündmus, idee, protsess jne. Olem eksisteerib sõltumatult sellest, kas tema kohta on [andmeid](andmed-data.md) või mitte.
 
 ## Viited
 
