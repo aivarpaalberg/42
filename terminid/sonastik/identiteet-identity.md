@@ -14,7 +14,7 @@ Igal [objektil](objekt-object.md) on identiteet, [tüüp](andmetueuep-datatype.m
 
 CPythoni teostuse \(_implementation_\) detail: identiteet on objekti aadress mälus.
 
-Objekti [tüüp](andmetueuep-datatype.md) \(_type_\) mõjutab identiteeti. [Muutumatute](muutumatu-immutable.md) \(_immutable_\) tüüpide korral võib [tehe](tehe-operation.md) millega arvutatakse uus väärtus tagastada viite juba olemasolevale objektile mille tüüp ja väärtus on samad, samas kui [muudetavate](muudetav-mutable.md) \(_mutable_\) objektide korral pole see lubatud. See tähendab, et peale `a = 1; b = 1` nimed `a` ja `b`  võivad või mitte \(_may or may not_\)  viidata samale objektile väärtusega `1`  \(sõltuvalt lahendusest\) aga peale `c = []; d = []` on garanteeritud et `c` ja `d` viitavad kahele erinevale, unikaalsele ja äsja loodud tühjale loendile \(_list_\).
+Objekti [tüüp](andmetueuep-datatype.md) \(_type_\) mõjutab identiteeti. [Muutumatute](muutumatu-immutable.md) \(_immutable_\) tüüpide korral võib [tehe](tehe-operation.md) millega arvutatakse uus väärtus tagastada viite \(_reference_\) juba olemasolevale objektile mille tüüp ja väärtus on samad, samas kui [muudetavate](muudetav-mutable.md) \(_mutable_\) objektide korral pole see lubatud. See tähendab, et peale `a = 1; b = 1` nimed `a` ja `b`  võivad või mitte \(_may or may not_\)  viidata samale objektile väärtusega `1`  \(sõltuvalt lahendusest\) aga peale `c = []; d = []` on garanteeritud et `c` ja `d` viitavad kahele erinevale, unikaalsele ja äsja loodud tühjale loendile \(_list_\).
 
 ```python
 >>> a = []
