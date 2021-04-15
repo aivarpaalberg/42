@@ -8,7 +8,7 @@ võtme funktsioon \(_key function_\) või võrdlusfunktsioon \(_collation functi
 
 ## Täpsemalt
 
-Mitmed Pythoni instrumendid \(_tools_\) aktsepeteerivad võtme funktsiooni määramaks kuidas elemendid on järjestatud või grupeeritud. Nende hulgas on `min()`, `max()`, `sorted()` , `list.sort()`, `heapq.merge()`, `heapq.nsmallest()`, `heapq.nlargest()` ja `itertools.groupby()` . 
+Mitmed Pythoni instrumendid \(_tools_\) aktsepeteerivad võtme funktsiooni \(_key function_\) määramaks kuidas elemendid on järjestatud või grupeeritud. Nende hulgas on `min()`, `max()`, `sorted()` , `list.sort()`, `heapq.merge()`, `heapq.nsmallest()`, `heapq.nlargest()` ja `itertools.groupby()` . 
 
 Võtme funktsiooni \(_key function_\) saab luua mitmel erineval moel. Näiteks võib `str.lower()` [meetodit](meetod-method.md) kasutada võtme funktsioonina tõstutundetul sortimisel \(_case insensitive sort_\). Alternatiivselt võib võtme funktsiooni luua kasutates `lambda` [avaldist](avaldis-expression.md) \(_expression_\), näiteks `lambda r: (r[0], r[2])` . Lisaks pakub `operator` moodul kolme võtme funktsiooni konstruktorit \(_constructors_\): `attrgetter()` , `itemgetter()` ja `methodcaller()` .
 
