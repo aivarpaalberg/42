@@ -24,6 +24,8 @@ abs(x, /)
     Return the absolute value of the argument.
 ```
 
+Vaata ka [interpretaator \(_interpreter_\)](interpretaator-interpreter.md), [interpreteerima \(_to interpret_\)](interpreteerima-to-interpret.md)
+
 ## Viited
 
 Pythoni ametlik dokumentatsioon \(inglise keeles\):
