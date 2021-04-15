@@ -3,12 +3,12 @@
 ## Tähendus
 
 {% hint style="info" %}
-Tavaline \(_traditional_\) [pakett](pakett-package.md) \(_package_\) nagu näiteks kataloog mis sisaldab `__init__.py` faili.
+tavaline \(_traditional_\) [pakett](pakett-package.md) \(_package_\) nagu näiteks kataloog mis sisaldab `__init__.py` faili.
 {% endhint %}
 
 ## Täpsemalt
 
-Vaata ka nimeruumi pakett \(_namespace package_\).
+Vaata ka [nimeruumi pakett](nimeruumi-pakett-namespace-package.md) \(_namespace package_\).
 
 ## Viited
 
