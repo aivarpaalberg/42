@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[Programmi](programm-program.md) süntaktiliselt lubatav osa, mille võib moodustada ühest või mitmest lekseemist vastavalt mingi [programmikeele](programmeerimiskeel-programming-language.md) reeglitele.
+[programmi](programm-program.md) süntaktiliselt lubatav osa, mille võib moodustada ühest või mitmest [lekseemist  ](lekseem-lexical-token.md)\(_lexical token_\) vastavalt mingi [programmikeele](programmeerimiskeel-programming-language.md) reeglitele.
 {% endhint %}
 
 ## Viited
