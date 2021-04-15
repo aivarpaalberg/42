@@ -1,12 +1,14 @@
----
-description: 'kuuldav või nähtav teade, millega programm nõuab kasutaja sekkumist.'
----
-
 # viip \(prompt\)
+
+## Tähendus
+
+{% hint style="info" %}
+kuuldav või nähtav teade, millega [programm](programm-program.md) \(_program_\) nõuab kasutaja sekkumist.
+{% endhint %}
 
 ## Üksikasjalikumalt
 
-Pythoni interaktiivses interpretaatori vaikimisi viibaks on `>>>`. 
+Pythoni [interaktiivse interpretaatori](interaktiivne-interactive.md) \(_interactive interpreter_\) vaikimisi viibaks on `>>>`. 
 
 ### Viited
 
