@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-väärtus mis on seotud [objektiga](objekt-object.md) ja millele viidatakse nimega kasutades punktiga [avaldisi](avaldis-expression.md) \(_expressions_\).
+väärtus mis on seotud [objektiga](objekt-object.md) ja millele viidatakse [nimega](nimi-name.md) kasutades punktiga [avaldisi](avaldis-expression.md) \(_expressions_\).
 {% endhint %}
 
 ## Täpsemalt
