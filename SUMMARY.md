@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Elust, Universumist ja Kõigest](README.md)
 
 ## Python
 
