@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-Pythonil on interaktiivne interpretaator \(_interactive interpretator_\) mis tähendab, et interpretaatori [viibale](viip-prompt.md) \(_prompt_\) saab sisestada [lauseid](lause-statement.md) \(_statements_\) ja[ avaldisi](avaldis-expression.md) \(_expressions_\), neid koheselt täita ja näha nende tulemusi.
+Pythonil on interaktiivne interpretaator \(_interactive interpretator_\) mis tähendab, et [interpretaatori](interpretaator-interpreter.md) \(_interpreter_\) [viibale](viip-prompt.md) \(_prompt_\) saab sisestada [lauseid](lause-statement.md) \(_statements_\) ja[ avaldisi](avaldis-expression.md) \(_expressions_\), neid koheselt täita ja näha nende tulemusi.
 {% endhint %}
 
 ## Täpsemalt
