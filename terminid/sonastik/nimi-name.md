@@ -1,7 +1,3 @@
----
-description: Pythoni identifikaatorid mis esinevad aatomitena on nimed.
----
-
 # nimi \(name\)
 
 ## Tähendus
@@ -14,7 +10,7 @@ Pythoni identifikaatorid \(_identifier_\) mis esinevad [aatomitena](aatom-atom.m
 
 Kui nimi seotakse \(_bound_\) [objektiga](objekt-object.md) siis [aatomi](aatom-atom.md) \(_atom_\) väärtustamine \(_evaluation_\) annab \(_yields_\) selle objekti. Kui nimi on sidumata siis katse seda väärtustada tõstab NameError erandi.
 
-Teisiti öeldes: nimed \(_names_\) viitavad \(_refer_\) [objektidele](objekt-object.md) \(_objects_\). Nimed \(_names_\) võetakse kasutusele \(_introduced_\) nime sidumise \(_name binding_\) tehtega \(_operation\)._
+Teisiti öeldes: nimed \(_names_\) viitavad \(_refer_\) [objektidele](objekt-object.md) \(_objects_\). Nimed \(_names_\) võetakse kasutusele \(_introduced_\) nime sidumise \(_name binding_\) operatsiooniga \(_operation\)._
 
 ## Viited
 
