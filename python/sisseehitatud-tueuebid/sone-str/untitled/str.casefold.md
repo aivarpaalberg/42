@@ -4,6 +4,10 @@ description: tagasta sõne kus kõik tähed on muudetud väiketähtedeks.
 
 # str.casefold\(\)
 
+## Käsk
+
+> **tagasta sõne kus kõik tähed on muudetud väiketähtedeks**
+
 ## Kasutamine
 
 ###  Abiinfo ja viited <a id="viited"></a>
