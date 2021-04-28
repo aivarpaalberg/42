@@ -146,3 +146,7 @@
   * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
   * [võtme funktsioon \(key function\)](terminid/sonastik/votme-funktsioon-key-function.md)
 
+## macOS
+
+* [Untitled](macos/untitled.md)
+
