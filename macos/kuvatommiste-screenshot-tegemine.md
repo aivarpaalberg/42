@@ -8,7 +8,7 @@ Tervest ekraanist kuvatõmmise \(_screenshot_\) tegemiseks tuleb üheaegselt vaj
 
                  ⇧ + ⌘ + 3   \(shift + command + 3\)
 
-Kuvatõmmise pisipilt \(_thumbnail_\) ilmub ekraani nurka. Sellel klõpsates saab seda enne salvestamist redigeerida. Ilma pisipildil klõpsamata salvestatakse kuvatõõmise fail vaikimisi asukohta milleks on töölaud \(_desktop_\).
+Kuvatõmmise pisipilt \(_thumbnail_\) ilmub ekraani nurka. Sellel klõpsates saab seda enne salvestamist redigeerida. Ilma pisipildil klõpsamata salvestatakse kuvatõmmise fail vaikimisi asukohta milleks on töölaud \(_desktop_\).
 
 ## Kuidas teha kuvatõmmist ekraani teatud osast
 
