@@ -2,9 +2,18 @@
 
 [Vimari](https://github.com/televator-apps/vimari/blob/master/README.md) on Safari laiend \(_extension_\) mis pakub vim-i stiilis klaviatuuripõhist  navigatsiooni. See laseb juhtida Safarit klaviatuurilt selle asemel et kasutada hiirt linkide avamiseks, kerimiseks jne. Vimari põhineb Chrome laiendil [vimium](https://github.com/philc/vimium) mille pakutavad võimalused on märksa ulatuslikumad.
 
-[Vimari](https://github.com/televator-apps/vimari/blob/master/README.md) üritab pakkuda kergekaalulist \(_lightweight_\) [vimiumi](https://github.com/philc/vimium) teisaldust \(_port_\) võttes selle parimad omadused ja sobitades need Safariga.
+[Vimari](https://github.com/televator-apps/vimari/blob/master/README.md) üritab pakkuda kergekaalulist \(_lightweight_\) [vimiumi](https://github.com/philc/vimium) teisaldust \(_port_\) võttes selle parimad omadused ja sobitades need Safariga.´
 
 ## Kiirklahvid \(_shortcuts_\)
+
+### Vimari olekud \(_modes_\)
+
+| Kiirklahv | Tegevus |
+| :--- | :--- |
+| i | mine lisamise olekusse \(_insert mode_\) |
+| ESC | mine normaalsesse olekusse \(_normal mode_\) |
+
+### Lehesisene \(_in-page_\) liikumine
 
 | Kiirklahv | Tegevus |
 | :--- | :--- |
@@ -19,7 +28,18 @@
 | **g g** | mine lehekülje algusesse |
 | **G** | mine lehekülje lõppu |
 | **g i** | mine esimesele sisestusväljale |
-|  |  |
 
-Lehesisene \(_in-page_\) navigeerimine 
+###  Lehtede \(_pages_\) ja sakkide \(_tabs_\) vahel liikumine 
+
+| Kiirklahv | Tegevus |
+| :--- | :--- |
+| H | eelmine lehekülg \(_history back_\) |
+| L | järgmine lehekülg \(_history forward_\) |
+| r | taaslaadi \(_reload_\) |
+| w | järgine sakk \(_tab_\) |
+| q | eelmine sakk \(_tab_\) |
+| x | sulge käesolev sakk \(_close current tab_\) |
+| t | ava uus sakk \(_open new tab_\) |
+
+
 
