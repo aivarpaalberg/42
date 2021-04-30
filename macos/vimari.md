@@ -8,14 +8,21 @@
 
 ### Vimari olekud \(_modes_\)
 
-| Kiirklahv | Tegevus |
+Sarnaselt vim-ile on Vimaril olekud \(_modes_\):
+
+* **normaalne olek** \(_normal mode_\) on liikumiseks/navigeerimiseks
+* **lisamise olek** \(_insert mode_\) teksti lisamiseks/sisestamiseks
+
+Olekute eristamine võimaldab liikumisega seotud tegevust ühe klahvivajutusega. Vaikimisi olekuks on normaalne s.t. liikumise olek. Olekute vahel saab liikuda:
+
+| Klahvivajutus | Tegevus |
 | :--- | :--- |
-| i | mine lisamise olekusse \(_insert mode_\) |
-| ESC | mine normaalsesse olekusse \(_normal mode_\) |
+| **i** | mine lisamise olekusse \(_insert mode_\) |
+| **ESC** | mine normaalsesse olekusse \(_normal mode_\) |
 
 ### Lehesisene \(_in-page_\) liikumine
 
-| Kiirklahv | Tegevus |
+| Klahvivajutus\(ed\) | Tegevus |
 | :--- | :--- |
 | **f** | lülitu lingivaatesse \(vim _normal mode_\) |
 | **F** | lülitu lingivaatesse, ava lingid uues sakis \(_tab_\) |
@@ -31,7 +38,7 @@
 
 ###  Lehtede \(_pages_\) ja sakkide \(_tabs_\) vahel liikumine 
 
-| Kiirklahv | Tegevus |
+| Klahvivajutus | Tegevus |
 | :--- | :--- |
 | H | eelmine lehekülg \(_history back_\) |
 | L | järgmine lehekülg \(_history forward_\) |
