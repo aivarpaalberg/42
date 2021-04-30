@@ -22,7 +22,7 @@ Olekute eristamine võimaldab liikumisega seotud tegevust ühe klahvivajutusega.
 
 ### Vimari vaated
 
-Linkide valimiseks klaviatuurilt tuleb aktiveerida lingivaade. Lingivaateid on kaks - üks avab lehe samas aknas ja teine avab lehe uues sakis. 
+Vimari on vaikimisi tavavaates normaalses olekus ja tavavaates s.t. et liikumise klahvid on aktiivsed aga linke klaviatuurilt valida ei saa. Linkide valimiseks klaviatuurilt tuleb aktiveerida lingivaade. Lingivaateid on kaks - üks avab lingitud lehe samas aknas ja teine avab lehe uues sakis. 
 
 | Klahvivajutus | Tegevus |
 | :--- | :--- |
@@ -41,7 +41,7 @@ Linkide valimiseks klaviatuurilt tuleb aktiveerida lingivaade. Lingivaateid on k
 | **d** | keri pool lehekülge allapoole |
 | **g g** | mine lehekülje algusesse |
 | **G** | mine lehekülje lõppu |
-| **g i** | mine esimesele sisestusväljale |
+| **g i** | mine esimesele sisestusväljale ja lisamise olekusse |
 
 ###  Lehtede \(_pages_\) ja sakkide \(_tabs_\) vahel liikumine 
 
