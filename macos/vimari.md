@@ -9,16 +9,17 @@
 | Kiirklahv | Tegevus |
 | :--- | :--- |
 | **f** | lülitu lingivaatesse \(vim _normal mode_\) |
-| F | lülitu lingivaatesse, ava lingid uues sakis \(_tab_\) |
-|  | keri ülespoole |
-| j | keri allapoole |
-| h | keri vasakule |
-| l | keri paremale |
-| u | keri pool lehekülge ülespoole |
-| d | keri pool lehekülge allapoole |
-| g g | mine lehekülje algusesse |
-| G | mine lehekülje lõppu |
-| g i | mine esimesele sisestusväljale |
+| **F** | lülitu lingivaatesse, ava lingid uues sakis \(_tab_\) |
+| **k** | keri ülespoole |
+| **j** | keri allapoole |
+| **h** | keri vasakule |
+| **l** | keri paremale |
+| **u** | keri pool lehekülge ülespoole |
+| **d** | keri pool lehekülge allapoole |
+| **g g** | mine lehekülje algusesse |
+| **G** | mine lehekülje lõppu |
+| **g i** | mine esimesele sisestusväljale |
+|  |  |
 
-
+Lehesisene \(_in-page_\) navigeerimine 
 
