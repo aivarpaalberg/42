@@ -20,12 +20,19 @@ Olekute eristamine võimaldab liikumisega seotud tegevust ühe klahvivajutusega.
 | **i** | mine lisamise olekusse \(_insert mode_\) |
 | **ESC** | mine normaalsesse olekusse \(_normal mode_\) |
 
+### Vimari vaated
+
+Linkide valimiseks klaviatuurilt tuleb aktiveerida lingivaade. Lingivaateid on kaks - üks avab lehe samas aknas ja teine avab lehe uues sakis. 
+
+| Klahvivajutus | Tegevus |
+| :--- | :--- |
+| **f** | rakenda lingivaade  |
+| **F** | rakenda lingivaade, ava lehed uues sakis \(_tab_\) |
+
 ### Lehesisene \(_in-page_\) liikumine
 
 | Klahvivajutus\(ed\) | Tegevus |
 | :--- | :--- |
-| **f** | rakenda lingivaade \(vim _normal mode_\) |
-| **F** | rakenda lingivaatesse, ava lingid uues sakis \(_tab_\) |
 | **k** | keri ülespoole |
 | **j** | keri allapoole |
 | **h** | keri vasakule |
