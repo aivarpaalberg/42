@@ -10,8 +10,8 @@
 
 Sarnaselt vim-ile on Vimaril olekud \(_modes_\):
 
-* **normaalne olek** \(_normal mode_\) on liikumiseks/navigeerimiseks
-* **lisamise olek** \(_insert mode_\) teksti lisamiseks/sisestamiseks
+* **normaalne olek** \(_normal mode_\) on liikumiseks/navigeerimiseks; klahvivajutustel on eritähendused
+* **lisamise olek** \(_insert mode_\) teksti lisamiseks/sisestamiseks; klahvidel on tavatähendus
 
 Olekute eristamine võimaldab liikumisega seotud tegevust ühe klahvivajutusega. Vaikimisi olekuks on normaalne s.t. liikumise olek. Olekute vahel saab liikuda:
 
@@ -22,7 +22,7 @@ Olekute eristamine võimaldab liikumisega seotud tegevust ühe klahvivajutusega.
 
 ### Vimari vaated
 
-Vimari on vaikimisi tavavaates normaalses olekus ja tavavaates s.t. et liikumise klahvid on aktiivsed aga linke klaviatuurilt valida ei saa. Linkide valimiseks klaviatuurilt tuleb aktiveerida lingivaade. Lingivaateid on kaks - üks avab lingitud lehe samas aknas ja teine avab lehe uues sakis. 
+Vimari on vaikimisi normaalses olekus ja tavavaates s.t. et liikumise klahvid on aktiivsed aga linke klaviatuurilt valida ei saa. Linkide valimiseks klaviatuurilt tuleb aktiveerida lingivaade. Lingivaateid on kaks - üks avab lingitud lehe samas aknas ja teine avab lehe uues sakis. Lingivaate korral on lehe iga lingi juures kollane ikoon kahe tähega mille valimine klaviatuuril on sama mis antud lingil klõpsamine.
 
 | Klahvivajutus | Tegevus |
 | :--- | :--- |
