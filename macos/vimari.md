@@ -24,8 +24,8 @@ Olekute eristamine võimaldab liikumisega seotud tegevust ühe klahvivajutusega.
 
 | Klahvivajutus\(ed\) | Tegevus |
 | :--- | :--- |
-| **f** | lülitu lingivaatesse \(vim _normal mode_\) |
-| **F** | lülitu lingivaatesse, ava lingid uues sakis \(_tab_\) |
+| **f** | rakenda lingivaade \(vim _normal mode_\) |
+| **F** | rakenda lingivaatesse, ava lingid uues sakis \(_tab_\) |
 | **k** | keri ülespoole |
 | **j** | keri allapoole |
 | **h** | keri vasakule |
