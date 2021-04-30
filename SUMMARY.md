@@ -2,6 +2,11 @@
 
 * [Elust, Universumist ja Kõigest](README.md)
 
+## macOS
+
+* [Kuidas avada rakendusi ja faile](macos/untitled.md)
+* [Vimari](macos/vimari.md)
+
 ## Python
 
 * [Sisemised funktsioonid](python/sisseehitatud-funktsioonid/README.md)
@@ -145,8 +150,4 @@
   * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
   * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
   * [võtme funktsioon \(key function\)](terminid/sonastik/votme-funktsioon-key-function.md)
-
-## macOS
-
-* [Untitled](macos/untitled.md)
 
