@@ -5,6 +5,7 @@
 ## macOS
 
 * [Kuidas avada rakendusi ja faile](macos/untitled.md)
+* [Kuvatõmmiste \(screenshot\) tegemine](macos/kuvatommiste-screenshot-tegemine.md)
 * [Vimari](macos/vimari.md)
 
 ## Python
