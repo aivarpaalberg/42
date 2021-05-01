@@ -1,6 +1,6 @@
 # Kuvatõmmiste \(screenshot\) tegemine
 
-Kuvatõmmist saab teha terve ekraanist, aknast või teatud ekraani osast.
+Kuvatõmmist saab teha tervest ekraanist \(_entire screen_\), osast ekraanist \(_portion of the screen_\) või aknast/menüüst \(_window/menu_\) 
 
 ## Kuidas teha kuvatõmmist tervest ekraanist
 
@@ -33,6 +33,18 @@ Vajuta üheaegselt neljale klahvile:
           ⇧ + ⌘ + 4 + ␣ \(shift + command + 4 + space\)
 
 [Osuti](../terminid/sonastik/osuti-pointer.md) \(_pointer_\) muutub kaamera ikooniks ![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-mojave-screenshot-window-inline-icon.png)
+
+Kuvatõmmise tegemisest loobumiseks vajuta paoklahvile ␛ \(_escape_\).
+
+Klõpsa aknal \(_window_\) või menüül \(_menu_\) millest tahad kuvatõmmist teha. Akna varju \(_shadow_\) välistamiseks hoia klõpsamise ajal all ⌥ \(_option_\) klahvi.
+
+Kuvatõmmise pisipilt \(_thumbnail_\) ilmub ekraani nurka. Sellel klõpsates saab seda enne salvestamist redigeerida. Ilma pisipildil klõpsamata salvestatakse kuvatõmmise fail vaikimisi asukohta milleks on töölaud \(_desktop_\).
+
+Vasakul pool on ekraanitõmmis mis on tehtud Safari brauseri menüüvalikust `Safari` ilma varjuta ja paremal pool ekraanitõmmis varjuga
+
+ ![](../.gitbook/assets/ekraanito-mmis_varjuta%20%281%29.png) ![](../.gitbook/assets/ekraanito-mmis_varjuga%20%281%29.png) 
+
+
 
 
 
