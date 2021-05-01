@@ -48,6 +48,13 @@ Vasakul pool on ekraanitõmmis mis on tehtud Safari brauseri menüüvalikust `Sa
 
 
 
+## Screenshot rakenduse \(app\) valikud \(options\)
+
+Kuvatõmmiste tegemiseks kasutatavat rakenduse Screenshot järgenvaid omadusi saab seadistada:
+
+*  määrata kuvatõmmiste salvestamise asukoha, 
+* määrata ajalise viivituse ekraanitõmmise tegemisel \(_timer_\)
+* 
  
 
   
