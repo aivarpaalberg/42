@@ -42,7 +42,7 @@ Kuvatõmmise pisipilt \(_thumbnail_\) ilmub ekraani nurka. Sellel klõpsates saa
 
 Vasakul pool on ekraanitõmmis mis on tehtud Safari brauseri menüüvalikust `Safari` ilma varjuta ja paremal pool ekraanitõmmis varjuga
 
- ![](../.gitbook/assets/ekraanito-mmis_varjuta%20%281%29.png) ![](../.gitbook/assets/ekraanito-mmis_varjuga%20%281%29.png) 
+ ![](../.gitbook/assets/ekraanito-mmis_varjuta.png) ![](../.gitbook/assets/ekraanito-mmis_varjuga.png) 
 
 
 
@@ -54,9 +54,18 @@ Kuvatõmmiste tegemiseks kasutatavat rakenduse Screenshot järgenvaid omadusi sa
 
 *  määrata kuvatõmmiste salvestamise asukoha, 
 * määrata ajalise viivituse ekraanitõmmise tegemisel \(_timer_\)
-* 
- 
 
-  
+![](../.gitbook/assets/image%20%285%29.png)
 
+
+
+
+
+| Tegevus | Ikoon |
+| :--- | :--- |
+| Kuvatõmmis tervest ekraanist |  ![](../.gitbook/assets/image%20%282%29.png)  |
+| Kuvatõmmis ekraani teatud osast | ![](../.gitbook/assets/image.png)  |
+| Kuvatõmmis aknast/menüüst | ![](../.gitbook/assets/image%20%286%29.png)  |
+| Salvestus terve ekraan  | ![](../.gitbook/assets/image%20%283%29.png)  |
+| Salvesta osa ekraanist | ![](../.gitbook/assets/image%20%281%29.png)  |
 
