@@ -74,6 +74,17 @@
   * [loend \(list\)](python/sisseehitatud-tueuebid/loend-list/README.md)
     * [loendi \(list\) meetodid](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/README.md)
       * [list.append\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.append.md)
+      * [list.clear\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.clear.md)
+      * [list.copy\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.copy.md)
+      * [list.count\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.count.md)
+      * [list.extend\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.extend.md)
+      * [list.index\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.index.md)
+      * [list.insert\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.insert.md)
+      * [list.mro\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.mro.md)
+      * [list.pop\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.pop.md)
+      * [list.remove\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.remove.md)
+      * [list.reverse\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.reverse.md)
+      * [list.sort\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.sort.md)
 
 ## Terminid
 
