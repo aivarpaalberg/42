@@ -71,6 +71,8 @@
       * [str.translate\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.translate.md)
       * [str.upper\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.upper.md)
       * [str.zfill\(\)](python/sisseehitatud-tueuebid/sone-str/untitled/str.zfill.md)
+  * [loend \(list\)](python/sisseehitatud-tueuebid/loend-list/README.md)
+    * [loendi \(list\) meetodid](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid.md)
 
 ## Terminid
 
