@@ -15,14 +15,8 @@ Kuna sõne on [muutumatu](../../../../terminid/sonastik/muutumatu-immutable.md) 
 `str.capitalize` väljakutsumisel ei anta sellele argumente.
 
 ```python
->>> 'tere maailm'.capitalize()
-'Tere maailm'
->>> 'tEre MAAilm'.capitalize()
-'Tere maailm'
 >>> s = 'Tere Maailm'
 >>> s.capitalize()
-'Tere maailm'
->>> str.capitalize('tere maailm')
 'Tere maailm'
 ```
 
