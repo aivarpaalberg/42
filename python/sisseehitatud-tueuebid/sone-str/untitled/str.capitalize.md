@@ -1,9 +1,3 @@
----
-description: >-
-  tagasta sõne kus esimene märk on muudetud suurtäheks ja kõik ülejäänud
-  väiketähtedeks
----
-
 # str.capitalize\(\)
 
 ## Käsk \(command\)

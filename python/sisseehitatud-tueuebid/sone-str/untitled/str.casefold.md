@@ -1,7 +1,3 @@
----
-description: tagasta sõne kus kõik tähed on muudetud väiketähtedeks.
----
-
 # str.casefold\(\)
 
 ## Käsk \(command\)
