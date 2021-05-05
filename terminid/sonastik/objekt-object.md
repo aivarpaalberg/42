@@ -10,7 +10,7 @@
 
 Objektid on Pythoni [andmete](andmed-data.md) abstraktsioon. Kõik andmed \(_data_\) Pythoni programmis on esitatud objektidena \(_objects_\) või suhetena objektide vahel \(_relations between objects_\)
 
-Igal objektil on [identiteet](identiteet-identity.md) \(_identity_\), tüüp \(_type_\) ja väärtus \(_value_\). 
+Igal objektil on [identiteet](identiteet-identity.md) \(_identity_\), [tüüp](andmetueuep-datatype.md) \(_type_\) ja väärtus \(_value_\). 
 
 ## Viited
 

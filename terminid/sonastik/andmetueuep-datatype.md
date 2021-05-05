@@ -6,9 +6,9 @@
 [andmete](andmed-data.md) \(_data_\) ettemääratud struktuuriga andmeobjektide \(_data object_\) piiritletud hulk koos neid [objekte](objekt-object.md) \(objects\) [operandidena](operand-operand.md) kasutatada lubavate [tehete](tehe-operation.md) hulgaga.
 {% endhint %}
 
-## Täpsemalt
+Andmetüübi \(_datatype_\) asemel võib kasutada \(ja kasutataksegi\) terminit **tüüp** \(_type_\), kui sellega ei kaasne mitmetähenduslikkus.
 
-Andmetüübi \(_datatype_\) asemel võib kasutada \(ja kasutataksegi\) terminit tüüp \(_type_\), kui sellega ei kaasne mitmetähenduslikkus.
+## Täpsemalt
 
 Andmetüüp - täisarv \(_int_\), tehted - aritmeetikatehted täisarvudega 
 
