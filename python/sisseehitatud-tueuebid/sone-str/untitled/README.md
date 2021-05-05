@@ -13,7 +13,19 @@ Pythoni sõnel \(str\) on 48 meetodit \(method\).
 | [str.expandtabs](str.endswith.md) | [str.isdecimal](str.isdecimal.md) | [str.isupper](str.isupper.md) | [str.removeprefix](str.removeprefix.md) | [str.rstrip](str.rstrip.md) | [str.upper](str.upper.md) |
 | [str.find](str.find.md) | [str.isdigit](str.isdigit.md) | [str.join](str.join.md) | [str.removesuffix](str.removesuffix.md) | [str.split](str.split.md) | [str.zfill](str.zfill.md) |
 
-​
+​Sõne meetodi väljakutsumiseks on erinevad võimalused. 
+
+```python
+>>> 'tere'.capitalize()
+'Tere'
+>>> s = 'tere'
+>>> s.capitalize()
+'Tere'
+>>> str.capitalize('tere')
+'Tere'
+>>> str.capitalize(s)
+'Tere'
+```
 
 Last updated 15 hours ago
 

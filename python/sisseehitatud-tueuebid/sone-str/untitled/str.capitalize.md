@@ -33,7 +33,18 @@ Tasub silmas pidada, et kui sõne \(_str_\) sisaldab nime vms sõna mis peab ole
 'Suure-jaani linn'
 ```
 
-### Abiinfo ja viited
+Meetod rakendab suurtäheks muutmist ainult sõne esimesel [märgil](../../../../terminid/sonastik/maerk-character.md) \(_character_\) ja mitte selles esineval esimesel [tähel](../../../../terminid/sonastik/taeht-letter.md) \(_letter_\). See tähendab, kui [sõne](../) algab tühiku, numbri vms mis pole täht annab meetodi rakendamine järgneva tulemuse:
+
+```python
+>>> ' a'.capitalize()
+' a'
+>>> '1a'.capitalize()
+'1a'
+```
+
+ 
+
+## Abiinfo ja viited
 
 * Pythoni ametlik dokumentatsioon \(inglise keeles\): [str.capitalize\(\)](https://docs.python.org/3/library/stdtypes.html#str.capitalize)
 * Pythoni interaktiivses interpretaatoris sisesta `help(str.capitalize)`
