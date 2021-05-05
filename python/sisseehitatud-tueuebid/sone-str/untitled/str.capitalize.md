@@ -1,8 +1,20 @@
+---
+description: >-
+  tagasta sõne kus esimene märk on muudetud suurtäheks ja kõik ülejäänud
+  väiketähtedeks
+---
+
 # str.capitalize\(\)
 
 ## Käsk \(command\)
 
-`tagasta sõne kus esimene märk on muudetud suurtäheks ja kõik ülejäänud väiketähtedeks`
+Kasutades seda [sõne](../) \(_str_\) [meetodit](../../../../terminid/sonastik/meetod-method.md) \(_method_\) anname käsu mis [loomulikus keeles](../../../../terminid/sonastik/loomulik-keel-natural-language.md) \(_natural language_\) on väljendatav kui: 
+
+{% hint style="info" %}
+tagasta sõne \(_str_\) kus esimene [märk](../../../../terminid/sonastik/maerk-character.md) \(_character_\) on muudetud suurtäheks ja kõik ülejäänud väiketähtedeks
+{% endhint %}
+
+Kuna sõne \(_str_\) on [muutumatu](../../../../terminid/sonastik/muutumatu-immutable.md) \(_immutable_\) siis tagastatav sõne on uus [objekt](../../../../terminid/sonastik/objekt-object.md) \(_object_\). Kui seda ei seota \(_bound_\) nimega siis ei ole see hiljem ligipääsetav \(_accessible_\).
 
 ## Kasutamine
 
