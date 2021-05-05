@@ -31,7 +31,7 @@ True                    # kõik tähed on väiketähed
 False                   # pole ühtegi väiketähte
 ```
 
-### Abiinfo ja viited
+## Abiinfo ja viited
 
 * Pythoni ametlik dokumentatsioon \(inglise keeles\): [str.islower\(\)](https://docs.python.org/3/library/stdtypes.html#str.islower)
 * Pythoni interaktiivses interpretaatoris sisesta `help(str.islower)`
