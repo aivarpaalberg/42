@@ -7,14 +7,14 @@ description: 'Teksti jada tüüp (Text Sequence Type), Pythoni sisseehitatud and
 ## Tähendus
 
 {% hint style="info" %}
-Pythonis on sõne \(_str_\) teksti jada tüüp \(_text sequence type_\) üks sisemistest \(_built-in_\) [andmetüüpidest](../../../terminid/sonastik/andmetueuep-datatype.md) \(_datatypes_\). 
+Pythonis on sõne \(_str_\) [teksti](../../../terminid/sonastik/tekst-text.md) jada tüüp \(_text sequence type_\) üks sisemistest \(_built-in_\) [andmetüüpidest](../../../terminid/sonastik/andmetueuep-datatype.md) \(_datatypes_\). 
 {% endhint %}
 
 Informaatikas on sõne \(_string_\) defineeritud kui tervikuna käsitletav samalaadsete elementide, näiteks [märkide](../../../terminid/sonastik/maerk-character.md), [jada](../../../terminid/sonastik/jada-sequence.md) \(_sequence_\)
 
 ## Täpsemalt
 
-Tekstilisi andmeid käsitsetakse \(_handled_\) Pythonis `str` objektidega ehk sõnedega \(_string_\). Sõned \(_strings_\) on Unicode koodipunktide **muutumatud** \(immutable\) **jadad** \(sequences\).
+[Tekstilisi](../../../terminid/sonastik/tekst-text.md) andmeid käsitsetakse \(_handled_\) Pythonis `str` objektidega ehk sõnedega \(_string_\). Sõned \(_strings_\) on Unicode koodipunktide **muutumatud** \(immutable\) **jadad** \(sequences\).
 
 Sõne \(_string_\) [literaale](../../../terminid/sonastik/literaal-literal.md) \(_literals_\) kirjutatakse erinevatel viisidel:
 

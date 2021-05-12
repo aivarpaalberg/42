@@ -3,14 +3,14 @@
 ## Tähendus
 
 {% hint style="info" %}
-[programmide](programm-program.md) \(_program_\) täitmiseks \(_execution_\) vajalik [andmestruktuuri](andmestruktuur-data-structure.md) \(_data structure_\) element, näiteks fail \(_file_\), massiiv \(_array_\) või [operand](operand-operand.md) \(_operand_\).
+[programmide](programm-program.md) \(_program_\) [täitmiseks](taeitmine-execution.md) \(_execution_\) vajalik [andmestruktuuri](andmestruktuur-data-structure.md) \(_data structure_\) element, näiteks [fail](fail-file.md) \(_file_\), massiiv \(_array_\) või [operand](operand-operand.md) \(_operand_\).
 {% endhint %}
 
 ## Täpsemalt
 
 Andmeobjekt võib olla konstant või muutuja.
 
-Andmebaaside kontekstis on andmeobjekt: üksusena \(_unit_\) käsitletavad diskreetandmed, mis esitavad tuntud või eeldatavalt tuntud [andmestruktuuri](andmestruktuur-data-structure.md) \(_data structure_\) eksemplari \(_instance_\).
+Andmebaaside kontekstis on andmeobjekt: üksusena \(_unit_\) käsitletavad diskreetandmed, mis esitavad tuntud või eeldatavalt tuntud [andmestruktuuri](andmestruktuur-data-structure.md) \(_data structure_\) [eksemplari](eksemplar-instance.md) \(_instance_\).
 
 ## Viited
 

@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[andmete](andmed-data.md) \(_data_\) ettemääratud struktuuriga andmeobjektide \(_data object_\) piiritletud hulk koos neid [objekte](objekt-object.md) \(objects\) [operandidena](operand-operand.md) kasutatada lubavate [tehete](tehe-operation.md) hulgaga.
+[andmete](andmed-data.md) \(_data_\) ettemääratud struktuuriga [andmeobjektide](andmeobjekt-data-object.md) \(_data object_\) piiritletud hulk koos neid [objekte](objekt-object.md) \(objects\) [operandidena](operand-operand.md) kasutatada lubavate [tehete](tehe-operation.md) hulgaga.
 {% endhint %}
 
 Andmetüübi \(_datatype_\) asemel võib kasutada \(ja kasutataksegi\) terminit **tüüp** \(_type_\), kui sellega ei kaasne mitmetähenduslikkus.

@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[Olem](olem-entity.md), millega sooritatakse [tehe](tehe-operation.md).
+[olem](olem-entity.md) \(_entity_\), millega sooritatakse [tehe](tehe-operation.md) \(_operation_\).
 {% endhint %}
 
 ## Täpsemalt

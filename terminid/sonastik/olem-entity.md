@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-Suvaline konkreetne või abstraktne asi, mis eksisteerib, eksisteeris või võiks eksisteerida, kaasa arvatud nende asjade ühendused.
+suvaline konkreetne või abstraktne asi, mis eksisteerib, eksisteeris või võiks eksisteerida, kaasa arvatud nende asjade ühendused.
 {% endhint %}
 
 ## Täpsemalt

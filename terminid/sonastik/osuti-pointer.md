@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-ekraanil kuvatav sümbol, mida kasutaja saab informatsiooni valimiseks liigutada osutusseadisega, näiteks hiirega.
+ekraanil \(_screen_\) kuvatav [sümbol](suembol-symbol.md) \(_symbol_\), mida kasutaja saab [informatsiooni](informatsioon-information.md) \(_information_\) valimiseks liigutada [osutusseadisega](osutusseadis-pointing-device.md) \(_pointing device_\), näiteks hiirega.
 {% endhint %}
 
 ## Viited
