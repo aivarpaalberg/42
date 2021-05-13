@@ -3,7 +3,7 @@
 ## Käsk \(command\)
 
 {% hint style="info" %}
-tagasta [sõne](../sisseehitatud-tueuebid/sone-str/) mis sisaldab [objekti](../../terminid/sonastik/objekt-object.md) väljastatavat \(_printable_\) esitust aga pagu \(escape\) mitte ASCII märgid
+tagasta [sõne](../sisseehitatud-tueuebid/sone-str/) mis sisaldab [objekti](../../terminid/sonastik/objekt-object.md) väljastatavat \(_printable_\) esitust aga pagu \(_escape_\) mitte ASCII märgid
 {% endhint %}
 
 ## Kasutamine
