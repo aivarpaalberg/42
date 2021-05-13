@@ -163,6 +163,7 @@
   * [rekursioon \(recursion\)](terminid/sonastik/rekursioon-recursion.md)
   * [reserveeritud sõna \(reserved word\)](terminid/sonastik/reserveeritud-sona-reserved-word.md)
   * [salvestama \(to store\)](terminid/sonastik/salvestama-to-store.md)
+  * [siluma \(to debug\)](terminid/sonastik/siluma-to-debug.md)
   * [sõnastik \(dictionary\)](terminid/sonastik/sonastik-dictionary.md)
   * [sõnastiku hõlmamine \(dictionary comprehension\)](terminid/sonastik/sonastiku-holmamine-dictionary-comprehension.md)
   * [sõnastiku vaade \(dictionary view\)](terminid/sonastik/sonastiku-vaade-dictionary-view.md)
@@ -175,6 +176,7 @@
   * [tulem \(result\)](terminid/sonastik/tulem-result.md)
   * [täht \(letter\)](terminid/sonastik/taeht-letter.md)
   * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
+  * [viga \(error\)](terminid/sonastik/viga-error.md)
   * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
   * [võtme funktsioon \(key function\)](terminid/sonastik/votme-funktsioon-key-function.md)
 

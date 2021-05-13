@@ -1,10 +1,12 @@
----
-description: ava siluja (debugger) väljakutsumise kohas
----
-
 # breakpoint\(\*args, \*\*kws\)
 
-## Üksikasjalikumalt
+## Käsk \(command\)
+
+{% hint style="info" %}
+ava siluja \(debugger\) väljakutsumise kohas
+{% endhint %}
+
+## Kasutamine
 
 ### Argumendid
 

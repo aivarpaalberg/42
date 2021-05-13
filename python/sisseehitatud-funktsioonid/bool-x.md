@@ -1,10 +1,12 @@
----
-description: tagasta tõesusväärtus (Boolean value) ehk True või False
----
-
 # bool\(\[x\]\)
 
-## Üksikasjalikumalt
+## Käsk \(command\)
+
+{% hint style="info" %}
+tagasta tõesusväärtus \(_Boolean value_\) ehk True või False
+{% endhint %}
+
+## Kasutamine
 
 ### Argument
 

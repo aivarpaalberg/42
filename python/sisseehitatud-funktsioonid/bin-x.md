@@ -1,10 +1,12 @@
----
-description: tagasta binaar sõne (binary string) eesliitega '0b'
----
-
 # bin\(x\)
 
-## Üksikasjalikumalt
+## Käsk \(command\)
+
+{% hint style="info" %}
+tagasta binaar sõne \(_binary string_\) eesliitega '0b'
+{% endhint %}
+
+## Kasutamine
 
 ### Argument
 
