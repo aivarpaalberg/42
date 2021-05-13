@@ -1,22 +1,24 @@
----
-description: tagasta numbri absoluutväärtus
----
-
 # abs\(\)
 
-## Üksikasjalikumalt
+## Käsk \(command\)
+
+{% hint style="info" %}
+tagasta numbri absoluutväärtus
+{% endhint %}
+
+## Kasutamine
 
 ### Argument
 
-Funktsioonile tuleb edastada üks [argument](../../terminid/sonastik/argument.md) mis võib olla täisarv \(_int_\), ujukomaarv \(_floating point number_\) või kompleksarv \(_complex number_\). Kui argumendiks on kompleksarv siis tagastatakse selle magnituud \(_magnitude_\)
+[Funktsioonile](../../terminid/sonastik/funktsioon-function.md) **abs\(\)** tuleb edastada üks [argument](../../terminid/sonastik/argument.md) mis võib olla täisarv \(_int_\), ujukomaarv \(_floating point number_\) või kompleksarv \(_complex number_\). Kui argumendiks on kompleksarv siis tagastatakse selle magnituud \(_magnitude_\)
 
 Juhul kui argumenti ei edastata või see ei ole täisarv \(_int_\), ujukomaarv \(_floating point number_\) või kompleksarv \(_complex number_\) siis tõstetakse `TypeError` erand.
 
 ### Tagastatav väärtus
 
-Funktsioon tagastab sama andmetüübi mis talle välja kutsudes edastati v.a. kompleksarvu korral kui tagastatakse ujukomaarv \(_floating point number_\) 
+Funktsioon tagastab sama [andmetüübi](../../terminid/sonastik/andmetueuep-datatype.md) \(_data type_\) mis talle välja kutsudes edastati v.a. kompleksarvu korral kui tagastatakse ujukomaarv \(_floating point number_\) 
 
-| Väärtus | Tingimus\(ed\) |
+| Tagastatav väärtus | Argumendi tüüp |
 | :--- | :--- |
 | täisarv  | argumendiks täisarv \(_int_\) |
 | ujukomaarv  | argumendiks ujukomaarv või kompleksarv |

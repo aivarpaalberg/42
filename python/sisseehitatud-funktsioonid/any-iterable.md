@@ -1,14 +1,14 @@
----
-description: >-
-  tagasta True kui vähemalt üks itereeritava element on tõene (true); tagasta
-  False kui itereeritav on tühi
----
-
 # any\(iterable\)
 
-## Üksikasjalikumalt
+## Käsk \(command\)
 
-Funktsioon `any()` on samaväärne \(_equivalent_\) alljärgnevaga:
+{% hint style="info" %}
+tagasta True kui vähemalt üks [itereeritava](../../terminid/sonastik/itereeritav-iterable.md) \(_iterable_\) element on tõene \(true\); tagasta False kui itereeritav on tühi
+{% endhint %}
+
+## Kasutamine
+
+[Funktsioon](../../terminid/sonastik/funktsioon-function.md) `any()` on samaväärne \(_equivalent_\) alljärgnevaga:
 
 ```python
 def any(iterable):
@@ -22,7 +22,7 @@ Koodist on näha, et funktsioon rakendab lühist \(_short circuit_\) s.t. et esi
 
 ### Argument
 
-Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), loend, hulk, sõnastik vms\).
+Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), [loend](../sisseehitatud-tueuebid/loend-list/), hulk, sõnastik vms\).
 
 Juhul kui argumenti ei edastata või edastatud argument ei ole itereeritav tõstetakse `TypeError` erand.
 

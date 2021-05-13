@@ -1,4 +1,8 @@
-# Kuvatõmmiste \(screenshot\) tegemine
+# Screenshot
+
+Mac arvutites saab kuvatõmmiste tegemiseks ja kuva salvestamiseks kasutada rakendust **Screenshot** või kiirklahve.  
+
+## Kuvatõmmiste \(screenshot\) tegemine
 
 Kuvatõmmist saab teha tervest ekraanist \(_entire screen_\), osast ekraanist \(_portion of the screen_\) või aknast/menüüst \(_window/menu_\) 
 
@@ -66,6 +70,6 @@ Kuvatõmmiste tegemiseks kasutatavat rakenduse Screenshot järgenvaid omadusi sa
 | Kuvatõmmis tervest ekraanist |  ![](../.gitbook/assets/image%20%282%29.png)  |
 | Kuvatõmmis ekraani teatud osast | ![](../.gitbook/assets/image.png)  |
 | Kuvatõmmis aknast/menüüst | ![](../.gitbook/assets/image%20%286%29.png)  |
-| Salvestus terve ekraan  | ![](../.gitbook/assets/image%20%283%29.png)  |
-| Salvesta osa ekraanist | ![](../.gitbook/assets/image%20%281%29.png)  |
+| Terve ekraani kuva salvestus | ![](../.gitbook/assets/image%20%283%29.png)  |
+| Osa ekraani kuva salvestus | ![](../.gitbook/assets/image%20%281%29.png)  |
 

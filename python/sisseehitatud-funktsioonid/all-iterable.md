@@ -1,12 +1,12 @@
----
-description: >-
-  tagasta True kui itereeritava kõik elemendid on tõesed (true) või kui
-  itereeritav on tühi.
----
-
 # all\(iterable\)
 
-## Üksikasjalikumalt
+## Käsk \(command\)
+
+{% hint style="info" %}
+tagasta True kui [itereeritava](../../terminid/sonastik/itereeritav-iterable.md) \(_iterable_\) kõik elemendid on tõesed \(true\) või kui itereeritav on tühi.
+{% endhint %}
+
+## Kasutamine
 
 Funktsioon `all()`on samaväärne \(_equivalent_\) alljärgnevaga:
 
@@ -22,7 +22,7 @@ Koodist on näha, et funktsioon rakendab lühist \(_short circuit_\) s.t. et esi
 
 ### Argument
 
-Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), loend, hulk, sõnastik vms\). 
+Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), [loend](../../terminid/sonastik/loend-list.md), hulk, sõnastik vms\). 
 
 Juhul kui argumenti ei edastata või edastatud argument ei ole itereeritav  tõstetakse `TypeError`erand.
 

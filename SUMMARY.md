@@ -5,7 +5,7 @@
 ## macOS
 
 * [Kuidas avada rakendusi ja faile](macos/untitled.md)
-* [Kuvatõmmiste \(screenshot\) tegemine](macos/kuvatommiste-screenshot-tegemine.md)
+* [Screenshot](macos/kuvatommiste-screenshot-tegemine.md)
 * [Vimari](macos/vimari.md)
 
 ## Python
@@ -98,7 +98,7 @@
   * [argument \(argument\)](terminid/sonastik/argument.md)
   * [atribuut \(attribute\)](terminid/sonastik/atribuut-attribute.md)
   * [avaldis \(expression\)](terminid/sonastik/avaldis-expression.md)
-  * [Boole'i tehe](terminid/sonastik/boolei-tehe.md)
+  * [Boole'i tehe \(boolean operation\)](terminid/sonastik/boolei-tehe.md)
   * [dokument \(document\)](terminid/sonastik/dokument-document.md)
   * [doksõne \(docstring\)](terminid/sonastik/dokumentatsiooni-sone-docstring.md)
   * [diskreetandmed \(discrete data\)](terminid/sonastik/diskreetandmed-discrete-data.md)

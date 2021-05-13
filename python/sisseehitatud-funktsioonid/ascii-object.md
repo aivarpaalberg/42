@@ -1,12 +1,12 @@
----
-description: >-
-  tagasta sõne mis sisaldab objekti väljastatavat (printable) esitust aga pagu
-  (escape) mitte ASCII märgid
----
-
 # ascii\(object\)
 
-## Üksikasjalikumalt
+## Käsk \(command\)
+
+{% hint style="info" %}
+tagasta [sõne](../sisseehitatud-tueuebid/sone-str/) mis sisaldab [objekti](../../terminid/sonastik/objekt-object.md) väljastatavat \(_printable_\) esitust aga pagu \(escape\) mitte ASCII märgid
+{% endhint %}
+
+## Kasutamine
 
 ### Argument
 
