@@ -8,6 +8,8 @@ kompaktne viis käitlemaks \(_to process_\) kõiki või osasid [itereeritava](it
 
 ## Täpsemalt 
 
+Loendi hõlmamine \(_list comprehension_\) pakub sisutihedat \(_concise_\) viisi[ loendite](loend-list.md) \(_list_\) loomiseks. Tavalisteks kasutusjuhtumiteks on uue loendi loomine mille iga element on teise itereeritava iga elemendiga teostatud toimingu tulemus või ainult see osa elementidest, mis vastab teatud tingimustele.
+
 [Itereeritava](itereeritav-iterable.md) kõikide elementide käitlemine ja [loendi](loend-list.md) tagastamine: `anna mulle Unicode koodipunkt iga märgi kohta sõnes` 
 
 ```python
@@ -66,4 +68,5 @@ Vaata ka [sõnastiku hõlmamine](sonastiku-holmamine-dictionary-comprehension.md
 Pythoni ametlik dokumentatsioon \(inglise keeles\):
 
 * Documentation &gt; Glossary &gt; [list comprehension](https://docs.python.org/3/glossary.html#term-list-comprehension)
+* Documentation &gt; The Python Tutorial &gt; 5. Data Structures &gt; 5.1. More on lists &gt; [5.1.3. List Comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 

@@ -1,12 +1,10 @@
----
-description: >-
-  lause on osa komplektist (koodiplokist). Lause on kas avaldis (expression) või
-  üks tarinditest (construct) võtmesõnaga (keyword) nagu if, while või for.
----
-
 # lause \(statement\)
 
-## Üksikasjalikumalt
+## Tähendus
+
+{% hint style="info" %}
+lause on osa komplektist \(koodiplokist\). Lause on kas [avaldis](avaldis-expression.md) \(_expression_\) või üks[ tarinditest](keeletarind-language-construct.md) \(_construct_\) võtmesõnaga \(_keyword_\) näiteks nagu if, while või for.
+{% endhint %}
 
 ### Viited
 
