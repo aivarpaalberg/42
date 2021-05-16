@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-Pythoni identifikaatorid \(_identifier_\) mis esinevad [aatomitena](aatom-atom.md) \(_atoms_\) on nimed \(_names_\).
+Pythoni [identifikaatorid](identifikaator-identifier.md) \(_identifier_\) mis esinevad [aatomitena](aatom-atom.md) \(_atoms_\) on nimed \(_names_\).
 {% endhint %}
 
 ## Üksikasjalikumalt

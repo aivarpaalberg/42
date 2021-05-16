@@ -1,12 +1,10 @@
----
-description: >-
-  muutuja (variable) mis on defineeritud klassis ja mis on mõeldud muutmiseks
-  ainult klassi tasemel (s.t. mitte klassi eksemplaril)
----
-
 # klassi muutuja \(class variable\)
 
-## Üksikasjalikumalt
+## Tähendus
+
+{% hint style="info" %}
+muutuja \(variable\) mis on defineeritud[ klassis](klass-class.md) \(_class_\) ja mis on mõeldud muutmiseks ainult klassi tasemel \(s.t. mitte klassi [eksemplaril](eksemplar-instance.md)\)
+{% endhint %}
 
 ## Viited
 

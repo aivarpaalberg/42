@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[objekt ](objekt-object.md)mis esitab \(_representing_\) andmete voo \(_stream_\).
+[objekt ](objekt-object.md)mis esitab \(_representing_\) [andmete](andmed-data.md) voo \(_stream_\).
 {% endhint %}
 
 ## Täpsemalt

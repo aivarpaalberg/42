@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-loogilise mälu või virtuaalmälu ala \(_logical or virtual storage area_\) dokumentide \(_documents_\) või elektronposti \(_electron post_\) korrastamiseks.
+loogilise mälu või virtuaalmälu ala \(_logical or virtual storage area_\) [dokumentide](dokument-document.md) \(_documents_\) või elektronposti \(_electron post_\) korrastamiseks.
 {% endhint %}
 
 ## Viited

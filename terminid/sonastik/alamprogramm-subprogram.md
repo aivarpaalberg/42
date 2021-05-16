@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-identifikaatoriga [moodul](moodul-module.md) \(_module_\), mis kutsutakse juhtimisvoogu \(_control flow_\) teisest [programmist](programm-program.md) \(_program_\) või moodulist erilise [keeletarindi](keeletarind-language-construct.md) \(_language construct_\) abil ja millest juhtimisvoog naaseb väljakutsunud programmi või moodulisse.
+[identifikaatoriga](identifikaator-identifier.md) \(_identifier_\) [moodul](moodul-module.md) \(_module_\), mis kutsutakse [juhtimisvoogu](juhtimisvoog-control-flow.md) \(_control flow_\) teisest [programmist](programm-program.md) \(_program_\) või moodulist erilise [keeletarindi](keeletarind-language-construct.md) \(_language construct_\) abil ja millest juhtimisvoog naaseb väljakutsunud programmi või moodulisse.
 {% endhint %}
 
 ## Viited

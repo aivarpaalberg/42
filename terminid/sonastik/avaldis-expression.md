@@ -10,7 +10,7 @@ süntaksi osa mida saab arvutada mingiks väärtuseks \(väärtustada\).
 
 Teisiti öeldes on avaldis \(_expression_\) kogum avaldiste elemente nagu [literaalid](literaal-literal.md) \(_literals_\), [nimed ](nimi-name.md)\(_names_\),[ atribuutide](atribuut-attribute.md) poole pöördumised \(_attribute access_\), [tehtemärgid](tehtemaerk-operator.md) \(_operators_\) või [funktsiooni](funktsioon-function.md) väljakutsumised \(_function calls_\) mis kõik tagastavad väärtuse. 
 
-Vastupidiselt paljudele programmeerimiskeeltele ei ole kõik [tarindid](keeletarind-language-construct.md) \(_construct_\) Pythonis avaldised \(_expressions_\). On olemas selliseid [lauseid](lause-statement.md) \(_statements_\) mida ei saa kasutada avaldistena, näiteks `if`. Omistamised \(_assignments_\) on ka [laused](lause-statement.md) \(_statements_\), mitte avaldised \(_expressions_\).
+Vastupidiselt paljudele [programmeerimiskeeltele](programmeerimiskeel-programming-language.md) ei ole kõik [tarindid](keeletarind-language-construct.md) \(_construct_\) Pythonis avaldised \(_expressions_\). On olemas selliseid [lauseid](lause-statement.md) \(_statements_\) mida ei saa kasutada avaldistena, näiteks `if`. Omistamised \(_assignments_\) on ka [laused](lause-statement.md) \(_statements_\), mitte avaldised \(_expressions_\).
 
 ```python
 spam = 42    # omistuslause (assignment statement)

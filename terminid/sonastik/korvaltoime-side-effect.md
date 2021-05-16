@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-suvaline [avaldise](avaldis-expression.md) \(_expression_\), [lause](lause-statement.md) \(_statement_\) või alamprogrammi \(_subprogram_\) täitmisest põhjustatud kaudne tagajärg.
+suvaline [avaldise](avaldis-expression.md) \(_expression_\), [lause](lause-statement.md) \(_statement_\) või [alamprogrammi](alamprogramm-subprogram.md) \(_subprogram_\) täitmisest põhjustatud kaudne tagajärg.
 {% endhint %}
 
 ## Viited

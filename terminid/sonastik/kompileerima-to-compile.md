@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-kõrgkeeles \(_high-level language_\) väljendatud programmi või programmiosa transleerimine \(_translate_\) programmiks, mis on väljendatud vahekeeles \(_intermediate language_\), assemblerkeeles \(_assembly language_\) või masinakeeles \(_machine language_\).
+kõrgkeeles \(_high-level language_\) väljendatud [programmi](programm-program.md) või programmiosa transleerimine \(_translate_\) programmiks, mis on väljendatud vahekeeles \(_intermediate language_\), assemblerkeeles \(_assembly language_\) või masinakeeles \(_machine language_\).
 {% endhint %}
 
 ## Viited

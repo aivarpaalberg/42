@@ -10,7 +10,7 @@ väärtus mis edastatakse [funktsioonile](funktsioon-function.md) \(või [meetod
 
 Argumente on kahte liiki:
 
-* **võtmesõna argument** \(_keyword argument_\)- argumendid millele eelneb identifikaator \(`nimi=`\) [funktsiooni](funktsioon-function.md) väljakutses või edastatakse \(_passed_\) kui väärtus [sõnastikus](sonastik-dictionary.md) \(_dict_\) millele eelneb `**`. 
+* **võtmesõna argument** \(_keyword argument_\)- argumendid millele eelneb [identifikaator](identifikaator-identifier.md) \(`nimi=`\) [funktsiooni](funktsioon-function.md) väljakutses või edastatakse \(_passed_\) kui väärtus [sõnastikus](sonastik-dictionary.md) \(_dict_\) millele eelneb `**`. 
 * **kohaargument** \(_positional argument_\) - argumendid mis ei ole võtmesõna argumendid on kohaargumendid. Kohaargumendid võivad ilmuda \(_appear_\) argumentide loendi alguses või edastatakse[ itereeritava](itereeritav-iterable.md) elementidena millele eelneb `*`. 
 
 Argumendid omistatakse \(_assigned_\) nimega lokaalsetele muutujatele \(_local variables_\) funktsiooni kehas \(_body_\)

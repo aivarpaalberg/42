@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[Objekt](objekt-object.md) mis on võimeline tagastama oma liikmeid ühekaupa. 
+[objekt](objekt-object.md), mis on võimeline tagastama oma liikmeid ühekaupa. 
 {% endhint %}
 
 ## Täpsemalt
@@ -12,7 +12,7 @@ Itereeritavateks on näiteks kõik[ jada](jada-sequence.md) tüübid \(_sequence
 
 Itereeritavaid saab kasutada `for` silmuses \(_loop_\) ja paljudes teistes kohtades kus on vajalik [jada](jada-sequence.md) \(_sequence_\) nagu näiteks `zip()` , `map()` jne.
 
-Kui itereeritav [objekt](objekt-object.md) edastatakse sisemisele \(_built-in_\) funktsioonile `iter()` argumendina tagastatakse objekti [iteraator](iteraator-iterator.md) \(_iterator_\). Seda iteraatori väärtuste hulka saab läbida üks kord peale mida on ta ammendunud \(_exhausted_\).
+Kui itereeritav [objekt](objekt-object.md) edastatakse sisemisele \(_built-in_\) [funktsioonile](funktsioon-function.md) `iter()` argumendina tagastatakse objekti [iteraator](iteraator-iterator.md) \(_iterator_\). Seda iteraatori väärtuste hulka saab läbida üks kord peale mida on ta ammendunud \(_exhausted_\).
 
 Itereeritavate kasutamisel ei ole tavaliselt vaja välja kutsuda funktsiooni `iter()` või käsitleda \(_deal_\) [iteraator](iteraator-iterator.md) objekte otse. `for` [lause](lause-statement.md) \(_statement_\) teeb seda sinu jaoks automaatselt luues ajutise \(_temporary_\) nimetu \(_unnamed_\) muutuja \(_variable_\) iteraatori hoidmiseks silmuse korduste ajaks \(_for duration of the loop_\).
 
