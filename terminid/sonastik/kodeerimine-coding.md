@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[programm](programm-program.md)i \(_program_\) programmikeeles \(_programming language_\) väljendamise protsess.
+[programm](programm-program.md)i \(_program_\) [programmikeeles](programmeerimiskeel-programming-language.md) \(_programming language_\) väljendamise protsess.
 {% endhint %}
 
 **Oluline!** Eesti keeles on terminil kodeerimine kaks tähendust, vaata ka  [kodeerimine \(_encoding_\)](kodeerimine-encoding.md)
