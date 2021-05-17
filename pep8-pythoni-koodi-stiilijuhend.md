@@ -2,13 +2,13 @@
 
 ## Sissejuhatus
 
-See dokument annab kodeerimise \(_coding_\) tavad Pythoni koodile
+See dokument annab [kodeerimise](terminid/sonastik/kodeerimine-coding.md) \(_coding_\) tavad Pythoni koodile standard teegis peamises \(_main_\) Pythoni distributsioonis. Palun vaadake kaasnevat informatiivset PEP-i, mis kirjeldab C-koodi stiilijuhiseid Pythoni C-teostuses \(_C implementation of Python_\).
 
-This document gives coding conventions for the Python code comprising the standard library in the main Python distribution. Please see the companion informational PEP describing style guidelines for the C code in the C implementation of Python [\[1\]](https://www.python.org/dev/peps/pep-0008/#id8).
+See dokument ja PEP 257 \(Docstring Conventions\) on kohandatud Guido algsest Pythoni stiilijuhendi esseest koos mõne täiendusega Barry stiilijuhendist.
 
-This document and [PEP 257](https://www.python.org/dev/peps/pep-0257) \(Docstring Conventions\) were adapted from Guido's original Python Style Guide essay, with some additions from Barry's style guide [\[2\]](https://www.python.org/dev/peps/pep-0008/#id9).
+See stiilijuhend areneb ajas, kuna tuvastatakse \(_identified_\) täiendavaid tavasid  ja olemasolevad tavad    aeguvad muutuste tõttu keeles endas. 
 
-This style guide evolves over time as additional conventions are identified and past conventions are rendered obsolete by changes in the language itself.
+Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korral on sellised projektispetsiifilised juhendid selle projekti jaoks ülimuslikud.
 
-Many projects have their own coding style guidelines. In the event of any conflicts, such project-specific guides take precedence for that project.
+
 
