@@ -86,6 +86,10 @@
       * [list.reverse\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.reverse.md)
       * [list.sort\(\)](python/sisseehitatud-tueuebid/loend-list/loendi-list-meetodid/list.sort.md)
 
+---
+
+* [PEP8 - Pythoni koodi stiilijuhend](pep8-pythoni-koodi-stiilijuhend.md)
+
 ## Terminid
 
 * [Sõnastik](terminid/sonastik/README.md)
@@ -132,6 +136,7 @@
   * [keeletarind \(language construct\)](terminid/sonastik/keeletarind-language-construct.md)
   * [klass \(class\)](terminid/sonastik/klass-class.md)
   * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
+  * [kodeerimine \(coding\)](terminid/sonastik/kodeerimine-coding.md)
   * [kodeerimine \(encoding\)](terminid/sonastik/kodeerimine-encoding.md)
   * [kompileerima \(to compile\)](terminid/sonastik/kompileerima-to-compile.md)
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)

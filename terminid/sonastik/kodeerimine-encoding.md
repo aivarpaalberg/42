@@ -6,6 +6,8 @@
 [andmete](andmed-data.md) \(_data_\) teisendamine mingi koodi abil, näiteks teksti teisendamine baitide objektiks \(_byte object_\)
 {% endhint %}
 
+**Oluline!** Eesti keeles on terminil kodeerimine kaks tähendust, vaata ka [kodeerimine \(_coding_\)](kodeerimine-coding.md)
+
 ## Täpsemalt
 
 Kodeermine \(_encoding_\) antud tähenduses ei ole andmete salastamine/krüpteerimine vaid teisendamine kuigi sageli on kodeeritud andmed inimesele loetamatud.
