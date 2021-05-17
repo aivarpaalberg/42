@@ -14,8 +14,6 @@ Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korr
 
 Pythoni ametlik dokumentatsioon \(inglise keeles\):
 
-
-
 * Python &gt; Python Developer's Guide &gt; PEP Index &gt; [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)´´
 
 
