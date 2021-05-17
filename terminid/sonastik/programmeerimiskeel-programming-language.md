@@ -8,7 +8,7 @@ tehiskeel \(_artificial language_\) [programmide](programm-program.md) väljenda
 
 ## Täpsemalt
 
-Programmeerimiskeele \(_programming language_\) sünonüümiks eesti keeles on programmikeel.
+Programmeerimiskeele \(_programming language_\) sünonüümiks eesti keeles on **programmikeel**.
 
 ## Viited
 
