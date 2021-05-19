@@ -14,11 +14,11 @@ Pythonis kasutatakse jutumärke [sõne](../../python/sisseehitatud-tueuebid/sone
 
 ## Eesti keel ja Python
 
-Kõnekeeles on jutumärgid paaris kirjavahemärgid, mida kasutatakse otsese kõne, tsitaadi või väljendi mitteotsese tähenduse eristamiseks tekstis.
+[Loomulikus keeles](loomulik-keel-natural-language.md) \(_natural language_\) on jutumärgid paaris kirjavahemärgid, mida kasutatakse otsese kõne, tsitaadi või väljendi mitteotsese tähenduse eristamiseks tekstis.
 
 Eesti keeles ei ole jutumärkide [ühest kirjutusviisi sätestatud](https://opleht.ee/2014/05/keelekaste-juttu-markidest-jutumarkidest/). Enamasti kasutatakse: `„ ”`, `„ “`, `” ”`, `“ ”`, `« »`
 
-Inimese jaoks pole teksti sisu ja selle mõistmise jaoks oluline, millised jutumärgid täpselt välja näevad \(senikaua kui neid jutumärkidena ära tuntakse\). Arvutite ja programmide puhul aga nii ei saa. Arvutile antavad käsud peavad olema üheselt arusaadavad.
+Inimese jaoks pole teksti sisu ja selle mõistmise jaoks oluline, millised jutumärgid täpselt välja näevad \(senikaua kui neid jutumärkidena ära tuntakse\). Arvutite ja [programmide](programm-program.md) puhul aga nii ei saa. Arvutile antavad käsud peavad olema üheselt arusaadavad.
 
 Pythonis kasutatavad jutumärgid on:
 

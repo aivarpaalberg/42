@@ -30,6 +30,70 @@ Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korr
 
 ### Mooduli  taseme tala nimed
 
+## Sõne jutumärgid
+
+## Tühik avaldistes ja lausetes
+
+### Tüütused
+
+### Muud soovitused
+
+## Millal kasutada järelkoma
+
+## Kommentaarid
+
+### Plokk kommentaarid
+
+### Reasisesed kommentaarid
+
+### Dokumentatsiooni sõned
+
+## Nimetamise tavad
+
+### Valdav printsiip
+
+### Kirjeldav: nimetamise stiilid
+
+### Normatiivne: nimetamise tavad
+
+#### Nimed mida vältida
+
+#### ASCII ühilduvus
+
+#### Pakettide ja moodulite nimed
+
+#### Klassi nimed
+
+#### Tüübimuutujate nimed
+
+#### Erandite nimed
+
+#### Globaalsete muutujate nimed
+
+#### Funktsioonide ja muutujate nimed
+
+#### Funktsioonide ja meetodite argumendid
+
+#### Meetodite nimed ja eksemplari muutujad
+
+#### Konstandid
+
+#### Kavandamine pärilikkuse jaoks
+
+### Avalikud ja sisemised liidesed
+
+## Programmeerimise soovitused
+
+### Funktsioonide ääremärkused
+
+### Muutujate ääremärkused
+
+## Viited
+
+## Autoriõigus
+
+
+
 
 
 
