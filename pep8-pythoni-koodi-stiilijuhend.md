@@ -16,9 +16,15 @@ Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korr
 
 ### Taane
 
+Kasuta 4 tühikut taande taseme kohta.
+
+
+
 ### Tabeldusmärgid või tühikud?
 
 ### Rea maksimaalpikkus
+
+Piira kõigi ridade pikkust maksimaalselt 79 märgiga.
 
 ### Kas reavahetus peaks olema enne või peale binaaroperaatorit?
 
