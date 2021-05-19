@@ -16,6 +16,22 @@ Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korr
 
 ### Taane
 
+### Tabeldusmärgid või tühikud?
+
+### Rea maksimaalpikkus
+
+### Kas reavahetus peaks olema enne või peale binaaroperaatorit?
+
+### Tühjad read
+
+### Lähtefaili kodeering
+
+### Importimine
+
+### Mooduli  taseme tala nimed
+
+
+
 
 
 ## Viited:

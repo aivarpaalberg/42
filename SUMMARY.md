@@ -182,6 +182,7 @@
   * [sõnastiku hõlmamine \(dictionary comprehension\)](terminid/sonastik/sonastiku-holmamine-dictionary-comprehension.md)
   * [sõnastiku vaade \(dictionary view\)](terminid/sonastik/sonastiku-vaade-dictionary-view.md)
   * [sümbol \(symbol\)](terminid/sonastik/suembol-symbol.md)
+  * [tala \(dunder\)](terminid/sonastik/tala-dunder.md)
   * [talletama \(to store\)](terminid/sonastik/talletama-to-store.md)
   * [tehe \(operation\)](terminid/sonastik/tehe-operation.md)
   * [tehtemärk \(operator\)](terminid/sonastik/tehtemaerk-operator.md)
