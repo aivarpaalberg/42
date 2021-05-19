@@ -10,6 +10,14 @@ See stiilijuhend areneb ajas, kuna tuvastatakse \(_identified_\) täiendavaid ta
 
 Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korral on sellised projektispetsiifilised juhendid selle projekti jaoks ülimuslikud.
 
+## Väikest mõistust painab rumal järjepidevus
+
+## Koodi paigutus
+
+### Taane
+
+
+
 ## Viited:
 
 Pythoni ametlik dokumentatsioon \(inglise keeles\):
