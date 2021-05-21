@@ -12,7 +12,20 @@ Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korr
 
 ## Väikest mõistust painab rumal järjepidevus
 
-Guido üks võtmekaemusi on see, et koodi loetakse palju sagedamini kui seda kirjutatakse. Siin toodud juhiste eesmärk on parandada koodi loetavust ja muuta Pythoni kood kogu laias spektris kooskõlaliseks. Nagu PEP 20 ütleb: "Loetavus loeb".
+Guido üks võtmekaemusi on see, et koodi loetakse palju sagedamini kui seda kirjutatakse. Siin toodud juhiste eesmärk on parandada koodi loetavust ja ühtlustada Pythoni koodi kogu selle laias spektris. Nagu PEP 20 ütleb: "Loetavus loeb".
+
+Stiilijuhend on järjepidevusest. Järjepidevus stiilijuhendi järgimisel on tähtis. Projektisisene järjepidevus on tähtsam. Järjepidevus moodulis või funktsioonis on kõige tähtsam.
+
+Aga tea, milla olla ebajärjekindel - mõnikord ei ole stiilijuhendi soovitused lihtsalt rakendatavad.  Kui kahtled, kasuta oma parimat äranägemist. Vaata teisi näiteid ja otsusta, mis kõige paremini välja näeb. Ja ära karda küsida!
+
+Eriti: ära katkesta tagasiühilduvust \(_backward compatibility_\) ainult selle PEP järgmiseks.
+
+Mõned muud head põhjused konkreetse stiilijuhise eiramiseks:
+
+1. Kui stiilijuhise rakendamine muudaks koodi vähem loetavaks isegi kellelegi, kes on harjunud lugema koodi mis järgib käesolevat PEP-i.
+2. Et olla kooskõlas ümbritseva koodiga, mis samuti seda rikub \(võib-ollo ajaloolistel põhjustel\) - kuigi see on ka hea võimalus koristada kellegi teise järelt \(tõelises XP stiilis\)
+3. Kuna kõnealune kood eelnes stiilijuhendi kasutuselevõtule ja selle koodi muutmiseks pole muud põhjust.
+4. Kui kood peab jääma ühilduvaks Pythoni vanemate versioonidega, mis ei toeta stiilijuhendis soovitatud erisust \(_feature_\).
 
 ## Koodi paigutus
 
@@ -22,7 +35,13 @@ Kasuta 4 tühikut taande taseme kohta.
 
 
 
-### Tabeldusmärgid või tühikud?
+### Tabeldus või tühikud?
+
+**Tühikud** on eelistatud taandemeetod.
+
+Tabeldust tuleks kasutada ainult selleks, et need oleksid kooskõlas koodiga, mis on juba tabeldusega taandatud.
+
+Python 3 keelab tabeldusmärkide ja tühikute segamini kasutamise taandamisel.
 
 ### Rea maksimaalpikkus
 
