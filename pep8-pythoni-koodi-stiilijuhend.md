@@ -37,11 +37,15 @@ Kasuta 4 tühikut taande taseme kohta.
 
 ### Tabeldus või tühikud?
 
-**Tühikud** on eelistatud taandemeetod.
+Tühikud \(_spaces_\) on eelistatud taandemeetod.
 
-Tabeldust tuleks kasutada ainult selleks, et need oleksid kooskõlas koodiga, mis on juba tabeldusega taandatud.
+Tabeldust \(_tab_\) tuleks kasutada ainult selleks, et need oleksid kooskõlas koodiga, mis on juba tabeldusega taandatud.
 
-Python 3 keelab tabeldusmärkide ja tühikute segamini kasutamise taandamisel.
+Python 3 keelab taandamisel tabelduste ja tühikute segamini kasutamise.
+
+Python 2 kood, mis on taandatud läbisegi tabelduste ja tühikutega tuleks teisendada ainult tühikuid kasutavaks.
+
+Käivitades Python 2 käsurea interpretaatori `-t` valikuga, annab see hoiatusi koodi kohta, mis kasutab keelatult tabeldusi ja tühikuid läbisegi. Kasutades `-tt` valikut muutuvad need hoiatused vigadeks. Need valikud on väga soovitatavad!
 
 ### Rea maksimaalpikkus
 
