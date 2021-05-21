@@ -15,45 +15,45 @@ Sarnaselt vim-ile on Vimaril olekud \(_modes_\):
 
 Olekute eristamine võimaldab liikumisega seotud tegevust ühe klahvivajutusega. Vaikimisi olekuks on normaalne s.t. liikumise olek. Olekute vahel saab liikuda:
 
-| Klahvivajutus | Tegevus |
+| Klahvivajutus\* | Tegevus |
 | :--- | :--- |
-| **i** | mine lisamise olekusse \(_insert mode_\) |
+| **I** | mine lisamise olekusse \(_insert mode_\) |
 | **ESC** | mine normaalsesse olekusse \(_normal mode_\) |
 
 ### Vimari vaated
 
 Vimari on vaikimisi normaalses olekus ja tavavaates s.t. et liikumise klahvid on aktiivsed aga linke klaviatuurilt valida ei saa. Linkide valimiseks klaviatuurilt tuleb aktiveerida lingivaade. Lingivaateid on kaks - üks avab lingitud lehe samas aknas ja teine avab lehe uues sakis. Lingivaate korral on lehe iga lingi juures kollane ikoon kahe tähega mille valimine klaviatuuril on sama mis antud lingil klõpsamine.
 
-| Klahvivajutus | Tegevus |
+| Klahvivajutus\(ed\)\* | Tegevus |
 | :--- | :--- |
-| **f** | rakenda lingivaade  |
-| **F** | rakenda lingivaade, ava lehed uues sakis \(_tab_\) |
+| **F** | rakenda lingivaade  |
+| **⇧ F** | rakenda lingivaade, ava lehed uues sakis \(_tab_\) |
 
 ### Lehesisene \(_in-page_\) liikumine
 
-| Klahvivajutus\(ed\) | Tegevus |
+| Klahvivajutus\(ed\)\* | Tegevus |
 | :--- | :--- |
-| **k** | keri ülespoole |
-| **j** | keri allapoole |
-| **h** | keri vasakule |
-| **l** | keri paremale |
-| **u** | keri pool lehekülge ülespoole |
-| **d** | keri pool lehekülge allapoole |
-| **g g** | mine lehekülje algusesse |
-| **G** | mine lehekülje lõppu |
-| **g i** | mine esimesele sisestusväljale ja lisamise olekusse |
+| **K** | keri ülespoole |
+| **J** | keri allapoole |
+| **H** | keri vasakule |
+| **L** | keri paremale |
+| **U** | keri pool lehekülge ülespoole |
+| **D** | keri pool lehekülge allapoole |
+| **G G** | mine lehekülje algusesse |
+| **⇧ G** | mine lehekülje lõppu |
+| **G I** | mine esimesele sisestusväljale ja lisamise olekusse |
 
 ###  Lehtede \(_pages_\) ja sakkide \(_tabs_\) vahel liikumine 
 
-| Klahvivajutus | Tegevus |
+| Klahvivajutus\(ed\)\* | Tegevus |
 | :--- | :--- |
-| H | eelmine lehekülg \(_history back_\) |
-| L | järgmine lehekülg \(_history forward_\) |
-| r | taaslaadi \(_reload_\) |
-| w | järgine sakk \(_tab_\) |
-| q | eelmine sakk \(_tab_\) |
-| x | sulge käesolev sakk \(_close current tab_\) |
-| t | ava uus sakk \(_open new tab_\) |
+| **⇧ H** | eelmine lehekülg \(_history back_\) |
+| **⇧ L** | järgmine lehekülg \(_history forward_\) |
+| **R** | taaslaadi \(_reload_\) |
+| **W** | järgine sakk \(_tab_\) |
+| **Q** | eelmine sakk \(_tab_\) |
+| **X** | sulge käesolev sakk \(_close current tab_\) |
+| **T** | ava uus sakk \(_open new tab_\) |
 
-
+\*Täpsed klahvivajutused s.t. suurtäht tähistab klahvil olevat tähte, juhul kui on vaja sisestada tegelik suurtäht, siis eelneb täheklahvile tõsteklahv.
 

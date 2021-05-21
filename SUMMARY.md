@@ -138,6 +138,7 @@
   * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
   * [kodeerimine \(coding\)](terminid/sonastik/kodeerimine-coding.md)
   * [kodeerimine \(encoding\)](terminid/sonastik/kodeerimine-encoding.md)
+  * [kood \(code\)](terminid/sonastik/kood-code.md)
   * [kompileerima \(to compile\)](terminid/sonastik/kompileerima-to-compile.md)
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)
   * [kursor \(cursor\)](terminid/sonastik/kursor-cursor.md)
