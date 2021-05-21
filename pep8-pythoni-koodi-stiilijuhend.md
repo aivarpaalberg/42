@@ -67,6 +67,50 @@ Piira kõigi ridade pikkust maksimaalselt 79 märgiga.
 
 ### Tüütused
 
+Väldi tühikuid järgmistes olukordades:
+
+* Vahetult sulgude \(_parentheses_\), nurksulgude \(_brackets_\), nurgeliste sulgude \(_braces_\) sees:
+
+```python
+# Õige
+
+spam(ham[1], {eggs: 2})
+```
+
+```python
+# Vale
+
+spam( ham[ 1 ], { eggs: 2 } )
+```
+
+* Järelkoma ja lõpetava sulu vahel:
+
+```python
+# Õige
+
+foo = (0,)
+```
+
+```python
+# Vale
+
+foo = (0, )
+```
+
+* vahetult enne koma \(_comma_\), semikoolonit \(_semicolon_\) või koolonit \(_colon_\):
+
+```python
+# Õige
+
+if x == 4: print x, y; x, y = y, x
+```
+
+```python
+# Vale
+
+if x == 4 : print x , y ; x , y = y , x
+```
+
 ### Muud soovitused
 
 ## Millal kasutada järelkoma
