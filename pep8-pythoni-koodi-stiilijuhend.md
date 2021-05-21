@@ -12,6 +12,8 @@ Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korr
 
 ## Väikest mõistust painab rumal järjepidevus
 
+Guido üks võtmekaemusi on see, et koodi loetakse palju sagedamini kui seda kirjutatakse. Siin toodud juhiste eesmärk on parandada koodi loetavust ja muuta Pythoni kood kogu laias spektris kooskõlaliseks. Nagu PEP 20 ütleb: "Loetavus loeb".
+
 ## Koodi paigutus
 
 ### Taane
