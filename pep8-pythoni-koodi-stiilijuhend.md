@@ -2,7 +2,7 @@
 
 ## Sissejuhatus
 
-See dokument annab [kodeerimise](terminid/sonastik/kodeerimine-coding.md) \(_coding_\) tavad \(_conventions_\) Pythoni koodile peamise \(_main_\) Pythoni distributsiooni standard teegis \(_standard library_\). Palun vaadake kaasnevat informatiivset PEP-i, mis kirjeldab C-koodi stiilijuhiseid Pythoni C-teostuses \(_C implementation of Python_\).
+See dokument annab [kodeerimise](terminid/sonastik/kodeerimine-coding.md) \(_coding_\) tavad \(_conventions_\) Pythoni [koodile](terminid/sonastik/kood-code.md) peamise \(_main_\) Pythoni distributsiooni standard teegis \(_standard library_\). Palun vaadake kaasnevat informatiivset PEP-i, mis kirjeldab C-koodi stiilijuhiseid Pythoni C-teostuses \(_C implementation of Python_\).
 
 See dokument ja PEP 257 \(Docstring Conventions\) on kohandatud Guido algsest Pythoni stiilijuhendi esseest koos mõne täiendusega Barry stiilijuhendist.
 
@@ -12,17 +12,17 @@ Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korr
 
 ## Väikest mõistust painab rumal järjepidevus
 
-Guido üks võtmekaemusi on see, et koodi loetakse palju sagedamini kui seda kirjutatakse. Siin toodud juhiste eesmärk on parandada koodi loetavust ja ühtlustada Pythoni koodi kogu selle laias spektris. Nagu PEP 20 ütleb: "Loetavus loeb".
+Guido üks võtmekaemusi on see, et [koodi](terminid/sonastik/kood-code.md) loetakse palju sagedamini kui seda kirjutatakse. Siin toodud juhiste eesmärk on parandada koodi loetavust ja ühtlustada Pythoni koodi kogu selle laias spektris. Nagu PEP 20 ütleb: "Loetavus loeb".
 
-Stiilijuhend on järjepidevusest. Järjepidevus stiilijuhendi järgimisel on tähtis. Projektisisene järjepidevus on tähtsam. Järjepidevus moodulis või funktsioonis on kõige tähtsam.
+Stiilijuhend on järjepidevusest. Järjepidevus stiilijuhendi järgimisel on tähtis. Projektisisene järjepidevus on tähtsam. Järjepidevus [moodulis](terminid/sonastik/moodul-module.md) või [funktsioonis](terminid/sonastik/funktsioon-function.md) on kõige tähtsam.
 
 Aga tea, milla olla ebajärjekindel - mõnikord ei ole stiilijuhendi soovitused lihtsalt rakendatavad.  Kui kahtled, kasuta oma parimat äranägemist. Vaata teisi näiteid ja otsusta, mis kõige paremini välja näeb. Ja ära karda küsida!
 
-Eriti: ära katkesta tagasiühilduvust \(_backward compatibility_\) ainult selle PEP järgmiseks.
+Eriti: ära katkesta tagasiühilduvust \(_backward compatibility_\) ainult selle PEP järgimiseks.
 
 Mõned muud head põhjused konkreetse stiilijuhise eiramiseks:
 
-1. Kui stiilijuhise rakendamine muudaks koodi vähem loetavaks isegi kellelegi, kes on harjunud lugema koodi mis järgib käesolevat PEP-i.
+1. Kui stiilijuhise rakendamine muudaks [koodi](terminid/sonastik/kood-code.md) vähem loetavaks isegi kellelegi, kes on harjunud lugema koodi mis järgib käesolevat PEP-i.
 2. Et olla kooskõlas ümbritseva koodiga, mis samuti seda rikub \(võib-ollo ajaloolistel põhjustel\) - kuigi see on ka hea võimalus koristada kellegi teise järelt \(tõelises XP stiilis\)
 3. Kuna kõnealune kood eelnes stiilijuhendi kasutuselevõtule ja selle koodi muutmiseks pole muud põhjust.
 4. Kui kood peab jääma ühilduvaks Pythoni vanemate versioonidega, mis ei toeta stiilijuhendis soovitatud erisust \(_feature_\).
@@ -39,7 +39,7 @@ Kasuta 4 tühikut taande taseme kohta.
 
 Tühikud \(_spaces_\) on eelistatud taandemeetod.
 
-Tabeldust \(_tab_\) tuleks kasutada ainult selleks, et need oleksid kooskõlas koodiga, mis on juba tabeldusega taandatud.
+Tabeldust \(_tab_\) tuleks kasutada ainult selleks, et need oleksid kooskõlas [koodiga](terminid/sonastik/kood-code.md), mis on juba tabeldusega taandatud.
 
 Python 3 keelab taandamisel tabelduste ja tühikute segamini kasutamise.
 

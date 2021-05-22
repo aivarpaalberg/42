@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-tehiskeel \(_artificial language_\) [programmide](programm-program.md) väljendamiseks.
+[tehiskeel](tehiskeel-artificial-language.md) \(_artificial language_\) [programmide](programm-program.md) väljendamiseks.
 {% endhint %}
 
 ## Täpsemalt
