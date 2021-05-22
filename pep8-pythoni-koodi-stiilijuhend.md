@@ -115,6 +115,10 @@ if x == 4 : print x , y ; x , y = y , x
 
 ## Millal kasutada järelkoma
 
+Järelkomad \(_trailing commas_\) on tavaliselt valikulised \(_optional_\) välja arvatud juhul kui luua ühe elemendiga ennik \(_tuple_\) mille puhul on järelkoma kohustuslik \(ja Python 2-s on neil semantika `print` lause \(_statement_\) jaoks\). Selguse huvides on soovitav ümbritseda viimane \(tehniliselt liigsete\) sulgudega \(_parantheses_\).
+
+
+
 ## Kommentaarid
 
 ### Plokk kommentaarid

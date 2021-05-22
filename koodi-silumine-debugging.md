@@ -4,7 +4,7 @@ description: 'Staatus: mustand'
 
 # Koodi silumine \(debugging\)
 
-Olenemata programmeerimisoskuse tasemest leiad ennast aegajalt olukorrast kus  Sinu [kood](terminid/sonastik/kood-code.md) \(_code_\) annab oodatust erineva tulemus. Seda juhtub nii siis, kui Sa oled alles alustamas, aga ka siis kui oled juba programeerimises vana kala. See on täiesti normaalne. Vea võib teha \(ja teebki\) iga programmeerija ja mistahes [kodeerimise](terminid/sonastik/kodeerimine-coding.md) käigus.
+Olenemata programmeerimisoskuse tasemest leiad ennast aegajalt olukorrast kus Sinu [kood](terminid/sonastik/kood-code.md) \(_code_\) annab oodatust erineva tulemus. Seda juhtub nii siis, kui Sa oled alles alustanud programmeerimisega, aga ka siis kui oled selles juba vana kala. See on täiesti normaalne. Vea võib teha \(ja teebki\) iga programmeerija ja mistahes [kodeerimise](terminid/sonastik/kodeerimine-coding.md) käigus.
 
 ## Terminoloogia
 
@@ -21,12 +21,12 @@ Vead võivad avalduda:
 * [kompileerimise](terminid/sonastik/kompileerima-to-compile.md) ajal \(_compile time_\) 
 * [käitusjärgu](terminid/sonastik/kaeitusjaerk-runtime.md) ajal \(_runtime_\)
 
-Koodi käivitades kompileerib Python selle \(_soruce code_\) masinkoodiks \(_machine code_\). Kui teisendamine masinkoodi ei õnnestu, siis koodi ei käivitata ja Python informeerib kasutajat veast. Kompileerimise ajal kõige sagedamini esinev viga on `SyntaxError` s.t. et on eksitud süntaksi reeglite vastu. Näiteks kui kasutatakse samaliigilisi jutumärke pesastatult ilma paomärgita:
+Selleks, et koodi [täita](terminid/sonastik/taeitmine-execution.md) \(_execute_\) [kompileerib](terminid/sonastik/kompileerima-to-compile.md) \(_to compile_\) Python selle \(_source code_\) masinkoodiks \(_machine code_\). Kui teisendamine masinkoodi ei õnnestu, siis koodi ei [täideta](terminid/sonastik/taeitmine-execution.md) ja Python informeerib kasutajat veast. Kompileerimise ajal kõige sagedamini esinev viga on `SyntaxError` s.t. et on eksitud süntaksi reeglite vastu. Näiteks kui kasutatakse samaliigilisi jutumärke pesastatult ilma paomärgita:
 
 ```python
 >>> 'Selle raamatu kirjastaja on 0'Reilly'
   File "<stdin>", line 1
-    'Seller raamatu kirjastaja on O'Reilly'
+    'Selle raamatu kirjastaja on O'Reilly'
                                          ^
 SyntaxError: invalid syntax
 ```
