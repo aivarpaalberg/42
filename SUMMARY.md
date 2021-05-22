@@ -89,6 +89,7 @@
 ---
 
 * [PEP8 - Pythoni koodi stiilijuhend](pep8-pythoni-koodi-stiilijuhend.md)
+* [Koodi silumine \(debugging\)](koodi-silumine-debugging.md)
 
 ## Terminid
 
