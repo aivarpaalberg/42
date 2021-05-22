@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[programmides](programm-program.md)  vigu \(_errors_\) avastama \(_detect_\), lokaliseerima \(_locate_\) ja kõrvaldama \(_eliminate_\)
+[programmides](programm-program.md)  [vigu](viga-error.md) \(_errors_\) avastama \(_detect_\), lokaliseerima \(_locate_\) ja kõrvaldama \(_eliminate_\)
 {% endhint %}
 
 ## Viited
