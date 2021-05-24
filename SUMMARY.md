@@ -94,6 +94,7 @@
 ## Terminid
 
 * [Sõnastik](terminid/sonastik/README.md)
+  * [aadress \(address\)](terminid/sonastik/aadress-address.md)
   * [aatom \(atom\)](terminid/sonastik/aatom-atom.md)
   * [alamprogramm \(subprogram\)](terminid/sonastik/alamprogramm-subprogram.md)
   * [alfabeet \(alphabet\)](terminid/sonastik/alfabeet-alphabet.md)
