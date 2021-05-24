@@ -152,6 +152,10 @@ initialize(FILES, error=True,)
 
 ## Kommentaarid
 
+Kommentaarid mis on vastuolus koodiga on halvemad kui kood ilma kommentaarideta. Koodi muutumisel sea alati prioriteediks kommentaaride hoidmine ajakohasena!
+
+Kommentaarid peaksid olema täislaused. Esimene sõna peaks algama suurtähega, välja arvatud juhul, kui see on [identifikaator](terminid/sonastik/identifikaator-identifier.md) \(_identifier_\), mis algab väiketähega \(ära kunagi muuda identifikaatorite tähti!\). 
+
 ### Plokk kommentaarid
 
 ### Reasisesed kommentaarid
