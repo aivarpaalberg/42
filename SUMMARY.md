@@ -120,6 +120,7 @@
   * [generaator iteraator \(generator iterator\)](terminid/sonastik/generaator-iteraator-generator-iterator.md)
   * [globaalne \(global\)](terminid/sonastik/globaalne-global.md)
   * [harilik pakett \(regular package\)](terminid/sonastik/harilik-pakett-regular-package.md)
+  * [hulk \(set\)](terminid/sonastik/hulk-set.md)
   * [identifikaator \(identifier\)](terminid/sonastik/identifikaator-identifier.md)
   * [identiteet \(identity\)](terminid/sonastik/identiteet-identity.md)
   * [importimine \(importing\)](terminid/sonastik/importimine-importing.md)
