@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[programmi](programm-program.md) \(_program_\) osa, milles deklaratsioon \(_declaration_\) kehtib \(_valid_\)
+[programmi](programm-program.md) \(_program_\) osa, milles [deklaratsioon](deklaratsioon-declaration.md) \(_declaration_\) kehtib \(_valid_\)
 {% endhint %}
 
 ## Viited
