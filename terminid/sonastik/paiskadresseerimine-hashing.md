@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-teatav meetod \(_method_\), millega otsivõti \(_search key_\) __[andmete](andmed-data.md) \(_data_\) __ [salvestuse](salvestama-to-store.md) \(_storing_\) ja võtu \(_retrieving_\) eesmärgiga teisendatakse  __aadressiks _\(address\)_.
+teatav meetod \(_method_\), millega otsivõti \(_search key_\) __[andmete](andmed-data.md) \(_data_\) __ [salvestuse](salvestama-to-store.md) \(_storing_\) ja võtu \(_retrieving_\) eesmärgiga teisendatakse  __[aadressiks](aadress-address.md) _\(address\)_.
 {% endhint %}
 
 Meetod kavandatakse sageli minimeerima otsinguaega \(_search time_\)
