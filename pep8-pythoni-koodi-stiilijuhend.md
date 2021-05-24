@@ -2,7 +2,7 @@
 
 ## Sissejuhatus
 
-See dokument annab [kodeerimise](terminid/sonastik/kodeerimine-coding.md) \(_coding_\) tavad \(_conventions_\)  peamise \(_main_\) Pythoni distributsiooni standard teegi \(_standard library_\) [koodile](terminid/sonastik/kood-code.md). Palun vaadake kaasnevat informatiivset PEP-i, mis kirjeldab C-koodi stiilijuhiseid Pythoni C-teostuses \(_C implementation of Python_\).
+See dokument annab [kodeerimise](terminid/sonastik/kodeerimine-coding.md) \(_coding_\) tavad \(_conventions_\)  peamise \(_main_\) Pythoni distributsiooni standard teegi \(_standard library_\) [koodile](terminid/sonastik/kood-code.md). Palun vaata kaasnevat informatiivset PEP-i, mis kirjeldab C-koodi stiilijuhiseid Pythoni C-teostuses \(_C implementation of Python_\).
 
 See dokument ja PEP 257 \(Docstring Conventions\) on kohandatud Guido algsest Pythoni stiilijuhendi esseest koos mõne täiendusega Barry stiilijuhendist.
 
@@ -123,7 +123,32 @@ Järelkomad \(_trailing commas_\) on tavaliselt valikulised \(_optional_\) välj
 FILES = ('setup.cfg',)
 ```
 
+```python
+# Vale
 
+FILES = 'setup.cfg',
+```
+
+Kui järelkomad on üleliigsed \(_redundant_\), on neist sageli kasu versioonihaldussüsteemi kasutamisel, kui eeldatakse, et väärtuste \(_values_\), argumentide \(_arguments_\) või imporditud \(_imported_\) üksuste \(_items_\) loetelu pikeneb aja jooksul. Mustriks on  panna iga väärtus \(vms\) eraldi reale, lisades alati järelkoma ja pannes sulud \(_parantheses_\) / nurksulud \(_brackets_\) / nurgelised sulud \(_braces_\) järgmisele reale. Kuid pole mõtet omada järelkoma samal real kui sulgev eraldaja \(_closing delimiter_\) \(välja arvatud ülaltoodud üksiku elemendiga ennikute puhul\):
+
+```python
+# Õige
+
+FILES = [
+    'setup.cfg',
+    'tox.ini',
+    ]
+initialize(FILES,
+           error=True,
+           )
+```
+
+```python
+# Vale
+
+FILES = ['setup.cfg', 'tox.ini',]
+initialize(FILES, error=True,)
+```
 
 ## Kommentaarid
 
