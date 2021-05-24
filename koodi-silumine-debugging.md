@@ -4,7 +4,7 @@ description: 'Staatus: mustand'
 
 # Koodi silumine \(debugging\)
 
-Olenemata programmeerimisoskuse tasemest leiad ennast aegajalt olukorrast kus Sinu [kood](terminid/sonastik/kood-code.md) \(_code_\) annab oodatust erineva tulemus. Seda juhtub nii siis, kui Sa oled alles alustanud programmeerimisega, aga ka siis kui oled selles juba vana kala. See on täiesti normaalne. Vea võib teha \(ja teebki\) iga programmeerija ja mistahes [kodeerimise](terminid/sonastik/kodeerimine-coding.md) käigus.
+Olenemata programmeerimisoskuse tasemest leiad ennast aeg-ajalt olukorrast kus Sinu [kood](terminid/sonastik/kood-code.md) \(_code_\) annab oodatust erineva tulemus. Seda juhtub nii siis, kui Sa oled alles alustanud programmeerimisega, aga ka siis kui oled selles juba vana kala. See on täiesti normaalne. Vea võib teha \(ja teebki\) iga programmeerija ja mistahes [kodeerimise](terminid/sonastik/kodeerimine-coding.md) käigus.
 
 ## Terminoloogia
 
