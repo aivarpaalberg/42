@@ -2,7 +2,7 @@
 
 ## Sissejuhatus
 
-See dokument annab [kodeerimise](terminid/sonastik/kodeerimine-coding.md) \(_coding_\) tavad \(_conventions_\) Pythoni [koodile](terminid/sonastik/kood-code.md) peamise \(_main_\) Pythoni distributsiooni standard teegis \(_standard library_\). Palun vaadake kaasnevat informatiivset PEP-i, mis kirjeldab C-koodi stiilijuhiseid Pythoni C-teostuses \(_C implementation of Python_\).
+See dokument annab [kodeerimise](terminid/sonastik/kodeerimine-coding.md) \(_coding_\) tavad \(_conventions_\)  peamise \(_main_\) Pythoni distributsiooni standard teegi \(_standard library_\) [koodile](terminid/sonastik/kood-code.md). Palun vaadake kaasnevat informatiivset PEP-i, mis kirjeldab C-koodi stiilijuhiseid Pythoni C-teostuses \(_C implementation of Python_\).
 
 See dokument ja PEP 257 \(Docstring Conventions\) on kohandatud Guido algsest Pythoni stiilijuhendi esseest koos mõne täiendusega Barry stiilijuhendist.
 
@@ -115,7 +115,13 @@ if x == 4 : print x , y ; x , y = y , x
 
 ## Millal kasutada järelkoma
 
-Järelkomad \(_trailing commas_\) on tavaliselt valikulised \(_optional_\) välja arvatud juhul kui luua ühe elemendiga ennik \(_tuple_\) mille puhul on järelkoma kohustuslik \(ja Python 2-s on neil semantika `print` lause \(_statement_\) jaoks\). Selguse huvides on soovitav ümbritseda viimane \(tehniliselt liigsete\) sulgudega \(_parantheses_\).
+Järelkomad \(_trailing commas_\) on tavaliselt valikulised \(_optional_\) välja arvatud juhul kui luua ühe elemendiga ennik \(_tuple_\) mille puhul on järelkoma kohustuslik \(ja Python 2-s on neil semantika `print` [lause](terminid/sonastik/lause-statement.md) \(_statement_\) jaoks\). Selguse huvides on soovitav ümbritseda viimane \(tehniliselt liigsete\) sulgudega \(_parantheses_\).
+
+```python
+# Õige
+
+FILES = ('setup.cfg',)
+```
 
 
 
