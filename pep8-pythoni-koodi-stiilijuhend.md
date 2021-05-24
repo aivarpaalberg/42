@@ -14,7 +14,7 @@ Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korr
 
 Guido üks võtmekaemusi on see, et [koodi](terminid/sonastik/kood-code.md) loetakse palju sagedamini kui seda kirjutatakse. Siin toodud juhiste eesmärk on parandada koodi loetavust ja ühtlustada Pythoni koodi kogu selle laias spektris. Nagu PEP 20 ütleb: "Loetavus loeb".
 
-Stiilijuhend on järjepidevusest. Järjepidevus stiilijuhendi järgimisel on tähtis. Projektisisene järjepidevus on tähtsam. Järjepidevus [moodulis](terminid/sonastik/moodul-module.md) või [funktsioonis](terminid/sonastik/funktsioon-function.md) on kõige tähtsam.
+Stiilijuhend on järjepidevusest \(_consistency_\). Järjepidevus stiilijuhendi järgimisel on tähtis. Projektisisene järjepidevus on tähtsam. Järjepidevus [moodulis](terminid/sonastik/moodul-module.md) või [funktsioonis](terminid/sonastik/funktsioon-function.md) on kõige tähtsam.
 
 Aga tea, milla olla ebajärjekindel - mõnikord ei ole stiilijuhendi soovitused lihtsalt rakendatavad.  Kui kahtled, kasuta oma parimat äranägemist. Vaata teisi näiteid ja otsusta, mis kõige paremini välja näeb. Ja ära karda küsida!
 
@@ -39,7 +39,7 @@ Kasuta 4 tühikut taande taseme kohta.
 
 Tühikud \(_spaces_\) on eelistatud taandemeetod.
 
-Tabeldust \(_tab_\) tuleks kasutada ainult selleks, et need oleksid kooskõlas [koodiga](terminid/sonastik/kood-code.md), mis on juba tabeldusega taandatud.
+Tabeldusi \(_tab_\) tuleks kasutada ainult selleks, et need oleksid kooskõlas [koodiga](terminid/sonastik/kood-code.md), mis on juba tabeldusega taandatud.
 
 Python 3 keelab taandamisel tabelduste ja tühikute segamini kasutamise.
 
@@ -58,6 +58,55 @@ Piira kõigi ridade pikkust maksimaalselt 79 märgiga.
 ### Lähtefaili kodeering
 
 ### Importimine
+
+Importimine peaks tavaliselt toimuma eraldi ridadel:
+
+```python
+# Õige
+import os
+import sys
+```
+
+```python
+# Vale
+import os, sys
+```
+
+Siiski on sedasi öelda OK:
+
+```python
+# Õige
+from subprocess import Popen, PIPE
+```
+
+Importimised pannakse alati faili algusesse, kohe peale mooduli kommentaare ja dokumentatsiooni sõnet ning enne mooduli globaale \(_global_\) ja konstante \(_constants_\).
+
+Importimised tuleks grupeerida järgnevas järjestuses:
+
+1. Standardteegi \(_standard library_\) importimised
+2. Seotud \(_related_\) kolmanda osapoole \(_third party_\) importimised
+3. Kohaliku rakenduse \(_application_\) / teegi \(_library_\) spetsiifilised importimised
+
+Peaksid panema tühja rea iga importimise grupi vahele.
+
+* soovitavad on absoluutsed importimised \(_absolute imports_\), kuna need on tavaliselt loetavamad ja kipuvad \(_tend to_\) olema paremini käituvad \(_be better behaved_\) \(või vähemalt annavad paremaid veateateid\) kui importimise süsteem on valesti konfigureeritud \(nagu siis kui paketisisene kataloog \(_directory_\) lõpetab `sys.path` peal\):
+
+```python
+import mypkg.sibling
+from mypkg import sibling
+from mypkg.sibling import example
+```
+
+Siiski on ilmutatud \(_explicit_\) suhtleline \(_relative_\) importimine aksepteeritav alternatiiv absoluutsele importimisele, eriti kui tegu on komplekse paketi paigutusega \(_layout_\), kus absoluutse importimise kasutamine oleks liigselt paljusõnaline \(_verbose_\):
+
+```python
+from . import sibling
+from .sibling import example
+```
+
+Standardteegi \(_standrd library_\)  [kood](terminid/sonastik/kood-code.md) \(_code_\) peaks vältima keerukaid paketipaigutusi ja kasutama alati absoluutset importimist.
+
+Ilmutamata \(_implicit_\) suhtelist \(_relative_\) importimist ei tohiks _kunagi_ kasutada ja see on Python 3-st eemaldatud.
 
 ### Mooduli  taseme tala nimed
 
@@ -115,7 +164,7 @@ if x == 4 : print x , y ; x , y = y , x
 
 ## Millal kasutada järelkoma
 
-Järelkomad \(_trailing commas_\) on tavaliselt valikulised \(_optional_\) välja arvatud juhul kui luua ühe elemendiga ennik \(_tuple_\) mille puhul on järelkoma kohustuslik \(ja Python 2-s on neil semantika `print` [lause](terminid/sonastik/lause-statement.md) \(_statement_\) jaoks\). Selguse huvides on soovitav ümbritseda viimane \(tehniliselt liigsete\) sulgudega \(_parantheses_\).
+Järelkomad \(_trailing commas_\) on tavaliselt valikulised \(_optional_\) välja arvatud juhul, kui luua ühe elemendiga ennik \(_tuple_\), mille puhul on järelkoma kohustuslik \(ja Python 2-s on neil semantika `print` [lause](terminid/sonastik/lause-statement.md) \(_statement_\) jaoks\). Selguse huvides on soovitav ümbritseda viimane \(tehniliselt liigsete\) sulgudega \(_parantheses_\).
 
 ```python
 # Õige
@@ -152,9 +201,15 @@ initialize(FILES, error=True,)
 
 ## Kommentaarid
 
-Kommentaarid mis on vastuolus koodiga on halvemad kui kood ilma kommentaarideta. Koodi muutumisel sea alati prioriteediks kommentaaride hoidmine ajakohasena!
+Kommentaarid, mis on vastuolus koodiga, on halvemad kui kood ilma kommentaarideta. Koodi muutumisel sea alati prioriteediks kommentaaride hoidmine ajakohasena!
 
 Kommentaarid peaksid olema täislaused. Esimene sõna peaks algama suurtähega, välja arvatud juhul, kui see on [identifikaator](terminid/sonastik/identifikaator-identifier.md) \(_identifier_\), mis algab väiketähega \(ära kunagi muuda identifikaatorite tähti!\). 
+
+Plokk kommentaarid \(_block comments_\) koosnevad üldjuhul ühest või enamast lõigust \(_paragraph_\) mis on koostatud täislausetest, mis kõik lõppevad punktiga \(_period_\).
+
+Mitme lausega kommentaarides peaksid lause järel kasutama kahte tühikut, välja arvatud viimase lause järel.
+
+Veenduge, et kommentaarid oleksid selged ja kergesti mõistetavad teistele selles keeles kõnelejatele, milles kirjutate.
 
 ### Plokk kommentaarid
 
