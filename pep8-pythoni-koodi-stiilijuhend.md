@@ -79,7 +79,7 @@ Siiski on sedasi öelda OK:
 from subprocess import Popen, PIPE
 ```
 
-Importimised pannakse alati faili algusesse, kohe peale mooduli kommentaare ja dokumentatsiooni sõnet ning enne mooduli globaale \(_global_\) ja konstante \(_constants_\).
+Importimised pannakse alati faili algusesse, kohe peale mooduli kommentaare ja [dokumentatsiooni sõnet](terminid/sonastik/dokumentatsiooni-sone-docstring.md) ning enne mooduli globaale \(_global_\) ja konstante \(_constants_\).
 
 Importimised tuleks grupeerida järgnevas järjestuses:
 
@@ -89,7 +89,7 @@ Importimised tuleks grupeerida järgnevas järjestuses:
 
 Peaksid panema tühja rea iga importimise grupi vahele.
 
-* soovitavad on absoluutsed importimised \(_absolute imports_\), kuna need on tavaliselt loetavamad ja kipuvad \(_tend to_\) olema paremini käituvad \(_be better behaved_\) \(või vähemalt annavad paremaid veateateid\) kui importimise süsteem on valesti konfigureeritud \(nagu siis kui paketisisene kataloog \(_directory_\) lõpetab `sys.path` peal\):
+* soovitavad on absoluutsed importimised \(_absolute imports_\), kuna need on tavaliselt loetavamad ja kalduvad \(_tend to_\) olema paremini käituvad \(_be better behaved_\) \(või vähemalt annavad paremaid veateateid\) kui importimise süsteem on valesti konfigureeritud \(nagu siis kui paketisisene kataloog \(_directory_\) lõpetab `sys.path` peal\):
 
 ```python
 import mypkg.sibling
@@ -107,6 +107,26 @@ from .sibling import example
 Standardteegi \(_standrd library_\)  [kood](terminid/sonastik/kood-code.md) \(_code_\) peaks vältima keerukaid paketipaigutusi ja kasutama alati absoluutset importimist.
 
 Ilmutamata \(_implicit_\) suhtelist \(_relative_\) importimist ei tohiks _kunagi_ kasutada ja see on Python 3-st eemaldatud.
+
+Klassi importimisel klassi sisaldavast moodulist on tavaliselt OK kirjutada nii:
+
+```python
+from myclass import MyClass
+from foo.bar.yourclass import YourClass
+```
+
+Kui selline kirjaviis põhjustab kohalike \(_local_\) nimede konflikte \(_clash_\) siis kirjutage need ilmutatult \(_explicitly_\):
+
+```python
+import myclass
+import foo.bar.yourclass
+```
+
+ning kasutage `myclass.MyClass` ja  `foo.bar.yourclass.YourClass`.
+
+Tärniga importimist \(`from <module> import *`\) tuleks vältida kuna see muudab ebaselgeks millised [nimed](terminid/sonastik/nimi-name.md) \(_names_\) [nimeruumis](terminid/sonastik/nimeruum-namespace.md) \(_namespace_\) esinevad, eksitades nii lugejaid kui ka paljusid automatiseeritud tööriistu \(_tools_\). Tärniga importimiseks on üks õigustatav \(_defencible_\) kasutusjuhtum \(_use case_\), milleks on sisemise liidese \(_internal interface_\) taasavaldamine \(_republish_\) avaliku API osana \(näiteks puhtas Pythonis teostatud liidese ülekirjutamine definitsiooniga valikulisest kiirendi moodulist \(_optional accelerator module_\) kui ei ole täpselt ette teada millised definitsioonid üle kirjutatakse\)
+
+Nimede \(_names_\) sellisel viisil taasavaldamisel \(_republish_\) kehtivad ikkagi allpool toodud juhised avalike \(_public_\) ja sisemiste \(_internal_\) liideste kohta. 
 
 ### Mooduli  taseme tala nimed
 
