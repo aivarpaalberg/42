@@ -89,7 +89,7 @@ Importimised tuleks grupeerida järgnevas järjestuses:
 
 Peaksid panema tühja rea iga importimise grupi vahele.
 
-* soovitavad on absoluutsed importimised \(_absolute imports_\), kuna need on tavaliselt loetavamad ja kalduvad \(_tend to_\) olema paremini käituvad \(_be better behaved_\) \(või vähemalt annavad paremaid veateateid\) kui importimise süsteem on valesti konfigureeritud \(nagu siis kui paketisisene kataloog \(_directory_\) lõpetab `sys.path` peal\):
+* soovitavad on absoluutsed importimised \(_absolute imports_\), kuna need on tavaliselt loetavamad ja kalduvad \(_tend to_\) paremini käituma \(_be better behaved_\) \(või vähemalt annavad paremaid veateateid\) kui importimise süsteem on valesti konfigureeritud \(nagu siis kui paketisisene kataloog \(_directory_\) lõpetab `sys.path` peal\):
 
 ```python
 import mypkg.sibling
