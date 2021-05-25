@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-piiritletud toiming, mille rakendamine suvalisele lubatavale teadaolevale [olemite](olem-entity.md) kombinatsioonile tekitab uue olemi.
+piiritletud toiming \(_action_\), mille rakendamine suvalisele lubatavale teadaolevale [olemite](olem-entity.md) \(_entity_\) kombinatsioonile tekitab uue olemi.
 {% endhint %}
 
 Sünonüüm: operatsioon

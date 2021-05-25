@@ -153,6 +153,7 @@
   * [kursor \(cursor\)](terminid/sonastik/kursor-cursor.md)
   * [kõrvaltoime \(side effect\)](terminid/sonastik/korvaltoime-side-effect.md)
   * [käitusjärk \(runtime\)](terminid/sonastik/kaeitusjaerk-runtime.md)
+  * [käsk \(instruction\)](terminid/sonastik/kaesk-instruction.md)
   * [lambda \(lambda\)](terminid/sonastik/lambda-lambda.md)
   * [lause \(statement\)](terminid/sonastik/lause-statement.md)
   * [lekseem \(lexical token\)](terminid/sonastik/lekseem-lexical-token.md)
