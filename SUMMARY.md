@@ -91,6 +91,10 @@
 * [PEP8 - Pythoni koodi stiilijuhend](pep8-pythoni-koodi-stiilijuhend.md)
 * [Koodi silumine \(debugging\)](koodi-silumine-debugging.md)
 
+## Vim
+
+* [Sissejuhatus](vim/sissejuhatus.md)
+
 ## Terminid
 
 * [Sõnastik](terminid/sonastik/README.md)
@@ -190,6 +194,7 @@
   * [sõnastiku hõlmamine \(dictionary comprehension\)](terminid/sonastik/sonastiku-holmamine-dictionary-comprehension.md)
   * [sõnastiku vaade \(dictionary view\)](terminid/sonastik/sonastiku-vaade-dictionary-view.md)
   * [sümbol \(symbol\)](terminid/sonastik/suembol-symbol.md)
+  * [tagasivõtt \(undo\)](terminid/sonastik/tagasivott-undo.md)
   * [tala \(dunder\)](terminid/sonastik/tala-dunder.md)
   * [talletama \(to store\)](terminid/sonastik/talletama-to-store.md)
   * [tehe \(operation\)](terminid/sonastik/tehe-operation.md)
