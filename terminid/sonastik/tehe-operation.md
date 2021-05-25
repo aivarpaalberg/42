@@ -6,6 +6,8 @@
 piiritletud toiming, mille rakendamine suvalisele lubatavale teadaolevale [olemite](olem-entity.md) kombinatsioonile tekitab uue olemi.
 {% endhint %}
 
+Sünonüüm: operatsioon
+
 ## Täpsemalt
 
 Liitmisprotsess: `3 + 5 = 8` 

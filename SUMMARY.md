@@ -190,6 +190,7 @@
   * [reserveeritud sõna \(reserved word\)](terminid/sonastik/reserveeritud-sona-reserved-word.md)
   * [salvestama \(to store\)](terminid/sonastik/salvestama-to-store.md)
   * [siluma \(to debug\)](terminid/sonastik/siluma-to-debug.md)
+  * [spetsifikatsioon \(specification\)](terminid/sonastik/spetsifikatsioon-specification.md)
   * [sõnastik \(dictionary\)](terminid/sonastik/sonastik-dictionary.md)
   * [sõnastiku hõlmamine \(dictionary comprehension\)](terminid/sonastik/sonastiku-holmamine-dictionary-comprehension.md)
   * [sõnastiku vaade \(dictionary view\)](terminid/sonastik/sonastiku-vaade-dictionary-view.md)
