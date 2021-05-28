@@ -1,7 +1,5 @@
 # Elust, Universumist ja Kõigest
 
-## Teemaks
-
 Miks 42? Miks elust, universumist ja kõigest? 
 
 Douglas Adams on kirjutanud loo, kus hüperintelligentsete pandimensiooniliste olevuste rassil sai nii kõrini sellest pidevast elu mõtte üle jahumisest, et nad otsustasid maha istuda ja oma probleemid lõplikult ära lahendada. 
