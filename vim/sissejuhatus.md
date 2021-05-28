@@ -2,9 +2,17 @@
 
 ## Mis on Vim?
 
-Vim on laialdaste konfigureerimisvõimalustega tekstiredaktor \(_text editor_\), mis on ellu kutsutud selleks, et mistahes teksti loomine ja muutmine oleks väga tõhus. Enamikus UNIX-süsteemides ja Apple OS X-is on see vaikimis lisatud "vi" nime all. 
+Vim on tekstiredaktor \(_text editor_\) mille eesmärgiks on muuta mistahes teksti loomine ja muutmine võimalikult tõhusaks. 
 
-Vim on väga stabiilne ja seda arendatakse pidevalt veelgi paremaks. Selle funktsioonide hulka kuuluvad:
+Tõhusus saavuta
+
+Vimi kasutamine eeldab mõningaid eelteadmisi terminali kasutamisest või siis soovi seda õppida. Näiteks on vajalik oskus käivitada kest \(shell\).
+
+## Erinevus teistest tekstiredaktoritest
+
+Vim on vaikimisi kaasas iga arvutiga, mille operatsioonisüsteemiks on MacOS, Linux või Windows. 
+
+Vim kasutab 
 
 
 

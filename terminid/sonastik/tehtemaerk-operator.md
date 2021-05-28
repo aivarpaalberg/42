@@ -6,6 +6,8 @@
 [tehtes](tehe-operation.md) \(_operation_\) sooritatavat toimingut \(_action_\) esitav [sümbol](suembol-symbol.md) \(_symbol_\).
 {% endhint %}
 
+Tihti kasutatakse tehtemärgi sünonüümina terminit `operaator`
+
 ## Täpsemalt
 
 Liitmisprotsess: `3 + 5 = 8` 
