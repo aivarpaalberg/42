@@ -141,6 +141,7 @@
   * [juhtimisvoog \(control flow\)](terminid/sonastik/juhtimisvoog-control-flow.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
   * [järjestama \(to order\)](terminid/sonastik/jaerjestama-to-order.md)
+  * [järjestus \(order\)](terminid/sonastik/jaerjestus-order.md)
   * [kaust \(folder\)](terminid/sonastik/kaust-folder.md)
   * [keel \(language\)](terminid/sonastik/keel-language.md)
   * [keeletarind \(language construct\)](terminid/sonastik/keeletarind-language-construct.md)
