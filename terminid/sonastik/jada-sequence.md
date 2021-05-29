@@ -2,9 +2,15 @@
 
 ## Tähendus
 
+Infotehnoloogias ja Pythonis on jadal \(_sequence_\) erinev tähendus.
+
 {% hint style="info" %}
-[Itereeritav](itereeritav-iterable.md) mis toetab tõhusat \(_efficient_\) ligipääsu [elementidele](element-element.md) kasutades täisarvu \(_integer_\) indekseid läbi `__getitem__()`spetsiaalmeetodi ja mis defineerib `__len__()` meetodi mis tagastab jada pikkuse.
+**Infotehnoloogia:** [jadastatud](jadastama-to-sequence.md) \(_sequenced_\) üksuste \(_items_\) sari \(_series_\)
+
+**Python:** [itereeritav](itereeritav-iterable.md) mis toetab tõhusat \(_efficient_\) ligipääsu [elementidele](element-element.md) kasutades täisarvu \(_integer_\) indekseid läbi `__getitem__()`spetsiaalmeetodi ja mis defineerib `__len__()` meetodi mis tagastab jada pikkuse.
 {% endhint %}
+
+Pythoni jadadel \(_sequences_\) on jadastatud \(_sequenced_\) elementide indeksid ja mitte jada elemendid ise.
 
 ## Täpsemalt
 
@@ -16,5 +22,9 @@ Mõned Pythoni sisemised \(_built-in_\) **jada tüübid** on [loend](loend-list.
 
 Pythoni ametlik dokumentatsioon \(inglise keeles\):
 
-* Documentation &gt; Glossary &gt; [sequence](https://docs.python.org/3/glossary.html#term-sequence)  
+* Documentation &gt; Glossary &gt; [sequence](https://docs.python.org/3/glossary.html#term-sequence)
+
+[EVS-ISO 2382-6:1999](https://www.evs.ee/et/evs-iso-2382-6-1999), Infotehnoloogia. Sõnastik. Osa 6: Andmevalmendus ja andmekäitlus:
+
+* [jada \(_sequence_\)](http://www.eki.ee/dict/its/index.cgi?Q=D0A7AEA3-6C03-1014-88DC-FC5F0DBED45A&F=GUID&C01=1&C02=0&C10=1)  
 

@@ -138,6 +138,7 @@
   * [iteraatori tüübid \(iterator types\)](terminid/sonastik/iteraatori-tueuebid-iterator-types.md)
   * [itereeritav \(iterable\)](terminid/sonastik/itereeritav-iterable.md)
   * [jada \(sequence\)](terminid/sonastik/jada-sequence.md)
+  * [jadastama \(to sequence\)](terminid/sonastik/jadastama-to-sequence.md)
   * [juhtimisvoog \(control flow\)](terminid/sonastik/juhtimisvoog-control-flow.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
   * [järjestama \(to order\)](terminid/sonastik/jaerjestama-to-order.md)
