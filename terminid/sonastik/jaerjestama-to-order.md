@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-Üksusi \(_items_\) etteantud reeglitele vastavasse asetusse paigutama
+üksusi \(_items_\) etteantud reeglitele vastavasse asetusse paigutama
 {% endhint %}
 
 Standard määrab põhiterminiks **korrastama** ning sünonüümiks **järjestama** kuid praktikas kasutatakse rohkem sünonüümi kui põhiterminit.
