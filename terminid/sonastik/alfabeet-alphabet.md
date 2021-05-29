@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-järjestatud \(_ordered_\)[ märgistik](maergistik-character-set.md) \(_character set\)_, mille järjestuses on kokku lepitud
+[järjestatud](jaerjestus-order.md) \(_ordered_\)[ märgistik](maergistik-character-set.md) \(_character set\)_, mille järjestuses on kokku lepitud
 {% endhint %}
 
 ## Täpsemalt
