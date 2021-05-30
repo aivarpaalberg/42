@@ -173,6 +173,7 @@
   * [meetod \(method\)](terminid/sonastik/meetod-method.md)
   * [moodul \(module\)](terminid/sonastik/moodul-module.md)
   * [muudetav \(mutable\)](terminid/sonastik/muudetav-mutable.md)
+  * [muutuja \(variable\)](terminid/sonastik/muutuja-variable.md)
   * [muutumatu \(immutable\)](terminid/sonastik/muutumatu-immutable.md)
   * [mõiste \(concept\)](terminid/sonastik/moiste-concept.md)
   * [mäluseade \(storage device\)](terminid/sonastik/maeluseade-storage-device.md)
