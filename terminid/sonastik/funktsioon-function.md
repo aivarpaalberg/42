@@ -12,7 +12,7 @@ Funktsioonile saab edastada \(_pass_\) null või rohkem [argumenti](argument.md)
 
 ## Viited
 
-Pythoni ametlik dokumentasioon \(inglise keeles\):
+Pythoni ametlik dokumentatsioon \(inglise keeles\):
 
 * Documentation &gt; Glossary &gt; [function](https://docs.python.org/3/glossary.html#term-function)
 

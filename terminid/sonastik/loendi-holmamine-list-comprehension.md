@@ -8,7 +8,9 @@ kompaktne viis käitlemaks \(_to process_\) kõiki või osasid [itereeritava](it
 
 ## Täpsemalt 
 
-Loendi hõlmamine \(_list comprehension_\) pakub sisutihedat \(_concise_\) viisi[ loendite](loend-list.md) \(_list_\) loomiseks. Tavalisteks kasutusjuhtumiteks on uue loendi loomine mille iga element on teise itereeritava iga elemendiga teostatud toimingu tulemus või ainult see osa elementidest, mis vastab teatud tingimustele.
+Loendi hõlmamine \(_list comprehension_\) pakub sisutihedat \(_concise_\) viisi[ loendite](loend-list.md) \(_list_\) loomiseks. 
+
+Tavalisteks kasutusjuhtumiteks on uue loendi loomine mille iga element on teise itereeritava iga elemendiga teostatud toimingu tulemus või ainult see osa elementidest, mis vastab teatud tingimustele.
 
 [Itereeritava](itereeritav-iterable.md) kõikide elementide käitlemine ja [loendi](loend-list.md) tagastamine: `anna mulle Unicode koodipunkt iga märgi kohta sõnes` 
 
@@ -17,7 +19,7 @@ Loendi hõlmamine \(_list comprehension_\) pakub sisutihedat \(_concise_\) viisi
 [97, 98, 99]
 ```
 
-Loendi hõlmamise süntaks võib esialgu tunduda arusaamatu, kuna element millest peale käitlemist saab  uue loodava loendi \(_list_\) element on enne `for` silmust \(_loop_\). Samas on see tegelikult lihtne nagu on näha järgnevast skeemist:
+Loendi hõlmamise süntaks võib esialgu tunduda arusaamatu, kuna element millest peale käitlemist saab  uue loodava loendi \(_list_\) element on enne `for` [silmust](silmus-loop.md) \(_loop_\). Samas on see tegelikult lihtne nagu on näha järgnevast skeemist:
 
 ```bash
      mis sa      kuskohast sa                     
@@ -36,7 +38,7 @@ Loendi hõlmamise süntaks võib esialgu tunduda arusaamatu, kuna element milles
 
 ```
 
-Itereeritava osade elementide käitlemine ja loendi tagastamine: `anna mulle arvu ruut iga arvu kohta ennikus mis on paarisarv`
+[Itereeritava](itereeritav-iterable.md) osade elementide käitlemine ja loendi tagastamine: `anna mulle arvu ruut iga arvu kohta ennikus mis on paarisarv`
 
 ```python
 >>> [i * i for i in (3, 5, 6, 7, 8) if i % 2 == 0]

@@ -106,6 +106,7 @@
   * [andmeobjekt \(data object\)](terminid/sonastik/andmeobjekt-data-object.md)
   * [andmestruktuur \(data structure\)](terminid/sonastik/andmestruktuur-data-structure.md)
   * [andmetüüp \(datatype\)](terminid/sonastik/andmetueuep-datatype.md)
+  * [andmeväärtus \(data value\)](terminid/sonastik/andmevaeaertus-data-value.md)
   * [argument \(argument\)](terminid/sonastik/argument.md)
   * [atribuut \(attribute\)](terminid/sonastik/atribuut-attribute.md)
   * [avaldis \(expression\)](terminid/sonastik/avaldis-expression.md)
