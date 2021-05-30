@@ -18,13 +18,13 @@ def all(iterable):
     return True
 ```
 
-Koodist on näha, et funktsioon rakendab lühist \(_short circuit_\) s.t. et esimese väära \(_False_\) korral tagastab funktsioon väärtuse ning järelejäänud elemente enam ei kontrollita.
+[Koodist](../../terminid/sonastik/kood-code.md) on näha, et [funktsioon](../../terminid/sonastik/funktsioon-function.md) rakendab lühist \(_short circuit_\) s.t. et esimese väära \(_False_\) korral tagastab funktsioon väärtuse ning järelejäänud elemente enam ei kontrollita.
 
 ### Argument
 
-Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema **itereeritav** \([sõne](../sisseehitatud-tueuebid/sone-str/), [loend](../../terminid/sonastik/loend-list.md), hulk, sõnastik vms\). 
+Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema [itereeritav](../../terminid/sonastik/itereeritav-iterable.md) \([sõne](../sisseehitatud-tueuebid/sone-str/), [loend](../../terminid/sonastik/loend-list.md), hulk, sõnastik vms\). 
 
-Juhul kui argumenti ei edastata või edastatud argument ei ole itereeritav  tõstetakse `TypeError`erand.
+Juhul kui [argumenti](../../terminid/sonastik/argument.md) ei edastata või edastatud argument ei ole [itereeritav](../../terminid/sonastik/itereeritav-iterable.md)  tõstetakse `TypeError`erand.
 
 ### Tagastatav väärtus
 
