@@ -8,7 +8,7 @@ Eespool toodud põhjustel on rakenduste ja failide leidmine ning avamine arvuti 
 
 Rutiinsete tegevuste korral on oluline leida viis nende kiireks ning automaatseks \(niivõrd, kui inimese puhul automaatsest tegevusest rääkida saab\) täitmiseks.
 
-Kasutajad on erinevad ja sama erinevad on ka nende eelistused. Hea operatsioonisüsteem pakub seetõttu sama tulemuse saavutamiseks erinevaid viise. Rakendusi ja faile saab avada kasutades klaviatuuri või hiirt.  
+Kasutajad on erinevad ja sama erinevad on ka nende eelistused. Hea operatsioonisüsteem pakub seetõttu sama tulemuse saavutamiseks erinevaid viise. Rakendusi ja faile saab avada kasutades klaviatuuri või [hiirt](../terminid/sonastik/hiir-mouse.md).  
 
 ## Klaviatuur ja Spotlight
 

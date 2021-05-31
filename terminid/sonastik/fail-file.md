@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-tervikuna talletatav \(_stored_\) või töödeldav \(_processed_\), nimega varustatud kirje \(_record_\) kogum.
+tervikuna [talletatav](talletama-to-store.md) \(_stored_\) või töödeldav \(_processed_\), nimega varustatud kirjete \(_records_\) kogum.
 {% endhint %}
 
 ## Viited
