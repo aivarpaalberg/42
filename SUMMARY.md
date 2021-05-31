@@ -202,6 +202,7 @@
   * [rekursioon \(recursion\)](terminid/sonastik/rekursioon-recursion.md)
   * [reserveeritud sõna \(reserved word\)](terminid/sonastik/reserveeritud-sona-reserved-word.md)
   * [salvestama \(to store\)](terminid/sonastik/salvestama-to-store.md)
+  * [sidumine \(binding\)](terminid/sonastik/sidumine-binding.md)
   * [silmus \(loop\)](terminid/sonastik/silmus-loop.md)
   * [silmuse juhik \(loop control\)](terminid/sonastik/silmuse-juhik-loop-control.md)
   * [silmuse keha \(loop body\)](terminid/sonastik/silmuse-keha-loop-body.md)
