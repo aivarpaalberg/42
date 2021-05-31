@@ -2,9 +2,13 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Python" %}
 {% hint style="info" %}
-aatomid on Pythoni [avaldiste](avaldis-expression.md) \(_expressions_\) elementaarüksused \(_most basic elements_\).
+aatomid on Pythoni [avaldiste](avaldis-expression.md) \(_expressions_\) elementaarüksused \(_most basic elements_\)
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Täpsemalt
 

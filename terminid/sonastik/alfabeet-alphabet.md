@@ -2,9 +2,13 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
 [järjestatud](jaerjestus-order.md) \(_ordered_\)[ märgistik](maergistik-character-set.md) \(_character set\)_, mille järjestuses on kokku lepitud
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Täpsemalt
 

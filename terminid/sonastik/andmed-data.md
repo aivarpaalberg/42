@@ -2,9 +2,13 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
 [informatsiooni](informatsioon-information.md) taastõlgendatav \(_reinterpretable_\) esitus formaliseeritud kujul, mis sobib edastuseks \(_communication_\), tõlgenduseks \(_interpretation_\) või töötluseks \(_processing_\).
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Viited
 

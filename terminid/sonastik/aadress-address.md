@@ -2,11 +2,15 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-asukohta identifitseeriv väärtus.
+asukohta \(_location_\) identifitseeriv [väärtus](andmevaeaertus-data-value.md) \(_value_\)
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
-Näiteks: registri number, mäluseadme teatava osa aadress, seadme aadress, võrgu aadress.
+Näiteks: registri number, [mäluseadme](maeluseade-storage-device.md) \(_storage device_\) teatava osa aadress, seadme aadress, võrgu aadress.
 
 ## Viited
 

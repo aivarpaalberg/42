@@ -2,13 +2,17 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
 [programmide](programm-program.md) \(_program_\) [täitmiseks](taeitmine-execution.md) \(_execution_\) vajalik [andmestruktuuri](andmestruktuur-data-structure.md) \(_data structure_\) element, näiteks [fail](fail-file.md) \(_file_\), massiiv \(_array_\) või [operand](operand-operand.md) \(_operand_\).
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Täpsemalt
 
-Andmeobjekt võib olla konstant või muutuja.
+Andmeobjekt võib olla konstant \(_constant_\) või [muutuja](muutuja-variable.md) \(_variable_\).
 
 Andmebaaside kontekstis on andmeobjekt: üksusena \(_unit_\) käsitletavad diskreetandmed, mis esitavad tuntud või eeldatavalt tuntud [andmestruktuuri](andmestruktuur-data-structure.md) \(_data structure_\) [eksemplari](eksemplar-instance.md) \(_instance_\).
 
