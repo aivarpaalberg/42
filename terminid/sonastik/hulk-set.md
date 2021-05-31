@@ -4,11 +4,19 @@
 
 Informaatikas ja Pythonis on hulgal \(_set_\) erinev tähendus:
 
+{% tabs %}
+{% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
 lõplik \(_finite_\) või lõpmatu \(_infinite_\) arv suvalist liiki [objekte](objekt-object.md) \(_object\)_, [olemeid](olem-entity.md) \(_entity_\) või mõisteid, millel on mingi\(d\) teatav\(ad\) ühisomadus\(ed\) \(_properties\)_.
+{% endhint %}
+{% endtab %}
 
+{% tab title="Python" %}
+{% hint style="info" %}
 Python: sisemine [andmetüüp](andmetueuep-datatype.md), järjestamata \(_unordered_\) kogumik \(_collection_\)  erinevaid \(_distinct_\) paiskaddresseeritavaid \(_hashable_\) [objekte](objekt-object.md) 
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 Sünonüümid: kogum \(_set_\)
 
