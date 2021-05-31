@@ -2,9 +2,13 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-[Hulka](hulk-set.md) \(_set_\) määravate \(_define_\) omadustega \(_properties_\) [objekt](objekt-object.md) \(_object_\), [olem](olem-entity.md) \(_entity_\) või mõiste \(_concept_\).
+[hulka](hulk-set.md) \(_set_\) määravate \(_define_\) omadustega \(_properties_\) [objekt](objekt-object.md) \(_object_\), [olem](olem-entity.md) \(_entity_\) või mõiste \(_concept_\).
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Viited
 
