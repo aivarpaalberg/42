@@ -7,7 +7,7 @@ Terminiga `moodul` tähistatav mõiste võib eri [programmeerimiskeeltes](progra
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-[programmi](programm-program.md) \(_program_\) osa, mis on koostatud eraldatavana või identifitseeritavana [kompileerimise](kompileerima-to-compile.md) \(_compile_\), sidumise \(_binding_\), [täitmise](taeitmine-execution.md) \(_execution_\) vms seisukohalt ning võib olla interaktsioonis teiste programmide või programmiosadega.
+[programmi](programm-program.md) \(_program_\) osa, mis on koostatud eraldatavana või identifitseeritavana [kompileerimise](kompileerima-to-compile.md) \(_compile_\), [sidumise](sidumine-binding.md) \(_binding_\), [täitmise](taeitmine-execution.md) \(_execution_\) vms seisukohalt ning võib olla interaktsioonis teiste programmide või programmiosadega.
 {% endhint %}
 
 **Sünonüümid:** programmiüksus \(_program unit_\)
