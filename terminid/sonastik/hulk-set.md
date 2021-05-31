@@ -10,7 +10,7 @@ lõplik \(_finite_\) või lõpmatu \(_infinite_\) arv suvalist liiki [objekte](o
 Python: sisemine [andmetüüp](andmetueuep-datatype.md), järjestamata \(_unordered_\) kogumik \(_collection_\)  erinevaid \(_distinct_\) paiskaddresseeritavaid \(_hashable_\) [objekte](objekt-object.md) 
 {% endhint %}
 
-
+Sünonüümid: kogum \(_set_\)
 
 ## Viited
 

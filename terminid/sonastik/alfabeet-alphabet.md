@@ -8,7 +8,7 @@
 
 ## Täpsemalt
 
-See määratlus hõlmab ka loomulike keelte tähestikke, mis koosnevad tähtedest, sealhulgas diakriitiliste märkidega tähtedest.
+See määratlus hõlmab ka [loomulike keelte](loomulik-keel-natural-language.md) \(_natural language_\) tähestikke, mis koosnevad [tähtedest](taeht-letter.md) \(_letter_\), sealhulgas diakriitiliste märkidega tähtedest.
 
 ## Viited
 
