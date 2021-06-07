@@ -2,9 +2,13 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
 [deklareeritud](deklaratsioon-declaration.md) \(_declared_\) [andmeobjekti ](andmeobjekt-data-object.md)\(_data object_\) [hulga](hulk-set.md) \(_set_\) element, mis on konkreetses kontekstis seotud mingi [keeletarindiga](keeletarind-language-construct.md) \(_language construct_\), näiteks [muutujaga](muutuja-variable.md) \(_variable_\) või [andmetüübiga](andmetueuep-datatype.md) \(_datatype_\).
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 **Märkus:** põhimõtteliselt tuleks andmeväärtust \(_data value_\) eristada funktsiooni väärtusest \(_function value_\) matemaatikas ning arvu väärtusest \(_value of a number_\) ja numbrikoha väärtusest arvesituses \(_position value in numeric representation_\).
 

@@ -152,6 +152,7 @@
   * [kehtivuspiirkond \(scope\)](terminid/sonastik/kehtivuspiirkond-scope.md)
   * [klass \(class\)](terminid/sonastik/klass-class.md)
   * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
+  * [klõpsama \(click\)](terminid/sonastik/klopsama-click.md)
   * [kodeerimine \(coding\)](terminid/sonastik/kodeerimine-coding.md)
   * [kodeerimine \(encoding\)](terminid/sonastik/kodeerimine-encoding.md)
   * [konstant \(constant\)](terminid/sonastik/konstant-constant.md)

@@ -2,9 +2,13 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
 andme üksuste \(_units of data_\) ja [andmete](andmed-data.md) \(_data_\) endi vaheline füüsiline \(_physical_\) või loogiline \(_logical_\) seos.
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Täpsemalt
 

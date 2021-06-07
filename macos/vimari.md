@@ -4,7 +4,7 @@
 
 [Vimari](https://github.com/televator-apps/vimari/blob/master/README.md) üritab pakkuda kergekaalulist \(_lightweight_\) [vimiumi](https://github.com/philc/vimium) teisaldust \(_port_\) võttes selle parimad omadused ja sobitades need Safariga.´
 
-## Kiirklahvid \(_shortcuts_\)
+## Kiirklahvid \(_shortcut keys_\)
 
 ### Vimari olekud \(_modes_\)
 
