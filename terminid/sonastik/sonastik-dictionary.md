@@ -8,7 +8,7 @@ Pythoni sisemine \(_built-in_\) [andmetüüp](andmetueuep-datatype.md) \(_data t
 
 ## Täpsemalt
 
-Teistes [programmeerimiskeeltes](programmeerimiskeel-programming-language.md) kutsutakse seda mõnikord paisk \(_hash_\) või paisketabel \(_hash map_\), kuigi see on tehniliselt eksitav, sest paiskadresseerimine \(_hashing_\) on üks viis teostada \(_implement_\) assotsiatiivset massiivi \(_associative array_\) kuid mitte ainuke. 
+Teistes [programmeerimiskeeltes](programmeerimiskeel-programming-language.md) kutsutakse seda mõnikord paisk \(_hash_\) või paisketabel \(_hash map_\), kuigi see on tehniliselt eksitav, sest [paiskadresseerimine](paiskadresseerimine-hashing.md) \(_hashing_\) on üks viis teostada \(_implement_\) assotsiatiivset massiivi \(_associative array_\) kuid mitte ainuke. 
 
 Sõnastike \(_dict_\) kasutamine on sarnane [loenditele](loend-list.md) \(_list_\), kuid võtmeteks \(_keys_\) võib olla mistahes objekt paiskefunktsiooniga ja mitte ainult täisarvud \(_integers_\) alustades nullist.
 

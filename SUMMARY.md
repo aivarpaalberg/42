@@ -194,6 +194,7 @@
   * [osutusseadis \(pointing device\)](terminid/sonastik/osutusseadis-pointing-device.md)
   * [otsivõti \(search key\)](terminid/sonastik/otsivoti-search-key.md)
   * [paiskadresseerimine \(hashing\)](terminid/sonastik/paiskadresseerimine-hashing.md)
+  * [paiskefunktsioon \(hash function\)](terminid/sonastik/paiskefunktsioon-hash-function.md)
   * [pakett \(package\)](terminid/sonastik/pakett-package.md)
   * [plokk \(block\)](terminid/sonastik/plokk-block.md)
   * [parameeter \(parameter\)](terminid/sonastik/parameeter-parameter.md)
