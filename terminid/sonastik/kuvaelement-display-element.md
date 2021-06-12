@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-elementaarne graafikaüksus, mida saab kasutada pildi \(_display image_\) konstrueerimiseks.
+elementaarne graafikaüksus, mida saab kasutada [pildi](pilt-display-image.md) \(_display image_\) konstrueerimiseks.
 {% endhint %}
 
 **Sünonüümid:** graafikaprimitiiv \(_graphic primitive, output primitive_\)

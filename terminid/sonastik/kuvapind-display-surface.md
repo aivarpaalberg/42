@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-kandja, millele kuvaseadmes \(_display device_\) võivad ilmuda [pildid](pilt-display-image.md) \(_display image_\)
+kandja, millele [kuvaseadmes](kuvaseade-display-device.md) \(_display device_\) võivad ilmuda [pildid](pilt-display-image.md) \(_display image_\)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
