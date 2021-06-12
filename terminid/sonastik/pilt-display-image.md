@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
- kuvapinnal \(_display surface_\) korraga esitatavate [kuvaelementide](kuvaelement-display-element.md) \(_display elements_\) kogum.
+ [kuvapinnal](kuvapind-display-surface.md) \(_display surface_\) korraga esitatavate [kuvaelementide](kuvaelement-display-element.md) \(_display elements_\) kogum.
 {% endhint %}
 
 **Sünonüümid:** kuva \(_image_\)
