@@ -10,6 +10,8 @@
 
 ## Python
 
+* [Alustuseks](python/alustuseks.md)
+* [Kuidas käivitada Pythoni programme?](python/kuidas-kaeivitada-pythoni-programme.md)
 * [Sisemised funktsioonid](python/sisseehitatud-funktsioonid/README.md)
   * [abs\(\)](python/sisseehitatud-funktsioonid/abs.md)
   * [all\(iterable\)](python/sisseehitatud-funktsioonid/all-iterable.md)

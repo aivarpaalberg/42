@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[Dokumendi](dokument-document.md) \(_document_\) vormis detailne formuleering \(_detailed formulation_\), mis annab süsteemi väljatöötamiseks \(_developing_\)ja vastuvõtukatsetusteks \(_validating_\) süsteemi määratleva kirjelduse \(_definitive description_\).
+[Dokumendi](dokument-document.md) \(_document_\) vormis detailne formuleering \(_detailed formulation_\), mis annab süsteemi väljatöötamiseks \(_developing_\) ja vastuvõtukatsetusteks \(_validating_\) süsteemi määratleva kirjelduse \(_definitive description_\).
 {% endhint %}
 
 Sünonüüm: spetsifitseerimine
