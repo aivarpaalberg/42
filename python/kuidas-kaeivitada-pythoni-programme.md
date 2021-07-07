@@ -1,11 +1,11 @@
 # Kuidas käivitada Pythoni programme?
 
-Kui [programm](../terminid/sonastik/programm-program.md) \(_program_\) on valmis kirjutatud ja salvestatud siis on vaja see ka käivitada. Programmi käivitamine on sarnane mistahes [faili](../terminid/sonastik/fail-file.md) avamisega arvutis: me anname arvutile käsu, et ta avaks faili mingi kindla rakendusega. Graafilises kasutajaliideses on kaks levinud failide avamise viisi:
+Kui [programm](../terminid/sonastik/programm-program.md) \(_program_\) on valmis kirjutatud ja salvestatud siis on seda kasutamiseks vaja käivitada. Programmi käivitamine on sarnane mistahes [faili](../terminid/sonastik/fail-file.md) avamisega arvutis: me anname arvutile käsu, et ta avaks faili mingi kindla rakendusega. Graafilises kasutajaliideses on kaks levinud failide avamise viisi:
 
 * avada rakendus ning `open` dialoogi abil avada fail programmi seest
 * [klõpsata](../terminid/sonastik/klopsama-click.md) failil ning operatsioonisüsteem avab selle rakendusega, mis on seotud antud failitüübiga
 
-Programme on mõistlik käivitada terminalist / kestast \(_terminal, shell_\). Selleks anname arvutile käsu, et ava rakendusega Python mingi fail:
+Pythoni programme on mõistlik käivitada terminalist / kestast \(_terminal, shell_\). Selleks anname arvutile käsu, et ava rakendusega Python mingi fail. Selleks avame terminali ja sisestame [viibale](../terminid/sonastik/viip-prompt.md) \(_prompt_\):
 
 ```bash
 > python minu_programm.py
