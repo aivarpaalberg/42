@@ -5,10 +5,10 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-naturaalarvu \(_nonnegative integer_\) esitav[ märk](maerk-character.md) \(_character_\).
+[naturaalarvu](naturaalarv-natural-number.md) \(_nonnegative integer_\) esitav[ märk](maerk-character.md) \(_character_\).
 {% endhint %}
 
-Sünonüüm: numbrimärk \(_numeric character_\)
+**Sünonüüm**: numbrimärk \(_numeric character_\)
 {% endtab %}
 {% endtabs %}
 

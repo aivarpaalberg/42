@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-üksusi \(_items_\) naturaalarvude \(_natural numbers_\)[ järjestusele](jaerjestus-order.md) \(_order_\) vastavasse asetusse paigutama.
+üksusi \(_items_\) [naturaalarvude](naturaalarv-natural-number.md) \(_natural numbers_\)[ järjestusele](jaerjestus-order.md) \(_order_\) vastavasse asetusse paigutama.
 {% endhint %}
 
 **Märkus:** võib ette anda meetodeid või protseduure muude loomulike lineaarjärjestuste vastavusse seadmiseks naturaalarvudega; sel juhul võib jadastamine olla laiendusena ka näiteks [tähestikuline](alfabeet-alphabet.md) või kronoloogiline.

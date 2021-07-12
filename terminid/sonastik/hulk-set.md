@@ -13,7 +13,7 @@ lõplik \(_finite_\) või lõpmatu \(_infinite_\) arv suvalist liiki [objekte](o
 
 {% tab title="Python" %}
 {% hint style="info" %}
-Python: sisemine [andmetüüp](andmetueuep-datatype.md), järjestamata \(_unordered_\) kogumik \(_collection_\)  erinevaid \(_distinct_\) paiskaddresseeritavaid \(_hashable_\) [objekte](objekt-object.md) 
+Pythoni sisemine [andmetüüp](andmetueuep-datatype.md), järjestamata \(_unordered_\) kogumik \(_collection_\)  erinevaid \(_distinct_\) [paiskaddresseeritavaid](paiskadresseerimine-hashing.md) \(_hashable_\) [objekte](objekt-object.md) 
 {% endhint %}
 {% endtab %}
 {% endtabs %}
