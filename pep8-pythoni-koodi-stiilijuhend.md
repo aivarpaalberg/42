@@ -16,14 +16,14 @@ Guido üks võtmekaemusi on see, et [koodi](terminid/sonastik/kood-code.md) loet
 
 Stiilijuhend on järjepidevusest \(_consistency_\). Järjepidevus stiilijuhendi järgimisel on tähtis. Projektisisene järjepidevus on tähtsam. Järjepidevus [moodulis](terminid/sonastik/moodul-module.md) või [funktsioonis](terminid/sonastik/funktsioon-function.md) on kõige tähtsam.
 
-Aga tea, milla olla ebajärjekindel - mõnikord ei ole stiilijuhendi soovitused lihtsalt rakendatavad.  Kui kahtled, kasuta oma parimat äranägemist. Vaata teisi näiteid ja otsusta, mis kõige paremini välja näeb. Ja ära karda küsida!
+Aga tea, millal olla ebajärjekindel - mõnikord ei ole stiilijuhendi soovitused lihtsalt rakendatavad.  Kui kahtled, kasuta oma parimat äranägemist. Vaata teisi näiteid ja otsusta, mis kõige paremini välja näeb. Ja ära karda küsida!
 
-Eriti: ära katkesta tagasiühilduvust \(_backward compatibility_\) ainult selle PEP järgimiseks.
+Eriti: ära katkesta tagasiühilduvust \(_backward compatibility_\) ainult selle PEP-i järgimiseks.
 
 Mõned muud head põhjused konkreetse stiilijuhise eiramiseks:
 
 1. Kui stiilijuhise rakendamine muudaks [koodi](terminid/sonastik/kood-code.md) vähem loetavaks isegi kellelegi, kes on harjunud lugema koodi mis järgib käesolevat PEP-i.
-2. Et olla kooskõlas ümbritseva koodiga, mis samuti seda rikub \(võib-ollo ajaloolistel põhjustel\) - kuigi see on ka hea võimalus koristada kellegi teise järelt \(tõelises XP stiilis\)
+2. Et olla kooskõlas ümbritseva koodiga, mis samuti seda rikub \(võib-olla ajaloolistel põhjustel\) - kuigi see on ka hea võimalus koristada kellegi teise järelt \(tõelises XP stiilis\)
 3. Kuna kõnealune kood eelnes stiilijuhendi kasutuselevõtule ja selle koodi muutmiseks pole muud põhjust.
 4. Kui kood peab jääma ühilduvaks Pythoni vanemate versioonidega, mis ei toeta stiilijuhendis soovitatud erisust \(_feature_\).
 
@@ -31,17 +31,17 @@ Mõned muud head põhjused konkreetse stiilijuhise eiramiseks:
 
 ### Taane
 
-Kasuta 4 tühikut taande taseme kohta.
+Kasuta 4 [tühikut](terminid/sonastik/tuehik-space-character.md) taande taseme kohta.
 
 
 
 ### Tabeldus või tühikud?
 
-Tühikud \(_spaces_\) on eelistatud taandemeetod.
+[Tühikud](terminid/sonastik/tuehik-space-character.md) \(_spaces_\) on eelistatud taandemeetod.
 
 Tabeldusi \(_tab_\) tuleks kasutada ainult selleks, et need oleksid kooskõlas [koodiga](terminid/sonastik/kood-code.md), mis on juba tabeldusega taandatud.
 
-Python 3 keelab taandamisel tabelduste ja tühikute segamini kasutamise.
+Python 3 keelab taandamisel tabelduste ja [tühikute](terminid/sonastik/tuehik-space-character.md) segamini kasutamise.
 
 Python 2 kood, mis on taandatud läbisegi tabelduste ja tühikutega tuleks teisendada ainult tühikuid kasutavaks.
 
@@ -49,7 +49,7 @@ Käivitades Python 2 käsurea interpretaatori `-t` valikuga, annab see hoiatusi 
 
 ### Rea maksimaalpikkus
 
-Piira kõigi ridade pikkust maksimaalselt 79 märgiga.
+Piira kõigi ridade pikkust maksimaalselt 79 [märgiga](terminid/sonastik/maerk-character.md).
 
 ### Kas reavahetus peaks olema enne või peale binaaroperaatorit?
 
@@ -79,7 +79,7 @@ Siiski on sedasi öelda OK:
 from subprocess import Popen, PIPE
 ```
 
-Importimised pannakse alati faili algusesse, kohe peale mooduli kommentaare ja [dokumentatsiooni sõnet](terminid/sonastik/dokumentatsiooni-sone-docstring.md) ning enne mooduli globaale \(_global_\) ja konstante \(_constants_\).
+Importimised pannakse alati [faili](terminid/sonastik/fail-file.md) algusesse, kohe peale mooduli kommentaare ja [dokumentatsiooni sõnet](terminid/sonastik/dokumentatsiooni-sone-docstring.md) ning enne mooduli [globaale](terminid/sonastik/globaalne-global.md) \(_global_\) ja [konstante](terminid/sonastik/konstant-constant.md) \(_constants_\).
 
 Importimised tuleks grupeerida järgnevas järjestuses:
 

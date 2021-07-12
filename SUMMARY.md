@@ -163,6 +163,7 @@
   * [kodeerimine \(encoding\)](terminid/sonastik/kodeerimine-encoding.md)
   * [konstant \(constant\)](terminid/sonastik/konstant-constant.md)
   * [kood \(code\)](terminid/sonastik/kood-code.md)
+  * [kommentaar \(comment\)](terminid/sonastik/kommentaar-comment.md)
   * [kompileerima \(to compile\)](terminid/sonastik/kompileerima-to-compile.md)
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)
   * [kursor \(cursor\)](terminid/sonastik/kursor-cursor.md)

@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-omane[ programmi](programm-program.md) \(_program_\) kõigi [moodulite](moodul-module.md) \(_module_\) kehtivuspiirkonnas \(_scope_\) olevale [keeletarindile](keeletarind-language-construct.md) \(_language construct_\)
+omane[ programmi](programm-program.md) \(_program_\) kõigi [moodulite](moodul-module.md) \(_module_\) [kehtivuspiirkonnas](kehtivuspiirkond-scope.md) \(_scope_\) olevale [keeletarindile](keeletarind-language-construct.md) \(_language construct_\)
 {% endhint %}
 
 ## Viited
