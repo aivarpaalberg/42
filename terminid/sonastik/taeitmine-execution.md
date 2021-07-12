@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-protsess, millega arvuti teeb teoks [programmi](programm-program.md) \(_program_\)  käsu\(d\) \(_instruction_\)
+protsess, millega arvuti teeb teoks [programmi](programm-program.md) \(_program_\)  [käsu](kaesk-instruction.md)\(d\) \(_instruction_\)
 {% endhint %}
 
 ## Viited
