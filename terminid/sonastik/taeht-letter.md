@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-kirjamärk \(_graphic character_\), mida üksikuna või koos teistega kasutatakse eeskätt suulise kõne mingi helielemendi esituseks.
+[kirjamärk](kirjamaerk-graphic-character.md) \(_graphic character_\), mida üksikuna või koos teistega kasutatakse eeskätt suulise kõne mingi helielemendi esituseks.
 {% endhint %}
 
 ## Täpsemalt

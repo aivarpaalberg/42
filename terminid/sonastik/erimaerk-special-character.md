@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
- kirjamärk \(_graphic character_\), mis pole [täht](taeht-letter.md) \(_letter_\),  [number](number-digit.md) \(_digit_\) ega tühimärk \(_blank character_\) ning tavaliselt mitte ideogramm \(_ideogram\)_.
+ [kirjamärk](kirjamaerk-graphic-character.md) \(_graphic character_\), mis pole [täht](taeht-letter.md) \(_letter_\),  [number](number-digit.md) \(_digit_\) ega tühimärk \(_blank character_\) ning tavaliselt mitte ideogramm \(_ideogram\)_.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

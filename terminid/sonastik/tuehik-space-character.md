@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-[märk](maerk-character.md) \(_character_\), mis kutsub esile prindi \(_print_\) või kuvamise \(_display_\) edenemise ühe positsiooni võrra piki rida, tekitamata mingit kirjamärki \(_graphic character_\).
+[märk](maerk-character.md) \(_character_\), mis kutsub esile prindi \(_print_\) või [kuvamise](kuva-display.md) \(_display_\) edenemise ühe positsiooni võrra piki rida, tekitamata mingit [kirjamärki](kirjamaerk-graphic-character.md) \(_graphic character_\).
 {% endhint %}
 {% endtab %}
 {% endtabs %}

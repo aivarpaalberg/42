@@ -1,6 +1,6 @@
 # kursor \(cursor\)
 
-## \#Tähendus
+## Tähendus
 
 {% hint style="info" %}
 liigutatav \(_movable_\), tavaliselt nähtav tugipunkt \(_reference point_\), mis näitab huvipakkuvat punkti kuvaruumis \(_display place_\), näiteks järgmiste [andmete](andmed-data.md) \(_data_\) paigutamise kohta.

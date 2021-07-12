@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-[ märk](maerk-character.md) \(_character_\), mis ei ole juhtmärk \(_control character_\), ning millel on nähtav esitus \(_visual representation_\) ja mis tavaliselt tekitatakse kirjutamise \(_writing_\), prindi \(_printing_\) või kuvamisega \(_display_\).
+[ märk](maerk-character.md) \(_character_\), mis ei ole [juhtmärk](juhtmaerk-control-character.md) \(_control character_\), ning millel on nähtav esitus \(_visual representation_\) ja mis tavaliselt tekitatakse kirjutamise \(_writing_\), prindi \(_printing_\) või kuvamisega \(_display_\).
 {% endhint %}
 
 Sünonüüm: graafiline märk
