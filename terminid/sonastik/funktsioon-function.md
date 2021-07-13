@@ -18,8 +18,6 @@ seeria [lauseid](lause-statement.md) \(statements\) mis tagastavad väljakutsuja
 {% endtab %}
 {% endtabs %}
 
-
-
 ## Täpsemalt
 
 Funktsioonile saab edastada \(_pass_\) null või rohkem [argumenti](argument.md) \(_argument_\) mida võidakse kasutada [täitmisel](taeitmine-execution.md) \(_execution_\).
