@@ -6,7 +6,7 @@ description: 'Teksti jada tüüp (Text Sequence Type), Pythoni sisseehitatud and
 
 ## Tähendus
 
-Sõnel \(_string_\) on Pythoni ja informaatiks kontekstis erinev tähendus \(informaatika kontekstis mõiste [sõne definitsioon](./)\)
+Sõnel \(_string_\) on Pythoni ja informaatiks kontekstis erinev tähendus \(informaatika kontekstis mõiste [sõne definitsioon](../../../terminid/sonastik/sone-string.md)\)
 
 {% tabs %}
 {% tab title="Python" %}
