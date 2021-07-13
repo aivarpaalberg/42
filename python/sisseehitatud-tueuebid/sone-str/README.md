@@ -2,15 +2,21 @@
 description: 'Teksti jada tüüp (Text Sequence Type), Pythoni sisseehitatud andmetüüp.'
 ---
 
-# sõne \(str\)
+# sõne \(string\)
 
 ## Tähendus
 
+Sõnel \(_string_\) on Pythoni ja informaatiks kontekstis erinev tähendus \(informaatika kontekstis mõiste [sõne definitsioon](./)\)
+
+{% tabs %}
+{% tab title="Python" %}
 {% hint style="info" %}
 Pythonis on sõne \(_str_\) [teksti](../../../terminid/sonastik/tekst-text.md) jada tüüp \(_text sequence type_\) üks sisemistest \(_built-in_\) [andmetüüpidest](../../../terminid/sonastik/andmetueuep-datatype.md) \(_datatypes_\). 
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
-Informaatikas on sõne \(_string_\) defineeritud kui tervikuna käsitletav samalaadsete elementide, näiteks [märkide](../../../terminid/sonastik/maerk-character.md), [jada](../../../terminid/sonastik/jada-sequence.md) \(_sequence_\)
+**Sünonüüm**: sõne sünonüüm eesti keeles on string.
 
 ## Täpsemalt
 
