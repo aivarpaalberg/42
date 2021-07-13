@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Informaatika" %}
 {% hint style="info" %}
-[sõne](sone-string.md) \(_string_\) algus- või lõpuosa \(_leading or trailing portion_\) kustutus \(_deletion_\) või ärajätt \(_omission_\) mingi etteantud kriteeriumi \(_specified criteria_\) järgi.
+[sõne](sone-string.md) \(_string_\) algus- või lõpuosa \(_leading or trailing portion_\) [kustutus](kustutus-delete.md) \(_deletion_\) või ärajätt \(_omission_\) mingi etteantud kriteeriumi \(_specified criteria_\) järgi.
 {% endhint %}
 
 **Sünonüüm**: sõne kärpimine \(_truncation of a string_\)
