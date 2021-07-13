@@ -2,9 +2,13 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Python" %}
 {% hint style="info" %}
-Protsess millega Pythoni kood ühes [moodulis](moodul-module.md) \(_module_\) tehakse käideldavaks \(_available_\) Pythoni koodile teises moodulis.
+[protsess](protsess-process.md) \(_process_\) millega Pythoni kood ühes [moodulis](moodul-module.md) \(_module_\) tehakse käideldavaks \(_available_\) Pythoni koodile teises moodulis.
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Viited
 

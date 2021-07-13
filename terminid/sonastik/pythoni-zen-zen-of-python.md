@@ -8,7 +8,9 @@ Pythoni kujundamise põhimõtete \(_design principles_\) ja filosoofiate loetelu
 
 ## Täpsemalt
 
-Pythoni Zeni loetelu tagastatakse kui sisestada Pythoni interaktiivses interpretaatoris `import this` 
+Pikaaegne Pythoneer Tim Peters võtab lühidalt kokku BDFL-i Pythoni kavandamise juhtpõhimõtted 20 aforismis, millest ainult 19 on kirja pandud.
+
+Pytoni Zen on leitav kui [PEP20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/) või kui sisestada Pythoni [interaktiivses interpretaatoris](interaktiivne-interactive.md) `import this` 
 
 Eestikeelne versioon koos ingliskeelse originaaliga:
 
@@ -49,4 +51,10 @@ Eestikeelne versioon koos ingliskeelse originaaliga:
 **Kui teostust on lihtne selgitada siis võib see olla hea idee** \(_If the implementation is easy to explain, it may be a good idea_\)                                                                                                                                 
 
 **Nimeruumid on üks paganama hea mõte - teeme neid rohkem!** \(_Namespaces are one honking great idea -- let's do more of those!_\)
+
+## Viited
+
+Pythoni ametlik dokumentatsioon:
+
+* Python &gt; Python Developer's Guide &gt; PEP Index &gt; [PEP20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 

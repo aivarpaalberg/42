@@ -2,9 +2,13 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
 lähteprogrammi \(_source program_\) iga [lauset](lause-statement.md) \(_statement_\) või [tarindit](keeletarind-language-construct.md) \(_construct_\) enne järgmisega tegelemist analüüsima \(_analyze_\), transleerima \(_translate_\) ja [täitma](taeitmine-execution.md) \(_execute_\).
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Täpsemalt
 

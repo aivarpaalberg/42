@@ -2,17 +2,17 @@
 
 ## Sissejuhatus
 
-See dokument annab [kodeerimise](terminid/sonastik/kodeerimine-coding.md) \(_coding_\) tavad \(_conventions_\)  peamise \(_main_\) Pythoni distributsiooni standard teegi \(_standard library_\) [koodile](terminid/sonastik/kood-code.md). Palun vaata kaasnevat informatiivset PEP-i, mis kirjeldab C-koodi stiilijuhiseid Pythoni C-teostuses \(_C implementation of Python_\).
+See dokument annab [kodeerimise](terminid/sonastik/kodeerimine-coding.md) \(_coding_\) tavad \(_conventions_\)  Pythoni peamise \(_main_\) distributsiooni standardteegi \(_standard library_\) [koodile](terminid/sonastik/kood-code.md). Palun vaata kaasnevat informatiivset PEP-i, mis kirjeldab C-koodi stiilijuhiseid Pythoni C-teostuses \(_C implementation of Python_\).
 
 See dokument ja PEP 257 \(Docstring Conventions\) on kohandatud Guido algsest Pythoni stiilijuhendi esseest koos mõne täiendusega Barry stiilijuhendist.
 
-See stiilijuhend areneb ajas, kuna tuvastatakse \(_identified_\) täiendavaid tavasid  ja olemasolevad tavad    aeguvad muutuste tõttu keeles endas. 
+See stiilijuhend areneb ajas, kuna tuvastatakse \(_identified_\) täiendavaid tavasid  ja olemasolevad tavad    aeguvad muutuste tõttu keeles. 
 
 Paljudel projektidel on oma kodeerimisstiili juhised. Mis tahes konfliktide korral on sellised projektispetsiifilised juhendid selle projekti jaoks ülimuslikud.
 
 ## Väikest mõistust painab rumal järjepidevus
 
-Guido üks võtmekaemusi on see, et [koodi](terminid/sonastik/kood-code.md) loetakse palju sagedamini kui seda kirjutatakse. Siin toodud juhiste eesmärk on parandada koodi loetavust ja ühtlustada Pythoni koodi kogu selle laias spektris. Nagu PEP 20 ütleb: "Loetavus loeb".
+Guido üks võtmekaemusi on see, et [koodi](terminid/sonastik/kood-code.md) loetakse palju sagedamini kui seda kirjutatakse. Siin toodud juhiste eesmärk on parandada koodi loetavust ja ühtlustada Pythoni koodi kogu selle laias spektris. Nagu [PEP 20](terminid/sonastik/pythoni-zen-zen-of-python.md) ütleb: "Loetavus loeb".
 
 Stiilijuhend on järjepidevusest \(_consistency_\). Järjepidevus stiilijuhendi järgimisel on tähtis. Projektisisene järjepidevus on tähtsam. Järjepidevus [moodulis](terminid/sonastik/moodul-module.md) või [funktsioonis](terminid/sonastik/funktsioon-function.md) on kõige tähtsam.
 
@@ -79,7 +79,7 @@ Siiski on sedasi öelda OK:
 from subprocess import Popen, PIPE
 ```
 
-Importimised pannakse alati [faili](terminid/sonastik/fail-file.md) algusesse, kohe peale mooduli kommentaare ja [dokumentatsiooni sõnet](terminid/sonastik/dokumentatsiooni-sone-docstring.md) ning enne mooduli [globaale](terminid/sonastik/globaalne-global.md) \(_global_\) ja [konstante](terminid/sonastik/konstant-constant.md) \(_constants_\).
+[Importimised](terminid/sonastik/importimine-importing.md) pannakse alati [faili](terminid/sonastik/fail-file.md) algusesse, kohe peale mooduli [kommentaare](terminid/sonastik/kommentaar-comment.md) ja [dokumentatsiooni sõnet](terminid/sonastik/dokumentatsiooni-sone-docstring.md) ning enne mooduli [globaale](terminid/sonastik/globaalne-global.md) \(_global_\) ja [konstante](terminid/sonastik/konstant-constant.md) \(_constants_\).
 
 Importimised tuleks grupeerida järgnevas järjestuses:
 
@@ -108,7 +108,7 @@ Standardteegi \(_standrd library_\)  [kood](terminid/sonastik/kood-code.md) \(_c
 
 Ilmutamata \(_implicit_\) suhtelist \(_relative_\) importimist ei tohiks _kunagi_ kasutada ja see on Python 3-st eemaldatud.
 
-Klassi importimisel klassi sisaldavast moodulist on tavaliselt OK kirjutada nii:
+[Klassi ](terminid/sonastik/klass-class.md)\(_class_\) [importimisel](terminid/sonastik/importimine-importing.md) klassi sisaldavast [moodulist](terminid/sonastik/moodul-module.md) \(_module_\) on tavaliselt OK kirjutada nii:
 
 ```python
 from myclass import MyClass
@@ -136,7 +136,7 @@ Nimede \(_names_\) sellisel viisil taasavaldamisel \(_republish_\) kehtivad ikka
 
 ### Tüütused
 
-Väldi tühikuid järgmistes olukordades:
+Väldi [tühikuid](terminid/sonastik/tuehik-space-character.md) järgmistes olukordades:
 
 * Vahetult sulgude \(_parentheses_\), nurksulgude \(_brackets_\), nurgeliste sulgude \(_braces_\) sees:
 
@@ -221,7 +221,7 @@ initialize(FILES, error=True,)
 
 ## Kommentaarid
 
-Kommentaarid, mis on vastuolus koodiga, on halvemad kui kood ilma kommentaarideta. Koodi muutumisel sea alati prioriteediks kommentaaride hoidmine ajakohasena!
+[Kommentaarid](terminid/sonastik/kommentaar-comment.md) \(_comments_\), mis on vastuolus [koodiga](terminid/sonastik/kood-code.md) \(_code_\), on halvemad kui kood ilma kommentaarideta. Koodi muutumisel sea alati prioriteediks kommentaaride hoidmine ajakohasena!
 
 Kommentaarid peaksid olema täislaused. Esimene sõna peaks algama suurtähega, välja arvatud juhul, kui see on [identifikaator](terminid/sonastik/identifikaator-identifier.md) \(_identifier_\), mis algab väiketähega \(ära kunagi muuda identifikaatorite tähti!\). 
 

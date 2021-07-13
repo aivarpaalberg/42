@@ -2,13 +2,17 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Python" %}
 {% hint style="info" %}
 Pythonil on interaktiivne interpretaator \(_interactive interpretator_\) mis tähendab, et [interpretaatori](interpretaator-interpreter.md) \(_interpreter_\) [viibale](viip-prompt.md) \(_prompt_\) saab sisestada [lauseid](lause-statement.md) \(_statements_\) ja[ avaldisi](avaldis-expression.md) \(_expressions_\), neid koheselt täita ja näha nende tulemusi.
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Täpsemalt
 
-Käivita `python` ilma argumentideta. See on väga võimas viis uute ideede testimiseks või [moodulite](moodul-module.md) \(_modules_\) ja [pakettide](pakett-package.md) \(_packages_\) vaatluseks \(_inspection_\). 
+Käivita  Python ilma argumentidetas \(olenevalt seadistusest kas käsuga `python` või `python3` \). See on väga võimas viis uute ideede testimiseks või [moodulite](moodul-module.md) \(_modules_\) ja [pakettide](pakett-package.md) \(_packages_\) vaatluseks \(_inspection_\). 
 
 Pea meeles, et abi on alati saadaval \(`help(x)`\)
 

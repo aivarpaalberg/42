@@ -1,8 +1,16 @@
 # plokk \(block\)
 
+## Tähendus
+
+{% tabs %}
+{% tab title="Python" %}
 {% hint style="info" %}
-osa \(_piece_\) Pythoni [programmi](programm-program.md) tekstist mida [täidetakse](taeitmine-execution.md) \(_executed_\) kui terviküksust \(_unit_\) 
+osa \(_piece_\) Pythoni [programmi](programm-program.md) \(_program_\) [tekstist](tekst-text.md) \(_text_\) mida [täidetakse](taeitmine-execution.md) \(_executed_\) kui terviküksust \(_unit_\) 
 {% endhint %}
+
+Tihti kasutatakse sünonüümina **koodi plokk**.
+{% endtab %}
+{% endtabs %}
 
 ## Täpsemalt
 
@@ -17,7 +25,7 @@ Järgnevad on plokid \(_blocks_\):
 * [moodul](moodul-module.md) mida käitatakse \(_run_\) kõrgeime taseme skriptina \(_top level script_\) \(kui mooduli `__main__`\) käsurealt \(_command line_\) kasutades `-m` argumenti on ka koodi plokk \(_code block_\). 
 * [sõne](../../python/sisseehitatud-tueuebid/sone-str/) \(_string_\)[ tüüpi](andmetueuep-datatype.md) [argument](argument.md) mis edastatakse sisemistele funktsioonidele `eval()` ja `exec()` on koodi plokk \(_code block_\). 
 
-Koodi plokki täidetakse \(_executed_\) täitmise kaadris \(_execution frame_\). Kaader sisaldab \(_contains_\) teatud \(_some_\) administratiivset informatsiooni \(_administrative information_\) mida kasutatakse silumiseks \(_debugging_\) ja mis määrab \(_determines_\) kus ja kuidas täitmine jätkub peale koodi ploki täitmist.
+Koodi plokki [täidetakse](taeitmine-execution.md) \(_executed_\) täitmise kaadris \(_execution frame_\). Kaader sisaldab \(_contains_\) teatud \(_some_\) administratiivset informatsiooni \(_administrative information_\) mida kasutatakse [silumiseks](siluma-to-debug.md) \(_debugging_\) ja mis määrab \(_determines_\) kus ja kuidas täitmine jätkub peale koodi ploki täitmist.
 
 ## Viited
 
