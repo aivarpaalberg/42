@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-kahe järjestikku \(_successive_\)  rea \(_line_\) alusjoonte \(_baseline_\) vaheline kaugus.
+kahe järjestikku \(_successive_\)  [rea](rida-line.md) \(_line_\) alusjoonte \(_baseline_\) vaheline kaugus.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
