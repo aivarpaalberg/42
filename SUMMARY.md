@@ -167,6 +167,7 @@
   * [kompileerima \(to compile\)](terminid/sonastik/kompileerima-to-compile.md)
   * [konteiner \(container\)](terminid/sonastik/konteiner-container.md)
   * [kursor \(cursor\)](terminid/sonastik/kursor-cursor.md)
+  * [kustutus \(delete\)](terminid/sonastik/kustutus-delete.md)
   * [kuva \(display\)](terminid/sonastik/kuva-display.md)
   * [kuvaelement \(display element\)](terminid/sonastik/kuvaelement-display-element.md)
   * [kuvapind \(display surface\)](terminid/sonastik/kuvapind-display-surface.md)
