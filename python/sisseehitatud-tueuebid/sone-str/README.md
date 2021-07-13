@@ -2,7 +2,7 @@
 description: 'Teksti jada tüüp (Text Sequence Type), Pythoni sisseehitatud andmetüüp.'
 ---
 
-# sõne \(string\)
+# sõne \(str\)
 
 ## Tähendus
 
