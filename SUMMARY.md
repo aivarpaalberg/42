@@ -193,6 +193,7 @@
   * [mõiste \(concept\)](terminid/sonastik/moiste-concept.md)
   * [mäluseade \(storage device\)](terminid/sonastik/maeluseade-storage-device.md)
   * [märgistik \(character set\)](terminid/sonastik/maergistik-character-set.md)
+  * [märgistring \(character string\)](terminid/sonastik/maergistring-character-string.md)
   * [märk \(character\)](terminid/sonastik/maerk-character.md)
   * [naturaalarv \(natural number\)](terminid/sonastik/naturaalarv-natural-number.md)
   * [nimeruum \(namespace\)](terminid/sonastik/nimeruum-namespace.md)

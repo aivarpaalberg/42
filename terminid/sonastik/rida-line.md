@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-[märgi ](maerk-character.md)\(_character_\) [jada](jada-sequence.md) \(_sequence_\), mis tavaliselt koosneb sõnadest \(_words_\) ja [tühikutest](tuehik-space-character.md) \(_spaces_\) ja mis mingi vormindus protsessi \(_formatting process_\) toimel on joondatud, harilikult alusjoonele \(_baseline_\).
+[märgi ](maerk-character.md)\(_character_\) [jada](jada-sequence.md) \(_sequence_\), mis tavaliselt koosneb [sõnades](sona-word.md)t \(_words_\) ja [tühikutest](tuehik-space-character.md) \(_spaces_\) ja mis mingi vormindus protsessi \(_formatting process_\) toimel on joondatud \(_aligned_\), harilikult alusjoonele \(_baseline_\).
 {% endhint %}
 
 **Märkus**: rea pikkuse määrab vorminduse selles faasis kasutada olev ruum.

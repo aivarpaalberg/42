@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-märgistring \(_character string_\), mida vaadeldaval otstarbel käsitletakse terviküksusena.
+[märgistring](maergistring-character-string.md) \(_character string_\), mida vaadeldaval otstarbel käsitletakse terviküksusena \(_unit_\).
 {% endhint %}
 {% endtab %}
 {% endtabs %}
