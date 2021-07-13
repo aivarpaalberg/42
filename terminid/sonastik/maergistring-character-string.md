@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-string \(_string_\), mis koosneb ainult [märkidest](maerk-character.md) \(_characters_\).
+[sõne ](sone-string.md)\(_string_\), mis koosneb ainult [märkidest](maerk-character.md) \(_characters_\).
 {% endhint %}
 {% endtab %}
 {% endtabs %}
