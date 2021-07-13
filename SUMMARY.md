@@ -173,6 +173,7 @@
   * [kuvaseade \(display device\)](terminid/sonastik/kuvaseade-display-device.md)
   * [kõrvaltoime \(side effect\)](terminid/sonastik/korvaltoime-side-effect.md)
   * [käitusjärk \(runtime\)](terminid/sonastik/kaeitusjaerk-runtime.md)
+  * [kärpimine \(truncation\)](terminid/sonastik/kaerpimine-truncation.md)
   * [käsk \(instruction\)](terminid/sonastik/kaesk-instruction.md)
   * [lambda \(lambda\)](terminid/sonastik/lambda-lambda.md)
   * [lause \(statement\)](terminid/sonastik/lause-statement.md)
