@@ -9,6 +9,8 @@ Pythoni ja informaatika kontekstis on funktsioon \(_function_\) defineeritud pis
 {% hint style="info" %}
 seeria [lauseid](lause-statement.md) \(statements\) mis tagastavad väljakutsujale mingi väärtuse.
 {% endhint %}
+
+Funktsioonile saab edastada \(_pass_\) null või rohkem [argumenti](argument.md) \(_argument_\) mida võidakse kasutada [täitmisel](taeitmine-execution.md) \(_execution_\).
 {% endtab %}
 
 {% tab title="Informaatika" %}
@@ -18,9 +20,7 @@ seeria [lauseid](lause-statement.md) \(statements\) mis tagastavad väljakutsuja
 {% endtab %}
 {% endtabs %}
 
-## Täpsemalt
 
-Funktsioonile saab edastada \(_pass_\) null või rohkem [argumenti](argument.md) \(_argument_\) mida võidakse kasutada [täitmisel](taeitmine-execution.md) \(_execution_\).
 
 ## Viited
 
