@@ -2,6 +2,8 @@
 
 ## Tähendus
 
+Pytoni Zen on leitav kui [PEP20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/) või kui sisestada Pythoni [interaktiivses interpretaatoris](interaktiivne-interactive.md) `import this` 
+
 {% hint style="info" %}
 Pythoni kujundamise põhimõtete \(_design principles_\) ja filosoofiate loetelu, mis on abiks keele mõistmisel ja kasutamisel
 {% endhint %}
@@ -9,8 +11,6 @@ Pythoni kujundamise põhimõtete \(_design principles_\) ja filosoofiate loetelu
 ## Täpsemalt
 
 Pikaaegne Pythoneer Tim Peters võtab lühidalt kokku BDFL-i Pythoni kavandamise juhtpõhimõtted 20 aforismis, millest ainult 19 on kirja pandud.
-
-Pytoni Zen on leitav kui [PEP20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/) või kui sisestada Pythoni [interaktiivses interpretaatoris](interaktiivne-interactive.md) `import this` 
 
 Eestikeelne versioon koos ingliskeelse originaaliga:
 
