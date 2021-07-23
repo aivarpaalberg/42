@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-[täitma](taeitmine-execution.md) \(_execute_\)  __[naasmislauset](naasmislause-return-statement.md) \(_return statement_\)_,_ mis põhjustab siirde \(_jump_\) kutsuvasse \(_calling_\)  [programmi](programm-program.md) \(_program_\)
+[täitma](taeitmine-execution.md) \(_execute_\)  __[naasmislauset](naasmislause-return-statement.md) \(_return statement_\)_,_ mis põhjustab [siirde](siire-jump.md) \(_jump_\) kutsuvasse \(_calling_\)  [programmi](programm-program.md) \(_program_\)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
