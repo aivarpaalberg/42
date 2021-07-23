@@ -104,6 +104,7 @@
   * [aatom \(atom\)](terminid/sonastik/aatom-atom.md)
   * [alamprogramm \(subprogram\)](terminid/sonastik/alamprogramm-subprogram.md)
   * [alfabeet \(alphabet\)](terminid/sonastik/alfabeet-alphabet.md)
+  * [alusjoon \(baseline\)](terminid/sonastik/alusjoon-baseline.md)
   * [andmed \(data\)](terminid/sonastik/andmed-data.md)
   * [andmeobjekt \(data object\)](terminid/sonastik/andmeobjekt-data-object.md)
   * [andmestruktuur \(data structure\)](terminid/sonastik/andmestruktuur-data-structure.md)
