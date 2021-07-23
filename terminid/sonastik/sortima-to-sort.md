@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-Elemente \(_items_\) etteantud kriteeriumide järgi rühmadesse eraldama \(_segregate_\), ilma et üksused igas rühmas tuleksid tingimata järjestada \(_ordering_\).
+elemente \(_items_\) etteantud kriteeriumide järgi rühmadesse eraldama \(_segregate_\), ilma et üksused igas rühmas tuleksid tingimata [järjestada](jaerjestama-to-order.md) \(_ordering_\).
 {% endhint %}
 
 ## Viited
