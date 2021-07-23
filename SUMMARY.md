@@ -264,5 +264,6 @@
   * [tühik \(space character\)](terminid/sonastik/tuehik-space-character.md)
   * [viga \(error\)](terminid/sonastik/viga-error.md)
   * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
+  * [vormindus \(formatting\)](terminid/sonastik/vormindus-formatting.md)
   * [võtme funktsioon \(key function\)](terminid/sonastik/votme-funktsioon-key-function.md)
 
