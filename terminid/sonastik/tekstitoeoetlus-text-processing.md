@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-andmetöötluse \(_data processing_\) operatsioonid [tekstiga](tekst-text.md) \(_text_\), näiteks sisestus \(_entering_\), teksti redigeerimine \(_editing_\),  [sortimine](sortima-to-sort.md) \(_sorting_\),  [mestimine](mestima-to-merge.md) \(_merging_\),  otsing \(_retrieving_\), [salvestus](salvestama-to-store.md) \(_storing_\),  [kuvamine](kuva-display.md) \(_displaying_\) või printimine \(_printing_\).
+[andmetöötluse](andmetoeoetlus-data-processing.md) \(_data processing_\) operatsioonid [tekstiga](tekst-text.md) \(_text_\), näiteks sisestus \(_entering_\), teksti redigeerimine \(_editing_\),  [sortimine](sortima-to-sort.md) \(_sorting_\),  [mestimine](mestima-to-merge.md) \(_merging_\),  otsing \(_retrieving_\), [salvestus](salvestama-to-store.md) \(_storing_\),  [kuvamine](kuva-display.md) \(_displaying_\) või printimine \(_printing_\).
 {% endhint %}
 
 **Sünonüüm**: _word processing_
