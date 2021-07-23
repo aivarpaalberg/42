@@ -139,6 +139,7 @@
   * [identiteet \(identity\)](terminid/sonastik/identiteet-identity.md)
   * [importimine \(importing\)](terminid/sonastik/importimine-importing.md)
   * [informatsioon \(information\)](terminid/sonastik/informatsioon-information.md)
+  * [infotöötlus \(information processing\)](terminid/sonastik/infotoeoetlus-information-processing.md)
   * [interpretaator \(interpreter\)](terminid/sonastik/interpretaator-interpreter.md)
   * [interpreteerima \(to interpret\)](terminid/sonastik/interpreteerima-to-interpret.md)
   * [interaktiivne interpretaator \(interactive interpretator\)](terminid/sonastik/interaktiivne-interactive.md)
