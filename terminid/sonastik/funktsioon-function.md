@@ -2,7 +2,7 @@
 
 ## Tähendus
 
-Pythoni ja informaatika kontekstis on funktsioon \(_function_\) defineeritud pisut erinevalt kuid sisult on need mõisted samad.
+Pythoni ja informaatika kontekstis on funktsioon \(_function_\) defineeritud pisut erinevalt kuid sisult on need mõisted sarnased.
 
 {% tabs %}
 {% tab title="Python" %}
