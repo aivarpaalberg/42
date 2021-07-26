@@ -119,6 +119,7 @@
   * [avaldis \(expression\)](terminid/sonastik/avaldis-expression.md)
   * [Boole'i tehe \(boolean operation\)](terminid/sonastik/boolei-tehe.md)
   * [deklaratsioon \(declaration\)](terminid/sonastik/deklaratsioon-declaration.md)
+  * [digitaalarvuti \(digital computer\)](terminid/sonastik/digitaalarvuti-digital-computer.md)
   * [dokument \(document\)](terminid/sonastik/dokument-document.md)
   * [doksõne \(docstring\)](terminid/sonastik/dokumentatsiooni-sone-docstring.md)
   * [diskreetandmed \(discrete data\)](terminid/sonastik/diskreetandmed-discrete-data.md)

@@ -5,11 +5,11 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
- [funktsionaalüksus](funktsionaalueksus-functional-unit.md) \(_functional unit_\), mis on võimeline inimese sekkumiseta \(_without human intervention_\) sooritama keerukaid arvutusi \(_substantial computations_\), kaasa arvatud rohked aritmeetikatehted \(_arithmetic operations_\) ja loogikatehted \(_logic operations_\).
+ [funktsionaalüksus](funktsionaalueksus-functional-unit.md) \(_functional unit_\), mis on võimeline inimese sekkumiseta \(_without human intervention_\) sooritama keerukaid arvutusi \(_substantial computations_\), kaasa arvatud rohked [aritmeetikatehted](aritmeetikatehe-arithmetic-operation.md) \(_arithmetic operations_\) ja loogikatehted \(_logic operations_\).
 {% endhint %}
 
 **Märkus**: arvuti \(_computer_\) võib olla üks terviklik üksus \(_stand-alone unit_\) või koosneda mitmest omavahel ühendatud üksusest \(_several interconnected units_\).  
-Inglise ja eesti keeles tähendab termin arvuti \(_computer_\) [infotöötluses](infotoeoetlus-information-processing.md) \(_information processing_\) harilikult digitaalarvutit \(_digital computer_\).
+Inglise ja eesti keeles tähendab termin arvuti \(_computer_\) [infotöötluses](infotoeoetlus-information-processing.md) \(_information processing_\) harilikult [digitaalarvutit](digitaalarvuti-digital-computer.md) \(_digital computer_\).
 {% endtab %}
 {% endtabs %}
 
