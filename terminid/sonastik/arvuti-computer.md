@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
- funktsionaalüksus \(_functional unit_\), mis on võimeline inimese sekkumiseta \(_without human intervention_\) sooritama keerukaid arvutusi \(_substantial computations_\), kaasa arvatud rohked aritmeetikatehted \(_arithmetic operations_\) ja loogikatehted \(_logic operations_\).
+ [funktsionaalüksus](funktsionaalueksus-functional-unit.md) \(_functional unit_\), mis on võimeline inimese sekkumiseta \(_without human intervention_\) sooritama keerukaid arvutusi \(_substantial computations_\), kaasa arvatud rohked aritmeetikatehted \(_arithmetic operations_\) ja loogikatehted \(_logic operations_\).
 {% endhint %}
 
 **Märkus**: arvuti \(_computer_\) võib olla üks terviklik üksus \(_stand-alone unit_\) või koosneda mitmest omavahel ühendatud üksusest \(_several interconnected units_\).  

@@ -112,6 +112,7 @@
   * [andmetüüp \(datatype\)](terminid/sonastik/andmetueuep-datatype.md)
   * [andmeväärtus \(data value\)](terminid/sonastik/andmevaeaertus-data-value.md)
   * [argument \(argument\)](terminid/sonastik/argument.md)
+  * [aritmeetikatehe \(arithmetic operation\)](terminid/sonastik/aritmeetikatehe-arithmetic-operation.md)
   * [arvusüsteem \(numeration system\)](terminid/sonastik/arvusuesteem-numeration-system.md)
   * [arvuti \(computer\)](terminid/sonastik/arvuti-computer.md)
   * [atribuut \(attribute\)](terminid/sonastik/atribuut-attribute.md)
