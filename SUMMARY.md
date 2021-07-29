@@ -232,6 +232,7 @@
   * [protsess \(process\)](terminid/sonastik/protsess-process.md)
   * [Pythoni Zen \(Zen of Python\)](terminid/sonastik/pythoni-zen-zen-of-python.md)
   * [reasamm \(line space\)](terminid/sonastik/reasamm-line-space.md)
+  * [redigeerimine \(editing\)](terminid/sonastik/redigeerimine-editing.md)
   * [rekursioon \(recursion\)](terminid/sonastik/rekursioon-recursion.md)
   * [reserveeritud sõna \(reserved word\)](terminid/sonastik/reserveeritud-sona-reserved-word.md)
   * [rida \(line\)](terminid/sonastik/rida-line.md)
