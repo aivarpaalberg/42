@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-kasutajale [tekstitöötlust](tekstitoeoetlus-text-processing.md) \(_text processing_\) võimaldav tarkvarapakett \(_software package_\) või seade \(_device_\) koos juurdekuuluva tarkvaraga \(_software_\).
+kasutajale [tekstitöötlust](tekstitoeoetlus-text-processing.md) \(_text processing_\) võimaldav [tarkvarapakett](tarkvarapakett-software-package.md) \(_software package_\) või seade \(_device_\) koos juurdekuuluva tarkvaraga \(_software_\).
 {% endhint %}
 
 **Sünonüümid**: _word processor_
