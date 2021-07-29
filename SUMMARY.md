@@ -264,6 +264,7 @@
   * [tehtemärk \(operator\)](terminid/sonastik/tehtemaerk-operator.md)
   * [tehiskeel \(artificial language\)](terminid/sonastik/tehiskeel-artificial-language.md)
   * [tekst \(text\)](terminid/sonastik/tekst-text.md)
+  * [tekstiprotsessor \(text processor\)](terminid/sonastik/tekstiprotsessor-text-processor.md)
   * [tekstiredaktor \(text editor\)](terminid/sonastik/tekstiredaktor-text-editor.md)
   * [tekstitöötlus \(text processing\)](terminid/sonastik/tekstitoeoetlus-text-processing.md)
   * [tulem \(result\)](terminid/sonastik/tulem-result.md)
