@@ -8,7 +8,7 @@
 [andmetega](andmed-data.md) \(_data_\) süstemaatiline [operatsioonide](tehe-operation.md) \(_operation_\) sooritamine.
 {% endhint %}
 
-**Näited**: aritmeetika- \(_arithmetic_\) või loogikatehted \(_logic operations_\) [andmetega](andmed-data.md) \(_data_\), andmete [mestimine](mestima-to-merge.md) \(_merging_\) või [sortimine](sortima-to-sort.md) \(_sorting_\),  [programmide](programm-program.md) \(_programs_\) assembleerimine \(_assembling_\) või [kompileerimine](kompileerima-to-compile.md) \(_compiling_\), või operatsioonid [tekstiga](tekst-text.md) \(_text_\), näiteks redigeerimine \(_editing_\), [sortimine](sortima-to-sort.md) \(_sorting_\), [mestimine](mestima-to-merge.md) \(_merging_\), [salvestamine](salvestama-to-store.md) \(_storing_\), otsing \(_retrieving_\), [kuvamine](kuva-display.md) \(_displaying_\) või printimine \(_printing_\).
+**Näited**: aritmeetika- \(_arithmetic_\) või loogikatehted \(_logic operations_\) [andmetega](andmed-data.md) \(_data_\), andmete [mestimine](mestima-to-merge.md) \(_merging_\) või [sortimine](sortima-to-sort.md) \(_sorting_\),  [programmide](programm-program.md) \(_programs_\) assembleerimine \(_assembling_\) või [kompileerimine](kompileerima-to-compile.md) \(_compiling_\), või operatsioonid [tekstiga](tekst-text.md) \(_text_\), näiteks [redigeerimine](redigeerimine-editing.md) \(_editing_\), [sortimine](sortima-to-sort.md) \(_sorting_\), [mestimine](mestima-to-merge.md) \(_merging_\), [salvestamine](salvestama-to-store.md) \(_storing_\), otsing \(_retrieving_\), [kuvamine](kuva-display.md) \(_displaying_\) või printimine \(_printing_\).
 
 Terminit andmetöötlus \(_data processing_\) ei tohi kasutada [infotöötluse](infotoeoetlus-information-processing.md) \(_information processing_\) sünonüümina.
 
