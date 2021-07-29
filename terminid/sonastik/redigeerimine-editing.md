@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-tekstiprotsessori \(_text processor_\) kasutamine [teksti](tekst-text.md) \(_text_\) manipuleerimiseks \(_to manipulate_\), näiteks teksti ümberpaigutamiseks \(_rearrange_\) või muutmiseks \(_change_\), sealhulgas lisamisteks \(_additions_\) ja kustutusteks \(_deletions_\) või ümbervormindamiseks \(_reformatting_\).
+[tekstiprotsessori](tekstiprotsessor-text-processor.md) \(_text processor_\) kasutamine [teksti](tekst-text.md) \(_text_\) manipuleerimiseks \(_to manipulate_\), näiteks teksti ümberpaigutamiseks \(_rearrange_\) või muutmiseks \(_change_\), sealhulgas lisamisteks \(_additions_\) ja kustutusteks \(_deletions_\) või ümbervormindamiseks \(_reformatting_\).
 {% endhint %}
 
 **Sünonüümid**: standardi järgi on redigeerimine \(_editing_\) sünonüüm ning põhiterminiks on teksti redigeerimine \(_text editing_\). Kui kontekstist on aru saada, et jutt käib tekstist kasutatakse tihti lühemat sünonüümi.
