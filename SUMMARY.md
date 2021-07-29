@@ -109,6 +109,7 @@
   * [andmeobjekt \(data object\)](terminid/sonastik/andmeobjekt-data-object.md)
   * [andmestruktuur \(data structure\)](terminid/sonastik/andmestruktuur-data-structure.md)
   * [andmetöötlus \(data processing\)](terminid/sonastik/andmetoeoetlus-data-processing.md)
+  * [andmetöötlussüsteem \(data processing system\)](terminid/sonastik/andmetoeoetlussuesteem-data-processing-system.md)
   * [andmetüüp \(datatype\)](terminid/sonastik/andmetueuep-datatype.md)
   * [andmeväärtus \(data value\)](terminid/sonastik/andmevaeaertus-data-value.md)
   * [argument \(argument\)](terminid/sonastik/argument.md)
