@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-funktsioon \(_function_\) või olek \(_mode_\), mis võimaldab kasutajal viia senise [teksti ](tekst-text.md) \(_text_\) sisse lisateksti, mille sobitamiseks \(_to accomodate_\) senine tekst paigutatakse automaatselt ümber \(_automatically rearranged_\).
+funktsioon \(_a function_\) või olek \(_mode_\), mis võimaldab kasutajal viia senise [teksti ](tekst-text.md) \(_text_\) sisse lisateksti, mille sobitamiseks \(_to accomodate_\) senine tekst paigutatakse automaatselt ümber \(_automatically rearranged_\).
 {% endhint %}
 {% endtab %}
 {% endtabs %}
