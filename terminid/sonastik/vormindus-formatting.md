@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-[tekstiredaktori](tekstiredaktor-text-editor.md) \(_text editor_\) või muu [tekstitöötlus](tekstitoeoetlus-text-processing.md) \(_text processing_\)  tarkvara \(_software_\) võime, mis lubab [teksti ](tekst-text.md)\(_text_\) küljendada \(_preparation of the layout_\) vastavalt kasutaja poolt etteantud kriteeriumidele.
+[tekstiredaktori](tekstiredaktor-text-editor.md) \(_text editor_\) või muu [tekstitöötlus](tekstitoeoetlus-text-processing.md) \(_text processing_\)  [tarkvara](tarkvara-software.md) \(_software_\) võime, mis lubab [teksti ](tekst-text.md)\(_text_\) küljendada \(_preparation of the layout_\) vastavalt kasutaja poolt etteantud kriteeriumidele.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

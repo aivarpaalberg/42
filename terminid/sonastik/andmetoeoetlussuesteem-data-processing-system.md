@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-üks või mitu \(_one or more_\) [arvutit](arvuti-computer.md) \(_computer_\),  [välisseadmed](vaelisseadmed-peripheral-equipment.md) \(_peripheral equipment_\) ja tarkvara \(_software_\), mis sooritavad [andmetöötlust](andmetoeoetlus-data-processing.md) \(_data processing_\).
+üks või mitu \(_one or more_\) [arvutit](arvuti-computer.md) \(_computer_\),  [välisseadmed](vaelisseadmed-peripheral-equipment.md) \(_peripheral equipment_\) ja [tarkvara](tarkvara-software.md) \(_software_\), mis sooritavad [andmetöötlust](andmetoeoetlus-data-processing.md) \(_data processing_\).
 {% endhint %}
 
 **Sünonüümid**: arvutisüsteem \(_computer system, computing system_\)
