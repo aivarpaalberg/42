@@ -232,6 +232,8 @@
   * [programmeerimiskeel \(programming language\)](terminid/sonastik/programmeerimiskeel-programming-language.md)
   * [protsess \(process\)](terminid/sonastik/protsess-process.md)
   * [Pythoni Zen \(Zen of Python\)](terminid/sonastik/pythoni-zen-zen-of-python.md)
+  * [rakendusprobleem \(application problem\)](terminid/sonastik/rakendusprobleem-application-problem.md)
+  * [rakendustarkvara \(application software\)](terminid/sonastik/rakendustarkvara-application-software.md)
   * [reasamm \(line space\)](terminid/sonastik/reasamm-line-space.md)
   * [redigeerimine \(editing\)](terminid/sonastik/redigeerimine-editing.md)
   * [rekursioon \(recursion\)](terminid/sonastik/rekursioon-recursion.md)
