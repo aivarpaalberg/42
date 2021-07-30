@@ -263,6 +263,7 @@
   * [tagastama \(to return\)](terminid/sonastik/tagastama-to-return.md)
   * [tala \(dunder\)](terminid/sonastik/tala-dunder.md)
   * [talletama \(to store\)](terminid/sonastik/talletama-to-store.md)
+  * [tarkvara \(software\)](terminid/sonastik/tarkvara-software.md)
   * [tarkvarapakett \(software package\)](terminid/sonastik/tarkvarapakett-software-package.md)
   * [tehe \(operation\)](terminid/sonastik/tehe-operation.md)
   * [tehtemärk \(operator\)](terminid/sonastik/tehtemaerk-operator.md)
