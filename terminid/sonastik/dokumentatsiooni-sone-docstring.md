@@ -35,7 +35,7 @@ def function(
 
 Pane tähele:
 
-* Kasutatakse kolmekordseid kahe ülakomaga [jutumärke](jutumaergid.md) kuigi sõne mahub ühele reale. Nii kirjutades teeb see ridade lisamise lihtsaks.
+* Kasutatakse kolmekordseid kahe ülakomaga [jutumärke](jutumaergid.md) kuigi sõne mahub ühele reale. Nii kirjutades teeb see ridade [lisamise](lisamine-insert.md) \(_insert_\) lihtsaks.
 * Sulgevad jutumärgid on samal real kui alustavad jutumärgid. See näeb üherealiste \(_one-liners_\) puhul parem välja.
 * Enne ega pärast doksõnet ei ole tühja rida.
 * Doksõne \(_docstring_\) on fraas mis lõpeb punktiga. See määrab [funktsiooni](funktsioon-function.md) või [meetodi](meetod-method.md) toime \(_effect_\) kui käsu \(_command_\) s.t. `Tee...` , `Tagasta..` ja mitte kui kirjelduse \(_description_\). Seetõttu ära kirjuta `Tagastab..` 
