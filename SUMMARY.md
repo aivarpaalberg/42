@@ -219,6 +219,7 @@
   * [olem \(entity\)](terminid/sonastik/olem-entity.md)
   * [olemiklass \(entity class\)](terminid/sonastik/olemiklass-entity-class.md)
   * [operand \(operand\)](terminid/sonastik/operand-operand.md)
+  * [operatsioonisüsteem \(operating system\)](terminid/sonastik/operatsioonisuesteem-operating-system.md)
   * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
   * [osutusseadis \(pointing device\)](terminid/sonastik/osutusseadis-pointing-device.md)
   * [otsivõti \(search key\)](terminid/sonastik/otsivoti-search-key.md)
