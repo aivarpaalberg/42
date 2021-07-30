@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-mingi [rakendusprobleemi](rakendusprobleem-application-problem.md) \(_application problem_\) lahenduse mõttes spetsiifiline tarkvara \(_software_\) või [programm](programm-program.md) \(_program_\)
+mingi [rakendusprobleemi](rakendusprobleem-application-problem.md) \(_application problem_\) lahenduse mõttes spetsiifiline [tarkvara](tarkvara-software.md) \(_software_\) või [programm](programm-program.md) \(_program_\)
 {% endhint %}
 
 **Sünonüümid**: rakendusprogramm \(_application program_\)

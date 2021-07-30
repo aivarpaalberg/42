@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-tarkvara \(_software_\), mis võimaldab kasutajal luua ja modifitseerida [teksti](tekst-text.md) \(_text_\).
+[tarkvara](tarkvara-software.md) \(_software_\), mis võimaldab kasutajal luua ja modifitseerida [teksti](tekst-text.md) \(_text_\).
 {% endhint %}
 
 Tekstiredaktorid on näiteks vim, emacs, VS Code jms
