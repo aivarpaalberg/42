@@ -191,6 +191,7 @@
   * [lihtlause \(simple statement\)](terminid/sonastik/lihtlause-simple-statement.md)
   * [liigendama \(to parse\)](terminid/sonastik/liigendama-to-parse.md)
   * [liitlause \(compound statement\)](terminid/sonastik/liitlause-compound-statement.md)
+  * [lisamine \(insert\)](terminid/sonastik/lisamine-insert.md)
   * [literaal \(literal\)](terminid/sonastik/literaal-literal.md)
   * [loend \(list\)](terminid/sonastik/loend-list.md)
   * [loendi hõlmamine \(list comprehension\)](terminid/sonastik/loendi-holmamine-list-comprehension.md)
