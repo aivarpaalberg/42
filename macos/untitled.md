@@ -1,6 +1,6 @@
 # Kuidas avada rakendusi ja faile
 
-[Arvutist](../terminid/sonastik/arvuti-computer.md) \(_computer_\) ilma rakendustarkvarata on kasutajale vähe kasu. Selleks et arvutiga midagi korda saata \(õppida, töötada või meelt lahutada\) vajab arvuti **rakendusi** \(_applications_\). Veebi sirvimiseks on brauser; e-kirjade lugemiseks, fotode töötlemiseks ja esitluste koostamiseks on oma rakendused.
+[Arvutist](../terminid/sonastik/arvuti-computer.md) \(_computer_\) ilma [rakendustarkvarata](../terminid/sonastik/rakendustarkvara-application-software.md) \(_application software_\) on kasutajale vähe kasu. Selleks et arvutiga midagi korda saata \(õppida, töötada või meelt lahutada\) vajab arvuti [rakendustarkvara](../terminid/sonastik/rakendustarkvara-application-software.md) \(_applications software_\). Veebi sirvimiseks on brauser; e-kirjade lugemiseks, fotode töötlemiseks ja esitluste koostamiseks on oma rakendused.
 
 Selleks, et neid rakendusi kasutama hakata on vaja need kõigepealt **üles leida ja avada**. Paljude rakenduste kasutamise tulemuseks on [fail](../terminid/sonastik/fail-file.md) \(_file_\) mille me [salvestame](../terminid/sonastik/salvestama-to-store.md) \(_store\)_ [mäluseadmesse](../terminid/sonastik/maeluseade-storage-device.md) \(_storage device_\). [Talletatud](../terminid/sonastik/talletama-to-store.md) faili taasavades on võimalik jätkata seisust, millal toimus viimane salvestamine.
 
