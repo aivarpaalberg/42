@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
- infotöötlussüsteemi \(_information processing system_\) kõik füüsilised komponendid  \(_physical components_\) või osa neist.
+ [infotöötlussüsteemi](infotoeoetlussuesteem-information-processing-system.md) \(_information processing system_\) kõik füüsilised komponendid  \(_physical components_\) või osa neist.
 {% endhint %}
 
 **Näited**: [arvutid](arvuti-computer.md) \(_computers_\), [välisseadmed](vaelisseadmed-peripheral-equipment.md) \(_peripheral equipment_\)

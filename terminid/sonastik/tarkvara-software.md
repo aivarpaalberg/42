@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
- infotöötlussüsteemi \(_information processing system_\) kõik [programmid](programm-program.md) \(_programs_\), protseduurid \(_procedures_\), reeglid \(_rules_\) ja nendega seotud dokumentatsioon \(_associated documentation_\) või osa neist.
+ [infotöötlussüsteemi](infotoeoetlussuesteem-information-processing-system.md) \(_information processing system_\) kõik [programmid](programm-program.md) \(_programs_\), protseduurid \(_procedures_\), reeglid \(_rules_\) ja nendega seotud dokumentatsioon \(_associated documentation_\) või osa neist.
 {% endhint %}
 
 **Märkus**: tarkvara \(_software_\) on vaimne looming \(_intellectual creation_\), mis on sõltumatu kandjast \(_medium_\), millele ta on salvestatud \(_recorded_\).
