@@ -15,7 +15,7 @@ Funktsioonile saab edastada \(_pass_\) null või rohkem [argumenti](argument.md)
 
 {% tab title="Informaatika" %}
 {% hint style="info" %}
-[alamprogramm](alamprogramm-subprogram.md) \(_subprogram_\), harilikult formaalparameetritega \(_formal parameters_\), mis tekitab [andmeväärtuse](andmevaeaertus-data-value.md) \(_data value_\), mille ta tagastab \(_return_\) väljakutsekohta \(_place of the invocation_\).
+[alamprogramm](alamprogramm-subprogram.md) \(_subprogram_\), harilikult formaalparameetritega \(_formal parameters_\), mis tekitab [andmeväärtuse](andmevaeaertus-data-value.md) \(_data value_\), mille ta [tagastab](tagastama-to-return.md) \(_return_\) väljakutsekohta \(_place of the invocation_\).
 {% endhint %}
 {% endtab %}
 {% endtabs %}
