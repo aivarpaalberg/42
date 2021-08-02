@@ -3,7 +3,7 @@
 ## Käsk \(command\)
 
 {% hint style="info" %}
-tagasta numbri absoluutväärtus
+[tagasta](../../terminid/sonastik/tagastama-to-return.md) numbri absoluutväärtus
 {% endhint %}
 
 ## Kasutamine
