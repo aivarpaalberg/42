@@ -10,7 +10,7 @@ mingi [rakendusprobleemi](rakendusprobleem-application-problem.md) \(_applicatio
 
 **Sünonüümid**: rakendusprogramm \(_application program_\)
 
-**Näide**: tabeliprogramm \(_spreadsheet program_\)
+**Näide**: [tabeliprogramm](tabeliprogramm-spreadsheet-program.md) \(_spreadsheet program_\)
 {% endtab %}
 {% endtabs %}
 

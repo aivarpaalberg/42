@@ -260,6 +260,7 @@
   * [sõnastiku vaade \(dictionary view\)](terminid/sonastik/sonastiku-vaade-dictionary-view.md)
   * [sõne \(string\)](terminid/sonastik/sone-string.md)
   * [sümbol \(symbol\)](terminid/sonastik/suembol-symbol.md)
+  * [tabeliprogramm \(spreadsheet program\)](terminid/sonastik/tabeliprogramm-spreadsheet-program.md)
   * [tagasijooks \(carriage return\)](terminid/sonastik/tagasijooks-carriage-return.md)
   * [tagasivõtt \(undo\)](terminid/sonastik/tagasivott-undo.md)
   * [tagastama \(to return\)](terminid/sonastik/tagastama-to-return.md)
