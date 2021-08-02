@@ -7,7 +7,7 @@ Pythoni ja informaatika kontekstis on funktsioon \(_function_\) defineeritud pis
 {% tabs %}
 {% tab title="Python" %}
 {% hint style="info" %}
-seeria [lauseid](lause-statement.md) \(statements\) mis tagastavad väljakutsujale mingi väärtuse.
+seeria [lauseid](lause-statement.md) \(statements\) mis [tagastavad](tagastama-to-return.md) \(_return_\) väljakutsujale mingi väärtuse.
 {% endhint %}
 
 Funktsioonile saab edastada \(_pass_\) null või rohkem [argumenti](argument.md) \(_argument_\) mida võidakse kasutada [täitmisel](taeitmine-execution.md) \(_execution_\).
