@@ -2,11 +2,15 @@
 
 ## Tähendus
 
+{% tabs %}
+{% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
 [lekseem](lekseem-lexical-token.md) \(_lexical token_\), mis annab nime mingile [keeletarindile](keeletarind-language-construct.md) \(_language construct_\).
 {% endhint %}
 
-Näiteks muutujate, massiivide, kirjete, märgendite, protseduuride jne nimed.  Identifikaator koosneb harilikult tähest, millele võivad järgneda tähed, numbrid või muud märgid.
+Näiteks [muutujate](muutuja-variable.md) \(_variables_\), massiivide \(_arrays_\), kirjete \(_records_\), märgendite \(_labels_\), [protseduuride](protseduur-procedure.md) \(_procedures_\) jne nimed.  Identifikaator koosneb harilikult [tähest](taeht-letter.md) \(_letter_\), millele võivad järgneda tähed, [numbrid](number-digit.md) \(_digits_\) või muud [märgid](maerk-character.md) \(_characters_\).
+{% endtab %}
+{% endtabs %}
 
 ## Viited
 
