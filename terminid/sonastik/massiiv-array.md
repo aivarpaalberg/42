@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-agregaat \(_aggregate_\), mis on massiivitüübi \(_array type_\) [eksemplar](eksemplar-instance.md) \(_instance_\) ning mille igale elemendile või sobivale elemendirühmale saab viidata \(_referenced_\) suvaliselt \(_randomly_\) ja teistest sõltumatult \(_independently_\).
+[agregaat](agregaat-aggregate.md) \(_aggregate_\), mis on massiivitüübi \(_array type_\) [eksemplar](eksemplar-instance.md) \(_instance_\) ning mille igale elemendile või sobivale elemendirühmale saab viidata \(_referenced_\) suvaliselt \(_randomly_\) ja teistest sõltumatult \(_independently_\).
 {% endhint %}
 {% endtab %}
 {% endtabs %}
