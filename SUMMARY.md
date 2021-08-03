@@ -134,6 +134,7 @@
   * [fail \(file\)](terminid/sonastik/fail-file.md)
   * [funktsionaalüksus \(functional unit\)](terminid/sonastik/funktsionaalueksus-functional-unit.md)
   * [funktsioon \(function\)](terminid/sonastik/funktsioon-function.md)
+  * [funktsioonikutse \(function call\)](terminid/sonastik/funktsioonikutse-function-call.md)
   * [generaator \(generator\)](terminid/sonastik/generaator-generator.md)
   * [generaator avaldis \(generator expression\)](terminid/sonastik/generaator-avaldis-generator-expression.md)
   * [generaator iteraator \(generator iterator\)](terminid/sonastik/generaator-iteraator-generator-iterator.md)
