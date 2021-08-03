@@ -41,7 +41,7 @@ Parameters can specify both optional and required arguments, as well as default 
 
 ## Viited
 
-Pythoni ametlik dokumentatsioon \(inlgise keeles\):
+Pythoni ametlik dokumentatsioon \(inglise keeles\):
 
 * Documentation &gt; Glossary &gt; [parameter](https://docs.python.org/3/glossary.html#term-parameter)
 
