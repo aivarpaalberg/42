@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-lihtlause \(_simple statement_\), mis annab protseduurile \(_procedure_\) tegelikud parameetrid \(_actual parameters_\) ja algatab ta [täitmise](taeitmine-execution.md) \(_execution_\).
+[lihtlause](lihtlause-simple-statement.md) \(_simple statement_\), mis annab protseduurile \(_procedure_\) tegelikud parameetrid \(_actual parameters_\) ja algatab ta [täitmise](taeitmine-execution.md) \(_execution_\).
 {% endhint %}
 
 **Sünonüümid**: protseduurikutse lause \(_procedure call_\)
