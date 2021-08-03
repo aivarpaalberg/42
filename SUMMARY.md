@@ -103,6 +103,7 @@
   * [aadress \(address\)](terminid/sonastik/aadress-address.md)
   * [aatom \(atom\)](terminid/sonastik/aatom-atom.md)
   * [alamprogramm \(subprogram\)](terminid/sonastik/alamprogramm-subprogram.md)
+  * [alamprogrammi kutse \(subprogramm call\)](terminid/sonastik/alamprogrammi-kutse-subprogramm-call.md)
   * [alfabeet \(alphabet\)](terminid/sonastik/alfabeet-alphabet.md)
   * [alusjoon \(baseline\)](terminid/sonastik/alusjoon-baseline.md)
   * [andmed \(data\)](terminid/sonastik/andmed-data.md)
