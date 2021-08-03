@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-Protsess, milles alamprogramm sisaldab alamprogrammi kutse iseendale või kutsub teist alamprogrammi, mis kutsub algset alamprogrammi või mis algatab edasise alamprogrammikutsete ahela, mis lõpuks viib kutseni algsele alamprogrammile.
+protsess, milles [alamprogramm](alamprogramm-subprogram.md) \(_subprogram_\) sisaldab [alamprogrammi kutse](alamprogrammi-kutse-subprogramm-call.md) \(_subprogram call_\) iseendale või kutsub teist alamprogrammi, mis kutsub algset alamprogrammi või mis algatab edasise alamprogrammikutsete ahela, mis lõpuks viib kutseni algsele alamprogrammile.
 {% endhint %}
 
 ## Viited
