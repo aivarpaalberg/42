@@ -234,6 +234,7 @@
   * [pilt \(display image\)](terminid/sonastik/pilt-display-image.md)
   * [programm \(program\)](terminid/sonastik/programm-program.md)
   * [programmeerimiskeel \(programming language\)](terminid/sonastik/programmeerimiskeel-programming-language.md)
+  * [protseduur \(procedure\)](terminid/sonastik/protseduur-procedure.md)
   * [protseduurikutse \(procedure call statement\)](terminid/sonastik/protseduurikutse-procedure-call-statement.md)
   * [protsess \(process\)](terminid/sonastik/protsess-process.md)
   * [Pythoni Zen \(Zen of Python\)](terminid/sonastik/pythoni-zen-zen-of-python.md)
