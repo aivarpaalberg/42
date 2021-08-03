@@ -14,3 +14,7 @@ Liittüübi \(_composite type_\) [tehted](tehe-operation.md) \(_operations_\) v�
 {% endtab %}
 {% endtabs %}
 
+## Viited
+
+
+
