@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-liitlause \(_compound statement_\), mis sisaldab hõlmatud [lausete](lause-statement.md) \(_statements_\) korduvat [täitmist](taeitmine-execution.md) \(_execution_\) juhtiva mehhanismi.
+[liitlause](liitlause-compound-statement.md) \(_compound statement_\), mis sisaldab hõlmatud [lausete](lause-statement.md) \(_statements_\) korduvat [täitmist](taeitmine-execution.md) \(_execution_\) juhtiva mehhanismi.
 {% endhint %}
 
 **Sünonüümid:** silmuselause \(_loop statement_\)
