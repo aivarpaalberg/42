@@ -8,7 +8,7 @@
 [keeletarind](keeletarind-language-construct.md) \(_language construct_\), mis kutsub välja [alamprogrammi](alamprogramm-subprogram.md) \(_subprogram_\).
 {% endhint %}
 
-**Näited**: protseduurikutse \(_procedure call statement_\), funktsioonikutse \(_function call_\) 
+**Näited**: [protseduurikutse](protseduurikutse-procedure-call-statement.md) \(_procedure call statement_\), [funktsioonikutse](funktsioonikutse-function-call.md) \(_function call_\) 
 {% endtab %}
 {% endtabs %}
 
