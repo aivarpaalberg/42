@@ -199,6 +199,7 @@
   * [loend \(list\)](terminid/sonastik/loend-list.md)
   * [loendi hõlmamine \(list comprehension\)](terminid/sonastik/loendi-holmamine-list-comprehension.md)
   * [loomulik keel \(natural language\)](terminid/sonastik/loomulik-keel-natural-language.md)
+  * [massiiv \(array\)](terminid/sonastik/massiiv-array.md)
   * [meetod \(method\)](terminid/sonastik/meetod-method.md)
   * [mestima \(to merge\)](terminid/sonastik/mestima-to-merge.md)
   * [moodul \(module\)](terminid/sonastik/moodul-module.md)
