@@ -118,6 +118,7 @@
   * [aritmeetikatehe \(arithmetic operation\)](terminid/sonastik/aritmeetikatehe-arithmetic-operation.md)
   * [arvusüsteem \(numeration system\)](terminid/sonastik/arvusuesteem-numeration-system.md)
   * [arvuti \(computer\)](terminid/sonastik/arvuti-computer.md)
+  * [asendus \(replace\)](terminid/sonastik/asendus-replace.md)
   * [atribuut \(attribute\)](terminid/sonastik/atribuut-attribute.md)
   * [avaldis \(expression\)](terminid/sonastik/avaldis-expression.md)
   * [Boole'i tehe \(boolean operation\)](terminid/sonastik/boolei-tehe.md)
