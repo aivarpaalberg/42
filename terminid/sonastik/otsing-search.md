@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-funktsioon \(_function_\) või režiim \(_mode_\), mis võimaldab kasutajal [tekstis](tekst-text.md) \(_text_\) lokaliseerida \(_locate_\) näiteks teatud [märgistringide](maergistring-character-string.md) \(_character string_\), manuskäskude \(_embedded commands_\) või teatava [atribuudiga](atribuut-attribute.md) \(_atribute_\) [märkide](maerk-character.md) \(_character_\) esinemisjuhte.
+funktsioon \(_function_\) või režiim \(_mode_\), mis võimaldab kasutajal [tekstis](tekst-text.md) \(_text_\) lokaliseerida \(_locate_\) näiteks teatud [märgistringide](maergistring-character-string.md) \(_character string_\), [manuskäskude](manuskaesk-embedded-command.md) \(_embedded commands_\) või teatava [atribuudiga](atribuut-attribute.md) \(_atribute_\) [märkide](maerk-character.md) \(_character_\) esinemisjuhte.
 {% endhint %}
 
 **Sünonüüm**: _find_
