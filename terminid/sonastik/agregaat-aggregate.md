@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-struktureeritud \(_structured_\) komponendikogum \(_collection of components_\), mille komponentidel võib olla ühesugune või erinev [andmestruktuur](andmestruktuur-data-structure.md) \(_data structure_\), kogumi \(_collection_\) enda andmestruktuur võib aga olla vastava liittüübi \(_composite type_\) koostisosa \(_constituent part_\).
+struktureeritud \(_structured_\) komponendikogum \(_collection of components_\), mille komponentidel võib olla ühesugune või erinev [andmestruktuur](andmestruktuur-data-structure.md) \(_data structure_\), kogumi \(_collection_\) enda andmestruktuur võib aga olla vastava [liittüübi](liittueuep-composite-type.md) \(_composite type_\) koostisosa \(_constituent part_\).
 {% endhint %}
 {% endtab %}
 {% endtabs %}
