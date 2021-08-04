@@ -203,6 +203,7 @@
   * [loend \(list\)](terminid/sonastik/loend-list.md)
   * [loendi hõlmamine \(list comprehension\)](terminid/sonastik/loendi-holmamine-list-comprehension.md)
   * [loomulik keel \(natural language\)](terminid/sonastik/loomulik-keel-natural-language.md)
+  * [manuskäsk \(embedded command\)](terminid/sonastik/manuskaesk-embedded-command.md)
   * [massiiv \(array\)](terminid/sonastik/massiiv-array.md)
   * [massiivtüüp \(array type\)](terminid/sonastik/massiivtueuep-array-type.md)
   * [meetod \(method\)](terminid/sonastik/meetod-method.md)
