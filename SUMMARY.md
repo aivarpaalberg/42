@@ -231,6 +231,7 @@
   * [operatsioonisüsteem \(operating system\)](terminid/sonastik/operatsioonisuesteem-operating-system.md)
   * [osuti \(pointer\)](terminid/sonastik/osuti-pointer.md)
   * [osutusseadis \(pointing device\)](terminid/sonastik/osutusseadis-pointing-device.md)
+  * [otsing \(search\)](terminid/sonastik/otsing-search.md)
   * [otsivõti \(search key\)](terminid/sonastik/otsivoti-search-key.md)
   * [paiskadresseerimine \(hashing\)](terminid/sonastik/paiskadresseerimine-hashing.md)
   * [paiskefunktsioon \(hash function\)](terminid/sonastik/paiskefunktsioon-hash-function.md)
