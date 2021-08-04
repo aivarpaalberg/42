@@ -196,6 +196,7 @@
   * [lihtlause \(simple statement\)](terminid/sonastik/lihtlause-simple-statement.md)
   * [liigendama \(to parse\)](terminid/sonastik/liigendama-to-parse.md)
   * [liitlause \(compound statement\)](terminid/sonastik/liitlause-compound-statement.md)
+  * [liitmine \(append\)](terminid/sonastik/liitmine-append.md)
   * [liittüüp \(composite type\)](terminid/sonastik/liittueuep-composite-type.md)
   * [lisamine \(insert\)](terminid/sonastik/lisamine-insert.md)
   * [literaal \(literal\)](terminid/sonastik/literaal-literal.md)

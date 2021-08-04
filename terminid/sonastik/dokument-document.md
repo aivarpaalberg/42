@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-nimega \(_named_\), struktureeritud [teksti ](tekst-text.md)\(_text_\) üksus, mis võib sisaldada pilte ning mida saab eraldi üksusena [salvestada](salvestama-to-store.md) \(_store_\), redigeerida \(_edit_\), otsida \(_retrieve_\) ja süsteemide või kasutajate vahel vahetada.
+nimega \(_named_\), struktureeritud [teksti ](tekst-text.md)\(_text_\) üksus, mis võib sisaldada pilte ning mida saab eraldi üksusena [salvestada](salvestama-to-store.md) \(_store_\), [redigeerida](redigeerimine-editing.md) \(_edit_\), otsida \(_retrieve_\) ja süsteemide või kasutajate vahel vahetada.
 {% endhint %}
 
 ## Viited
