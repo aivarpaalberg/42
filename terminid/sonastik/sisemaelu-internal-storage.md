@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-[mäluseade](maeluseade-storage-device.md) \(_storage_\), millele protsessoril \(_processor_\) on juurdepääs ilma sisend-väljundkanaliteta \(_input-output channels_\).
+[mäluseade](maeluseade-storage-device.md) \(_storage_\), millele protsessoril \(_processor_\) on juurdepääs ilma [sisend-väljundkanaliteta](sisend-vaeljundkanal-input-output-channel.md) \(_input-output channels_\).
 {% endhint %}
 
 **Sünonüümid**: sisesalvesti \(_internal memory_\)
