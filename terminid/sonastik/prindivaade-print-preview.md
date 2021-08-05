@@ -10,7 +10,7 @@
 
 **Sünonüüm**: prindikuva
 
-Prindivaate \(_print preview_\) funktsiooni peab kutsuma kasutaja, adekvaatesitus \(WYSIWYG seevastu näitab [teksti](tekst-text.md) \(_text_\) pidevalt sellisena, nagu see prinditakse.
+Prindivaate \(_print preview_\) funktsiooni peab kutsuma kasutaja, [adekvaatesitus](adekvaatesitus-wysiwyg.md) \(WYSIWYG seevastu näitab [teksti](tekst-text.md) \(_text_\) pidevalt sellisena, nagu see prinditakse.
 {% endtab %}
 {% endtabs %}
 

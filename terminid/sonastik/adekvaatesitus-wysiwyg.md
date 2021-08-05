@@ -9,6 +9,8 @@
 {% endhint %}
 
 **Sünonüümid**: adekvaatkuva, WYSIWYG-esitus, WYSIWYG \(_what-you-see-is-what-you-get_\)
+
+Adekvaatesitus \(_WYSIWYG_\) on pidev, [prindivaade](prindivaade-print-preview.md) \(_print preview_\) seevastu on funktsioon, mille peab kutsuma kasutaja.
 {% endtab %}
 {% endtabs %}
 
