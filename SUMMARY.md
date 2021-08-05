@@ -265,6 +265,7 @@
   * [silmuse parameeter \(loop-control variable\)](terminid/sonastik/silmuse-parameeter-loop-control-variable.md)
   * [silmuse tingimus \(loop assertion\)](terminid/sonastik/silmuse-tingimus-loop-assertion.md)
   * [siluma \(to debug\)](terminid/sonastik/siluma-to-debug.md)
+  * [sisemälu \(internal storage\)](terminid/sonastik/sisemaelu-internal-storage.md)
   * [sisetestiga silmus \(in-test loop\)](terminid/sonastik/sisetestiga-silmus-in-test-loop.md)
   * [sortima \(to sort\)](terminid/sonastik/sortima-to-sort.md)
   * [spetsifikatsioon \(specification\)](terminid/sonastik/spetsifikatsioon-specification.md)
