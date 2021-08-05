@@ -240,6 +240,7 @@
   * [plokk \(block\)](terminid/sonastik/plokk-block.md)
   * [parameeter \(parameter\)](terminid/sonastik/parameeter-parameter.md)
   * [pilt \(display image\)](terminid/sonastik/pilt-display-image.md)
+  * [prindivaade \(print preview\)](terminid/sonastik/prindivaade-print-preview.md)
   * [programm \(program\)](terminid/sonastik/programm-program.md)
   * [programmeerimiskeel \(programming language\)](terminid/sonastik/programmeerimiskeel-programming-language.md)
   * [protseduur \(procedure\)](terminid/sonastik/protseduur-procedure.md)
