@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-etteantud otstarbe \(_specified purpose_\) täitmiseks võimeline riistvara- \(_hardware_\), tarkvara- \(_software_\) või nende ühismoodustis.
+etteantud otstarbe \(_specified purpose_\) täitmiseks võimeline [riistvara](riistvara-hardware.md)- \(_hardware_\), [tarkvara](tarkvara-software.md)- \(_software_\) või nende ühismoodustis.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
