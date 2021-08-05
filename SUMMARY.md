@@ -102,6 +102,7 @@
 * [Sõnastik](terminid/sonastik/README.md)
   * [aadress \(address\)](terminid/sonastik/aadress-address.md)
   * [aatom \(atom\)](terminid/sonastik/aatom-atom.md)
+  * [adekvaatesitus \(WYSIWYG\)](terminid/sonastik/adekvaatesitus-wysiwyg.md)
   * [agregaat \(aggregate\)](terminid/sonastik/agregaat-aggregate.md)
   * [alamprogramm \(subprogram\)](terminid/sonastik/alamprogramm-subprogram.md)
   * [alamprogrammi kutse \(subprogramm call\)](terminid/sonastik/alamprogrammi-kutse-subprogramm-call.md)
