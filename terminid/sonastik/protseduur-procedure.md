@@ -13,6 +13,8 @@
 Cobolis on protseduur lõik \(_paragraph_\) või loogiliselt järjestikku lõigurühm või sektsioon \(mis koosneb nullist või enamast lõigust\) protseduurijaotises \(_procedure division_\).
 
  Mõnedes [programmikeeltes](programmeerimiskeel-programming-language.md) \(C ja C++\) ei eristata protseduuri \(_procedure_\) [keeletarindit](keeletarind-language-construct.md) \(_language construct_\) [funktsiooni](funktsioon-function.md) \(_function_\) keeletarindist, välja arvatud selles, et [tagastatavad](tagastama-to-return.md) \(_returned_\) [andmeväärtused](andmevaeaertus-data-value.md) \(_data values_\) võivad olla tühjad \(_void_\) või neid ei kasutata \(_not used_\).
+
+Kvaliteedijuhtimise kontekstis \(ISO9000\) tähendab protseduur spetsifitseeritud viisi tegevuse või protsessi sooritamiseks
 {% endtab %}
 {% endtabs %}
 
