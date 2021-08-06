@@ -8,7 +8,7 @@
 arv \(_number_\), mille liitmine suvalisele teisele arvule või lahutamine sellest arvust ei muuda seda teist arvu.
 {% endhint %}
 
-**Märkus**: n ulli esitus võib eri arvutites erineda, olles näiteks positiivse või negatiivse märgiga null \(mis võib tekkida märgiga arvu lahutamisel iseendast\) või ujukomanull \(sel juhul on püsikomaosa null, eksponent aga võib ujukomaesituses varieeruda\).
+**Märkus**: nulli esitus võib eri arvutites erineda, olles näiteks positiivse või negatiivse märgiga null \(mis võib tekkida märgiga arvu lahutamisel iseendast\) või ujukomanull \(sel juhul on püsikomaosa null, eksponent aga võib ujukomaesituses varieeruda\).
 {% endtab %}
 {% endtabs %}
 

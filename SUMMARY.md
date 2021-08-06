@@ -299,6 +299,7 @@
   * [tekstitöötlus \(text processing\)](terminid/sonastik/tekstitoeoetlus-text-processing.md)
   * [tulem \(result\)](terminid/sonastik/tulem-result.md)
   * [täht \(letter\)](terminid/sonastik/taeht-letter.md)
+  * [täisarv \(integer\)](terminid/sonastik/taeisarv-integer.md)
   * [täitmine \(execution\)](terminid/sonastik/taeitmine-execution.md)
   * [täitmisjada \(execution sequence\)](terminid/sonastik/taeitmisjada-execution-sequence.md)
   * [tärkandmed \(alphanumeric data\)](terminid/sonastik/taerkandmed-alphanumeric-data.md)
