@@ -258,6 +258,7 @@
   * [rakendustarkvara \(application software\)](terminid/sonastik/rakendustarkvara-application-software.md)
   * [reasamm \(line space\)](terminid/sonastik/reasamm-line-space.md)
   * [redigeerimine \(editing\)](terminid/sonastik/redigeerimine-editing.md)
+  * [register \(register\)](terminid/sonastik/register-register.md)
   * [rekursioon \(recursion\)](terminid/sonastik/rekursioon-recursion.md)
   * [reserveeritud sõna \(reserved word\)](terminid/sonastik/reserveeritud-sona-reserved-word.md)
   * [rida \(line\)](terminid/sonastik/rida-line.md)
