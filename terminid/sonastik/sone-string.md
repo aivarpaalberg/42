@@ -8,7 +8,7 @@
 tervikuna käsitletav samalaadsete elementide, näiteks [märkide](maerk-character.md) \(_character_\), järjend \(_sequence_\).
 {% endhint %}
 
-**Sünonüüm**: sõne sünonüüm eesti keeles on string.
+**Sünonüüm**: string
 {% endtab %}
 {% endtabs %}
 
