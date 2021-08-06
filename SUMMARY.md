@@ -216,6 +216,7 @@
   * [muutuja \(variable\)](terminid/sonastik/muutuja-variable.md)
   * [muutumatu \(immutable\)](terminid/sonastik/muutumatu-immutable.md)
   * [mõiste \(concept\)](terminid/sonastik/moiste-concept.md)
+  * [mälu maht \(storage capacity\)](terminid/sonastik/maelu-maht-storage-capacity.md)
   * [mälupesa \(storage location\)](terminid/sonastik/maelupesa-storage-location.md)
   * [mäluseade \(storage device\)](terminid/sonastik/maeluseade-storage-device.md)
   * [märgistik \(character set\)](terminid/sonastik/maergistik-character-set.md)
