@@ -10,3 +10,9 @@ elemendi asukohta \(_position_\) [jadas](jada-sequence.md) \(_sequence_\)  märk
 {% endtab %}
 {% endtabs %}
 
+## Viited
+
+[EVS-ISO 2382-2:1999](https://www.evs.ee/et/evs-iso-2382-2-1999), Infotehnoloogia. Sõnastik. Osa 2: Aritmeetika- ja loogikatehted
+
+* järjenumber \(_serial number_\)
+
