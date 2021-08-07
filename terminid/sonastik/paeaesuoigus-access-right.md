@@ -12,3 +12,9 @@ subjektile \(_subject_\) antav luba juurdepääsuks \(_access_\) teatavale [obje
 {% endtab %}
 {% endtabs %}
 
+## Viited
+
+[EVS-ISO/IEC 2382-8:1999](https://www.evs.ee/et/evs-iso-iec-2382-8-1999), Infotehnoloogia. Sõnastik. Osa 8: Turvalisus
+
+* [pääsuõigus \(_access right_\)](https://www.eki.ee/dict/its/index.cgi?Q=access+rights&F=M&C06=et&C01=1&C10=1)
+
