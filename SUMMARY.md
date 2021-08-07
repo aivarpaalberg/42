@@ -254,6 +254,7 @@
   * [protsess \(process\)](terminid/sonastik/protsess-process.md)
   * [protsessor \(processor\)](terminid/sonastik/protsessor-processor.md)
   * [põhimälu \(main storage\)](terminid/sonastik/pohimaelu-main-storage.md)
+  * [pääsuõigus \(access right\)](terminid/sonastik/paeaesuoigus-access-right.md)
   * [Pythoni Zen \(Zen of Python\)](terminid/sonastik/pythoni-zen-zen-of-python.md)
   * [rakendusprobleem \(application problem\)](terminid/sonastik/rakendusprobleem-application-problem.md)
   * [rakendustarkvara \(application software\)](terminid/sonastik/rakendustarkvara-application-software.md)
