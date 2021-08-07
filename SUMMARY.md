@@ -173,6 +173,7 @@
   * [keeletarind \(language construct\)](terminid/sonastik/keeletarind-language-construct.md)
   * [kehtivuspiirkond \(scope\)](terminid/sonastik/kehtivuspiirkond-scope.md)
   * [kirjamärk \(graphic character\)](terminid/sonastik/kirjamaerk-graphic-character.md)
+  * [kirjutama \(to write\)](terminid/sonastik/kirjutama-to-write.md)
   * [klass \(class\)](terminid/sonastik/klass-class.md)
   * [klassi muutuja \(class variable\)](terminid/sonastik/klassi-muutuja-class-variable.md)
   * [klõpsama \(click\)](terminid/sonastik/klopsama-click.md)
