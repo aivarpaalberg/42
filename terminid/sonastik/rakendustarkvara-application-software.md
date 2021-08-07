@@ -2,6 +2,8 @@
 
 ## Tähendus
 
+ Rakendustarkvara \(_application software_\) tähenduses kasutatakse tavaliselt lühemat rakendus \(_application_\). Inglise keeles kasutatakse _apps_ mille eestikeelseks vasteks võiks olla `raksid` 
+
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
