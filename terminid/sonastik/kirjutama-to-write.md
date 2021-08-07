@@ -8,9 +8,9 @@
 registreerima \(_recording_\) [andmeid](andmed-data.md) \(_data_\) püsivalt \(_permanent_\) või ajutiselt \(_transient_\) [mäluseadmes](maeluseade-storage-device.md) \(_storage device_\) või andmekandjal \(_data medium_\).
 {% endhint %}
 
-Väljendid "lugema \(kusagile\)"  ja "lugema \(kusagilt\)" erinevad väljenditest "kirjutama \(kusagile\)" ja "kirjutama \(kusagilt\)" ainult kirjelduse vaatepunktist. 
+Väljendid "[lugema](lugema-to-read.md) \(kusagile\)"  ja "[lugema](lugema-to-read.md) \(kusagilt\)" erinevad väljenditest "kirjutama \(kusagile\)" ja "kirjutama \(kusagilt\)" ainult kirjelduse vaatepunktist. 
 
-Näiteks võib andme [ploki](plokk-block.md) \(_block_\) teisaldust \(_transfer_\) [sisemälust ](sisemaelu-internal-storage.md)\(_internal storage_\) välismällu \(_external storage_\) nimetada niihästi "kirjutuseks välismällu" kui ka "lugemiseks sisemälust".
+Näiteks võib andme [ploki](plokk-block.md) \(_block_\) teisaldust \(_transfer_\) [sisemälust ](sisemaelu-internal-storage.md)\(_internal storage_\) välismällu \(_external storage_\) nimetada niihästi "kirjutuseks välismällu" kui ka "[lugemiseks](lugema-to-read.md) sisemälust".
 {% endtab %}
 {% endtabs %}
 
