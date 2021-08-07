@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-registreerima \(_recording_\) [andmeid](andmed-data.md) \(_data_\) püsivalt \(_permanent_\) või ajutiselt \(_transient_\) [mäluseadmes](maeluseade-storage-device.md) \(_storage device_\) või andmekandjal \(_data medium_\).
+registreerima \(_recording_\) [andmeid](andmed-data.md) \(_data_\) püsivalt \(_permanent_\) või ajutiselt \(_transient_\) [mäluseadmes](maeluseade-storage-device.md) \(_storage device_\) või [andmekandjal](andmekandja-data-medium.md) \(_data medium_\).
 {% endhint %}
 
 Väljendid "[lugema](lugema-to-read.md) \(kusagile\)"  ja "[lugema](lugema-to-read.md) \(kusagilt\)" erinevad väljenditest "kirjutama \(kusagile\)" ja "kirjutama \(kusagilt\)" ainult kirjelduse vaatepunktist. 
