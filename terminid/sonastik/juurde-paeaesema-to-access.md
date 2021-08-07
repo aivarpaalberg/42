@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-ressursi \(_resource_\) kasutamist saavutama \(_obtain_\).
+[ressursi](ressurss-resource.md) \(_resource_\) kasutamist saavutama \(_obtain_\).
 {% endhint %}
 
 **Sünonüüm**: pöörduma \(valik põhimõiste ja sünonüümi vahel tehakse sõltuvalt kontekstist\)
