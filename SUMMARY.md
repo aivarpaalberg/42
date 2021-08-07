@@ -163,6 +163,7 @@
   * [juhtimisvoog \(control flow\)](terminid/sonastik/juhtimisvoog-control-flow.md)
   * [juhtmärk \(control character\)](terminid/sonastik/juhtmaerk-control-character.md)
   * [jutumärgid \(quotes\)](terminid/sonastik/jutumaergid.md)
+  * [juurde pääsema \(to access\)](terminid/sonastik/juurde-paeaesema-to-access.md)
   * [järjenumber \(serial number\)](terminid/sonastik/jaerjenumber-serial-number.md)
   * [järjestama \(to order\)](terminid/sonastik/jaerjestama-to-order.md)
   * [järjestus \(order\)](terminid/sonastik/jaerjestus-order.md)
