@@ -166,6 +166,7 @@
   * [järjenumber \(serial number\)](terminid/sonastik/jaerjenumber-serial-number.md)
   * [järjestama \(to order\)](terminid/sonastik/jaerjestama-to-order.md)
   * [järjestus \(order\)](terminid/sonastik/jaerjestus-order.md)
+  * [kasutaja \(user\)](terminid/sonastik/kasutaja-user.md)
   * [kaust \(folder\)](terminid/sonastik/kaust-folder.md)
   * [keel \(language\)](terminid/sonastik/keel-language.md)
   * [keeletarind \(language construct\)](terminid/sonastik/keeletarind-language-construct.md)
