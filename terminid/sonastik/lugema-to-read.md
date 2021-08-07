@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-võtma \(_to obtain_\) [andmeid](andmed-data.md) \(_data_\) [mäluseadmest](maeluseade-storage-device.md) \(_storage device_\),  andmekandjalt \(_data medium_\) või muust allikast \(_source_\)
+võtma \(_to obtain_\) [andmeid](andmed-data.md) \(_data_\) [mäluseadmest](maeluseade-storage-device.md) \(_storage device_\),  [andmekandjalt](andmekandja-data-medium.md) \(_data medium_\) või muust allikast \(_source_\)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
