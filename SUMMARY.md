@@ -264,6 +264,7 @@
   * [register \(register\)](terminid/sonastik/register-register.md)
   * [rekursioon \(recursion\)](terminid/sonastik/rekursioon-recursion.md)
   * [reserveeritud sõna \(reserved word\)](terminid/sonastik/reserveeritud-sona-reserved-word.md)
+  * [ressurss \(resource\)](terminid/sonastik/ressurss-resource.md)
   * [rida \(line\)](terminid/sonastik/rida-line.md)
   * [riistvara \(hardware\)](terminid/sonastik/riistvara-hardware.md)
   * [salvestama \(to store\)](terminid/sonastik/salvestama-to-store.md)
