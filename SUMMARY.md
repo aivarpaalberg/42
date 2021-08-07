@@ -279,6 +279,7 @@
   * [sisetestiga silmus \(in-test loop\)](terminid/sonastik/sisetestiga-silmus-in-test-loop.md)
   * [sortima \(to sort\)](terminid/sonastik/sortima-to-sort.md)
   * [spetsifikatsioon \(specification\)](terminid/sonastik/spetsifikatsioon-specification.md)
+  * [subjekt \(subject\)](terminid/sonastik/subjekt-subject.md)
   * [sõna \(word\)](terminid/sonastik/sona-word.md)
   * [sõnastik \(dictionary\)](terminid/sonastik/sonastik-dictionary.md)
   * [sõnastiku hõlmamine \(dictionary comprehension\)](terminid/sonastik/sonastiku-holmamine-dictionary-comprehension.md)
