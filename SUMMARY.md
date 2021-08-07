@@ -109,6 +109,7 @@
   * [alfabeet \(alphabet\)](terminid/sonastik/alfabeet-alphabet.md)
   * [alusjoon \(baseline\)](terminid/sonastik/alusjoon-baseline.md)
   * [andmed \(data\)](terminid/sonastik/andmed-data.md)
+  * [andmekandja \(data medium\)](terminid/sonastik/andmekandja-data-medium.md)
   * [andmeobjekt \(data object\)](terminid/sonastik/andmeobjekt-data-object.md)
   * [andmestruktuur \(data structure\)](terminid/sonastik/andmestruktuur-data-structure.md)
   * [andmetöötlus \(data processing\)](terminid/sonastik/andmetoeoetlus-data-processing.md)
