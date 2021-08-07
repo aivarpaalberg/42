@@ -10,7 +10,7 @@
 
 **Sünonüüm\(id\):** arvutiressurss, _computer resource_
 
-**Näited**: [salvestid](maeluseade-storage-device.md) \(_storage devices_\), sisend-väljundseadmed \(_input-output units_\), üks või mitu töötlusseadet \(_processing unit_\), [andmed](andmed-data.md) \(_data_\), [failid](fail-file.md) \(_files_\) ja [programmid](programm-program.md) \(_programs_\).
+**Näited**: [salvestid](maeluseade-storage-device.md) \(_storage devices_\), [sisend-väljundseadmed](sisend-vaeljundseade-input-output-device.md) \(_input-output units_\), üks või mitu töötlusseadet \(_processing unit_\), [andmed](andmed-data.md) \(_data_\), [failid](fail-file.md) \(_files_\) ja [programmid](programm-program.md) \(_programs_\).
 {% endtab %}
 {% endtabs %}
 
