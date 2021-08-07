@@ -320,5 +320,6 @@
   * [viip \(prompt\)](terminid/sonastik/viip-prompt.md)
   * [vormindus \(formatting\)](terminid/sonastik/vormindus-formatting.md)
   * [võtme funktsioon \(key function\)](terminid/sonastik/votme-funktsioon-key-function.md)
+  * [välismälu \(external storage\)](terminid/sonastik/vaelismaelu-external-storage.md)
   * [välisseadmed \(peripheral equipment\)](terminid/sonastik/vaelisseadmed-peripheral-equipment.md)
 
