@@ -5,7 +5,9 @@ Kui [programm](../terminid/sonastik/programm-program.md) (_program_) on valmis k
 * avada rakendus ning `open` dialoogi abil avada fail programmi seest
 * [klõpsata](../terminid/sonastik/klopsama-click.md) failil ning operatsioonisüsteem avab selle rakendusega, mis on seotud antud failitüübiga
 
-Pythoni programme on mõistlik käivitada terminalist / kestast (_terminal, shell_). Selleks anname arvutile käsu, et ava rakendusega Python mingi fail. Selleks avame terminali ja sisestame [viibale](../terminid/sonastik/viip-prompt.md) (_prompt_):
+Pythoni programme on mõistlik käivitada terminalist / kestast (_terminal, shell_). Miks? Üheks põhjuseks on mitmetähenduslikkuse vältimine. Kui me graafilises kasutajaliideses klõpsame failil, siis kas operatsioonisüsteem peaks avama faili redigeerimiseks või hoopis käivitama Pythoni ja sellega avama faili kui programmi?&#x20;
+
+Terminalis / kestas anname arvutile käsu, et ava rakendusega Python mingi fail. Selleks avame terminali ja sisestame [viibale](../terminid/sonastik/viip-prompt.md) (_prompt_):
 
 ```bash
 > python minu_programm.py
