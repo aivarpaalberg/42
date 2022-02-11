@@ -8,11 +8,14 @@
 * [Screenshot](macos/kuvatommiste-screenshot-tegemine.md)
 * [Vimari](macos/vimari.md)
 * [bash](macos/bash/README.md)
+  * [awk](macos/bash/awk.md)
   * [command](macos/bash/command.md)
+  * [cut](macos/bash/cut.md)
 
 ## Python
 
 * [Alustuseks](python/alustuseks.md)
+* [Abiinfo leidmine](python/abiinfo-leidmine.md)
 * [Kuidas käivitada Pythoni programme?](python/kuidas-kaeivitada-pythoni-programme.md)
 * [Sisemised funktsioonid](python/sisseehitatud-funktsioonid/README.md)
   * [abs()](python/sisseehitatud-funktsioonid/abs.md)
@@ -109,6 +112,7 @@
   * [alamprogramm (subprogram)](terminid/sonastik/alamprogramm-subprogram.md)
   * [alamprogrammi kutse (subprogramm call)](terminid/sonastik/alamprogrammi-kutse-subprogramm-call.md)
   * [alfabeet (alphabet)](terminid/sonastik/alfabeet-alphabet.md)
+  * [algoritm (algorithm)](terminid/sonastik/algoritm-algorithm.md)
   * [alusjoon (baseline)](terminid/sonastik/alusjoon-baseline.md)
   * [andmed (data)](terminid/sonastik/andmed-data.md)
   * [andmekandja (data medium)](terminid/sonastik/andmekandja-data-medium.md)
@@ -189,6 +193,7 @@
   * [kommentaar (comment)](terminid/sonastik/kommentaar-comment.md)
   * [kompileerima (to compile)](terminid/sonastik/kompileerima-to-compile.md)
   * [konteiner (container)](terminid/sonastik/konteiner-container.md)
+  * [korrastama (to order)](terminid/sonastik/korrastama-to-order.md)
   * [kursor (cursor)](terminid/sonastik/kursor-cursor.md)
   * [kustutus (delete)](terminid/sonastik/kustutus-delete.md)
   * [kutse (call)](terminid/sonastik/kutse-call.md)

@@ -18,3 +18,5 @@ Olenevalt arvuti seadistusest ja eesmärgist võib rakendus millega me programmi
 Oluline on kestaga (_shell_) olla samas [kaustas](../terminid/sonastik/kaust-folder.md) (_folder_) kus asub programmifail. Kui see tingimus ei ole täidetud, siis tuleb Pythonile öelda kus ta faili leida võib s.t. anda talle tee failini (_file path_).
 
 [Tekstiredaktorid](../terminid/sonastik/tekstiredaktor-text-editor.md) (_text editors_) pakuvad tavaliselt võimalust käivitada fail ka `Run` käsuga.&#x20;
+
+Kui programm ei anna soovitud tulemust, siis võib selle käivitada interaktiivses olekus s.t. peale programmi täitmist on võimalik vaadelda objekte ja nende väärtusi. Selleks on vaja Python välja kutsuda  `-i` argumendiga:

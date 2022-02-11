@@ -44,13 +44,13 @@ Eestikeelne versioon koos ingliskeelse originaaliga:
 
 **Nüüd on parem kui mitte kunagi** (_Now is better than never_)                                                                 &#x20;
 
-**Kuigi mitte kunagi on tihti parem kui **_**just**_** nüüd** (_Although never is often better than right now_) **       **
+**Kuigi mitte kunagi on tihti parem kui **_**just**_** nüüd** (_Although never is often better than right now_) ****      &#x20;
 
 **Kui teostust on raske selgitada on see halb idee** (_If the implementation is hard to explain, it's a bad idea_)                                                                                                                                                                     &#x20;
 
 **Kui teostust on lihtne selgitada siis võib see olla hea idee** (_If the implementation is easy to explain, it may be a good idea_)                                                                                                                                &#x20;
 
-**Nimeruumid on üks paganama hea mõte - teeme neid rohkem! **(_Namespaces are one honking great idea -- let's do more of those!_)
+**Nimeruumid on üks paganama hea mõte - teeme neid rohkem!** (_Namespaces are one honking great idea -- let's do more of those!_)
 
 ## Viited
 

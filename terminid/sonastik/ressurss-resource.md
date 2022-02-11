@@ -8,7 +8,7 @@
 [andmetöötlussüsteemi](andmetoeoetlussuesteem-data-processing-system.md) (_data processing system_) iga element, mis on vajalik nõutavate operatsioonide sooritamiseks.
 {% endhint %}
 
-**Sünonüüm(id): **arvutiressurss, _computer resource_
+**Sünonüüm(id):** arvutiressurss, _computer resource_
 
 **Näited**: [salvestid](maeluseade-storage-device.md) (_storage devices_), [sisend-väljundseadmed](sisend-vaeljundseade-input-output-device.md) (_input-output units_), üks või mitu [töötlusseadet](keskseade-processing-unit.md) (_processing unit_), [andmed](andmed-data.md) (_data_), [failid](fail-file.md) (_files_) ja [programmid](programm-program.md) (_programs_).
 {% endtab %}

@@ -8,7 +8,7 @@
 [andmeobjekt](andmeobjekt-data-object.md) (_data object_), mida kasutatakse otsustamiseks (_determine_), kas väljuda [silmusest](silmus-loop.md) (_exit from the loop_).
 {% endhint %}
 
-**Sünonüüm (inglise keeles): **loop parameter
+**Sünonüüm (inglise keeles):** loop parameter
 {% endtab %}
 {% endtabs %}
 

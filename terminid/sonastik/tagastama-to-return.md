@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-[naasmislause](naasmislause-return-statement.md) (_return statement_) _ _[täitmisel](taeitmine-execution.md) (_executing_)  [kutsuvale](kutse-call.md) (_calling_) [programmile](programm-program.md) (_program_) mingit [andmeväärtust](andmevaeaertus-data-value.md) (_data value_) üle andma.
+[naasmislause](naasmislause-return-statement.md) (_return statement_) __ [täitmisel](taeitmine-execution.md) (_executing_)  [kutsuvale](kutse-call.md) (_calling_) [programmile](programm-program.md) (_program_) mingit [andmeväärtust](andmevaeaertus-data-value.md) (_data value_) üle andma.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

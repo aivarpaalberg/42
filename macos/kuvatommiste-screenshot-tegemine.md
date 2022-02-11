@@ -59,7 +59,7 @@ Kuvatõmmiste tegemiseks kasutatavat rakenduse Screenshot järgenvaid omadusi sa
 * &#x20;määrata kuvatõmmiste salvestamise asukoha,&#x20;
 * määrata ajalise viivituse ekraanitõmmise tegemisel (_timer_)
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 
 
@@ -68,7 +68,7 @@ Kuvatõmmiste tegemiseks kasutatavat rakenduse Screenshot järgenvaid omadusi sa
 | Tegevus                         | Ikoon                                     |
 | ------------------------------- | ----------------------------------------- |
 | Kuvatõmmis tervest ekraanist    |  ![](<../.gitbook/assets/image (2).png>)  |
-| Kuvatõmmis ekraani teatud osast | ![](../.gitbook/assets/image.png)         |
-| Kuvatõmmis aknast/menüüst       | ![](<../.gitbook/assets/image (6).png>)   |
-| Terve ekraani kuva salvestus    | ![](<../.gitbook/assets/image (3).png>)   |
-| Osa ekraani kuva salvestus      | ![](<../.gitbook/assets/image (1).png>)   |
+| Kuvatõmmis ekraani teatud osast | ![](<../.gitbook/assets/image (4).png>)   |
+| Kuvatõmmis aknast/menüüst       | ![](<../.gitbook/assets/image (3).png>)   |
+| Terve ekraani kuva salvestus    | ![](<../.gitbook/assets/image (5).png>)   |
+| Osa ekraani kuva salvestus      | ![](<../.gitbook/assets/image (6).png>)   |

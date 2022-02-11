@@ -18,7 +18,7 @@ Kasuta `u"""Unicode sõnet kolmekordete kahe ülakomaga jutumärkide vahel"""`ku
 
 Doksõned (_docstrings_) on kahes vormis: [üherealine](dokumentatsiooni-sone-docstring.md#ueherealised-dokusoned) (_one-liners_) ja [mitmerealine](dokumentatsiooni-sone-docstring.md#mitmerealised-dokusoned) (_multi-line_).&#x20;
 
-Kõigil [moodulitel](moodul-module.md) peaks tavaliselt olema doksõne (_docstring_) ja kõik [funktsioonid](funktsioon-function.md) ning [klassid](klass-class.md) mida eksporditakse mooduliga peaksid samuti omama doksõnet. Avalikel meetoditel (_public methods_) s.h. `__init__`_  _konstruktoril peaks samuti  olema doksõne. [Pakett](pakett-package.md) (_package_) võib olla dokumenteeritud [mooduli](moodul-module.md) doksõnes (`__init__.py` fail paketi kataloogis)&#x20;
+Kõigil [moodulitel](moodul-module.md) peaks tavaliselt olema doksõne (_docstring_) ja kõik [funktsioonid](funktsioon-function.md) ning [klassid](klass-class.md) mida eksporditakse mooduliga peaksid samuti omama doksõnet. Avalikel meetoditel (_public methods_) s.h. `__init__`  __  konstruktoril peaks samuti  olema doksõne. [Pakett](pakett-package.md) (_package_) võib olla dokumenteeritud [mooduli](moodul-module.md) doksõnes (`__init__.py` fail paketi kataloogis)&#x20;
 
 Sõne [literaalid](literaal-literal.md) (_string literals_) mis esinevad mujal Pythoni koodis võivad samuti toimimida kui dokumentatsioon. Pythoni baitkoodi kompilaator (_bytecode compiler_) ei tunne neid ära ja seetõttu pole nad ligipääsetavad kui käitusaegsed objekti atribuudid (_runtime object attributes_) s.t. neid ei omistata (_assign_) `__doc__` [atribuudina](atribuut-attribute.md), kuid tarkvaraliste vahenditega (_software tools_) on võimalik eraldada täiendavalt kahte tüüpi dokusõnesid (_docstrings_):
 

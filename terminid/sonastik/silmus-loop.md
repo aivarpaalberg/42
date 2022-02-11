@@ -3,7 +3,7 @@
 ## Tähendus
 
 {% hint style="info" %}
-[lausete](lause-statement.md) (_statements_) või [käskude](kaesk-instruction.md) (_instructions_) _ _[jada](jada-sequence.md) (_sequence_)_, _mida teatud tingimuste täidetuse korral saab täita  iteratiivselt (_iteratively_).
+[lausete](lause-statement.md) (_statements_) või [käskude](kaesk-instruction.md) (_instructions_) __ [jada](jada-sequence.md) (_sequence_)_,_ mida teatud tingimuste täidetuse korral saab täita  iteratiivselt (_iteratively_).
 {% endhint %}
 
 **Märkus:** mõnedes teostustes (_implementations_) ei sooritata tingimuse täidetuse kontrolliks testi enne silmuse üht täitmist

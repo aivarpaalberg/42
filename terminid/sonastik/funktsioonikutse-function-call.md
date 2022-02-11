@@ -8,7 +8,7 @@
 [keeletarind](keeletarind-language-construct.md) (_language construct_), mis annab tegelikud parameetrid (_actual parameters_) mingi [funktsiooni](funktsioon-function.md) (_function_) [täitmise](taeitmine-execution.md) (_execution_) algatamiseks ja kutsub esile funktsiooni täitmise.
 {% endhint %}
 
-Funktsioonikutset (_function call_) saab kasutada [operandina](operand-operand.md) (_operand_) [avaldises](avaldis-expression.md) (_expression_)_ _või tegeliku parameetrina (_actual parameter_) [alamprogrammi kutses](alamprogrammi-kutse-subprogramm-call.md) (_subprogram call_).
+Funktsioonikutset (_function call_) saab kasutada [operandina](operand-operand.md) (_operand_) [avaldises](avaldis-expression.md) (_expression_) __ või tegeliku parameetrina (_actual parameter_) [alamprogrammi kutses](alamprogrammi-kutse-subprogramm-call.md) (_subprogram call_).
 {% endtab %}
 {% endtabs %}
 

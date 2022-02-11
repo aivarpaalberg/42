@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-[mooduli](moodul-module.md) (_module_) _ _[keeletarind](keeletarind-language-construct.md) (_language construct_),_ _mis märgib selles moodulis [täitmisjada](taeitmisjada-execution-sequence.md) (_execution sequence_) lõppu ning põhjustab [siirde](siire-jump.md) (_jump_)  kutsuva mooduli etteantud punkti, koos [tulemi](tulem-result.md) (_result_) võimaliku üleandmisega.
+[mooduli](moodul-module.md) (_module_) __ [keeletarind](keeletarind-language-construct.md) (_language construct_), __ mis märgib selles moodulis [täitmisjada](taeitmisjada-execution-sequence.md) (_execution sequence_) lõppu ning põhjustab [siirde](siire-jump.md) (_jump_)  kutsuva mooduli etteantud punkti, koos [tulemi](tulem-result.md) (_result_) võimaliku üleandmisega.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
