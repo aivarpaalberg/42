@@ -11,6 +11,7 @@
   * [awk](macos/bash/awk.md)
   * [command](macos/bash/command.md)
   * [cut](macos/bash/cut.md)
+  * [wc](macos/bash/wc.md)
 
 ## Python
 
@@ -129,6 +130,8 @@
   * [asendus (replace)](terminid/sonastik/asendus-replace.md)
   * [atribuut (attribute)](terminid/sonastik/atribuut-attribute.md)
   * [avaldis (expression)](terminid/sonastik/avaldis-expression.md)
+  * [bait (byte)](terminid/sonastik/bait-byte.md)
+  * [bitt (bit)](terminid/sonastik/bitt-bit.md)
   * [Boole'i tehe (boolean operation)](terminid/sonastik/boolei-tehe.md)
   * [deklaratsioon (declaration)](terminid/sonastik/deklaratsioon-declaration.md)
   * [digitaalarvuti (digital computer)](terminid/sonastik/digitaalarvuti-digital-computer.md)
