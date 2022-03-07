@@ -6,7 +6,7 @@
 
 Iga [rakendus](../../terminid/sonastik/rakendustarkvara-application-software.md) arvutis on selleks, et lahendada mingit rakendusprobleemi. `bash` on selle poolest eriline, et see ei ole programmeeritud rakendusprobleemi lahendamiseks vaid käskluste vastuvõtmiseks (ja täitmiseks). Käskluste jaoks on loodud tehiskeel mis võimaldab öelda bashile mida see tegema peab. Selle keele nimi on bashi kesta keel (_bash shell language_). &#x20;
 
-bash on ka kesta (_shell_) programm. Kest (_shell_) pakub kasutajale liidest (_interface_) suhtlemaks teiste programmidega. Kesta programme on palju ja igaühel on oma tehiskeel milles nendega suhelda saab - `csh` (_C shell_), `zhs` (_Z shell_), `khs` (_Korn shell_)
+bash on ka kesta (_shell_) programm. Kest (_shell_) pakub kasutajale [liidest](../../terminid/sonastik/liides-interface.md) (_interface_) suhtlemaks teiste programmidega. Kesta programme on palju ja igaühel on oma [tehiskeel](../../terminid/sonastik/tehiskeel-artificial-language.md) milles nendega suhelda saab - `csh` (_C shell_), `zhs` (_Z shell_), `khs` (_Korn shell_)
 
 MacOS toetab sisselogimise skripte (_login scripts_) ja keskkonna omaduste loendeid (_environment property lists_) mis lubavad määrata keskkonna muutujaid (_environment variables_) ja aliaseid (_alias_)  mis jõustatakse (_set_)  automaatselt uue kesta (_shell_) jooksutamisel (_run_).
 
