@@ -4,11 +4,7 @@
 
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
-Kahe [funktsionaalüksuse](funktsionaalueksus-functional-unit.md) (_functional unit_) vaheline ühispiir, mis on määratletud mitmesuguste asjakohaste funktsioone, füüsilisi ühendusi, signaali (_signal_) vahetust ja muud puudutavate omadustega.
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
+Kahe [funktsionaalüksuse](funktsionaalueksus-functional-unit.md) (_functional unit_) vaheline ühispiir, mis on määratletud mitmesuguste asjakohaste funktsioone, füüsilisi [ühendusi](uehendus-connection.md) (_connection_), [signaali](signaal-signal.md) (_signal_) vahetust ja muud puudutavate omadustega.
 {% endtab %}
 {% endtabs %}
 
