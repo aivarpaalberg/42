@@ -35,3 +35,15 @@ Spotlighti avades kuvatakse otsinguaken:
 ### Spotlight akna asukoha muutmine
 
 Spotlight otsingu aken avaneb vaikimisi keset ekraani. Kui soovite, saate selle asukohta muuta - lihtsalt vajutage aknal ja lohista (_click, hold and drag_).
+
+### Kiirklahvid
+
+Spotlight kiirklahvid:
+
+| Klahvivajutused         | Tulemus                  | Millal vajalik                                      |
+| ----------------------- | ------------------------ | --------------------------------------------------- |
+| ⌘ + ␣ (Command + Space) | Ava/sulge Spotlight aken | Soovid midagi otsida, soovid jätta otsimise pooleli |
+|                         |                          |                                                     |
+|                         |                          |                                                     |
+|                         |                          |                                                     |
+
