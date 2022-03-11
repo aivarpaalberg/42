@@ -40,10 +40,10 @@ Spotlight otsingu aken avaneb vaikimisi keset ekraani. Kui soovite, saate selle 
 
 Spotlight kiirklahvid:
 
-| Klahvivajutused         | Tulemus                  | Millal vajalik                                      |
-| ----------------------- | ------------------------ | --------------------------------------------------- |
-| ⌘ + ␣ (Command + Space) | Ava/sulge Spotlight aken | Soovid midagi otsida, soovid jätta otsimise pooleli |
-|                         |                          |                                                     |
-|                         |                          |                                                     |
-|                         |                          |                                                     |
+| Klahvivajutused         | Tegevus                  | Millal vajalik                    |
+| ----------------------- | ------------------------ | --------------------------------- |
+| ⌘ + ␣ (Command + Space) | Ava/sulge Spotlight aken | otsingu alustamine või lõpetamine |
+|                         |                          |                                   |
+|                         |                          |                                   |
+|                         |                          |                                   |
 
