@@ -8,7 +8,7 @@
 
 **Sünonüüm:** utiliit
 
-**Näited:** diagnostikaprogramm, jälitusprogramm, sortimis programm.
+**Näited:** [diagnostika](diagnostiline-diagnostic.md)programm, jälitusprogramm, sortimis programm.
 {% endtab %}
 {% endtabs %}
 
