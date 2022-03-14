@@ -336,6 +336,7 @@
   * [täitmisjada (execution sequence)](terminid/sonastik/taeitmisjada-execution-sequence.md)
   * [tärkandmed (alphanumeric data)](terminid/sonastik/taerkandmed-alphanumeric-data.md)
   * [tühik (space character)](terminid/sonastik/tuehik-space-character.md)
+  * [utiliitprogramm (utility program)](terminid/sonastik/utiliitprogramm-utility-program.md)
   * [viga (error)](terminid/sonastik/viga-error.md)
   * [viip (prompt)](terminid/sonastik/viip-prompt.md)
   * [vormindus (formatting)](terminid/sonastik/vormindus-formatting.md)
