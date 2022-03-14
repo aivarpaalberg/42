@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
-[Programm](programm-program.md) (_program_), mis annab arvuti [kasutajaile](kasutaja-user.md) (_users_) ja hooldepersonalile tihti vajatavaid üldteenuseid.
+[Programm](programm-program.md) (_program_), mis annab [arvuti](arvuti-computer.md) (_computer_) [kasutajaile](kasutaja-user.md) (_users_) ja hooldepersonalile tihti vajatavaid üldteenuseid.
 
 **Sünonüüm:** utiliit
 
