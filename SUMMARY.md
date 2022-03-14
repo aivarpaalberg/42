@@ -290,6 +290,7 @@
   * [ressurss (resource)](terminid/sonastik/ressurss-resource.md)
   * [rida (line)](terminid/sonastik/rida-line.md)
   * [riistvara (hardware)](terminid/sonastik/riistvara-hardware.md)
+  * [rike (fault)](terminid/sonastik/rike-fault.md)
   * [salvestama (to store)](terminid/sonastik/salvestama-to-store.md)
   * [sidumine (binding)](terminid/sonastik/sidumine-binding.md)
   * [signaal (signal)](terminid/sonastik/signaal-signal.md)
