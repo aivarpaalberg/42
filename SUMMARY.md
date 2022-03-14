@@ -332,6 +332,7 @@
   * [tekstitöötlus (text processing)](terminid/sonastik/tekstitoeoetlus-text-processing.md)
   * [terminal (terminal)](terminid/sonastik/terminal-terminal.md)
   * [tulem (result)](terminid/sonastik/tulem-result.md)
+  * [tõrge (failure)](terminid/sonastik/torge-failure.md)
   * [täht (letter)](terminid/sonastik/taeht-letter.md)
   * [täisarv (integer)](terminid/sonastik/taeisarv-integer.md)
   * [täitmine (execution)](terminid/sonastik/taeitmine-execution.md)
