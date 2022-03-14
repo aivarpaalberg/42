@@ -138,6 +138,7 @@
   * [digitaalarvuti (digital computer)](terminid/sonastik/digitaalarvuti-digital-computer.md)
   * [dokument (document)](terminid/sonastik/dokument-document.md)
   * [doksõne (docstring)](terminid/sonastik/dokumentatsiooni-sone-docstring.md)
+  * [diagnostiline (diagnostic)](terminid/sonastik/diagnostiline-diagnostic.md)
   * [diskreetandmed (discrete data)](terminid/sonastik/diskreetandmed-discrete-data.md)
   * [diskreetesitus (discrete representation)](terminid/sonastik/diskreetesitus-discrete-representation.md)
   * [eelvaatlus (preview)](terminid/sonastik/eelvaatlus-preview.md)
