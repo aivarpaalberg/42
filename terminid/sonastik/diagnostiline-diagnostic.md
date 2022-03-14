@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
-[Rikete](rike-fault.md) (_faults_), tõrgete (_failures_) või eksituste (_mistakes_) avastamisse, analüüsi või kirjeldamisse puutuv.
+[Rikete](rike-fault.md) (_faults_), [tõrgete](torge-failure.md) (_failures_) või eksituste (_mistakes_) avastamisse, analüüsi või kirjeldamisse puutuv.
 
 **Sünonüüm:** diagnostika
 {% endtab %}
