@@ -143,6 +143,7 @@
   * [diskreetesitus (discrete representation)](terminid/sonastik/diskreetesitus-discrete-representation.md)
   * [eelvaatlus (preview)](terminid/sonastik/eelvaatlus-preview.md)
   * [eksemplar (instance)](terminid/sonastik/eksemplar-instance.md)
+  * [eksitus (mistake)](terminid/sonastik/eksitus-mistake.md)
   * [element (element)](terminid/sonastik/element-element.md)
   * [erand (exception)](terminid/sonastik/erand-exception.md)
   * [erandit seadma (to raise an exception)](terminid/sonastik/erandit-seadma-to-raise-an-exception.md)
