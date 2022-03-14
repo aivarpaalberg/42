@@ -216,6 +216,7 @@
   * [kärpimine (truncation)](terminid/sonastik/kaerpimine-truncation.md)
   * [käsk (instruction)](terminid/sonastik/kaesk-instruction.md)
   * [käsustik (instruction set)](terminid/sonastik/kaesustik-instruction-set.md)
+  * [käsu vorming (instruction format)](terminid/sonastik/kaesu-vorming-instruction-format.md)
   * [lambda (lambda)](terminid/sonastik/lambda-lambda.md)
   * [lause (statement)](terminid/sonastik/lause-statement.md)
   * [lekseem (lexical token)](terminid/sonastik/lekseem-lexical-token.md)
