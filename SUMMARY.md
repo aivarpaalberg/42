@@ -164,6 +164,7 @@
   * [hüpikaken (pop-up window)](terminid/sonastik/huepikaken-pop-up-window.md)
   * [identifikaator (identifier)](terminid/sonastik/identifikaator-identifier.md)
   * [identiteet (identity)](terminid/sonastik/identiteet-identity.md)
+  * [ikoon (icon)](terminid/sonastik/ikoon-icon.md)
   * [importimine (importing)](terminid/sonastik/importimine-importing.md)
   * [informatsioon (information)](terminid/sonastik/informatsioon-information.md)
   * [infotöötlus (information processing)](terminid/sonastik/infotoeoetlus-information-processing.md)
