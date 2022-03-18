@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
-Piki [akna](aken-window.md) (_window_) üht serva paiknev ala, mida kasutatakse menüü (_menu_) nimede või - ikoonide (_icons_) [kuvamiseks](kuva-display.md) (_display_).
+Piki [akna](aken-window.md) (_window_) üht serva paiknev ala, mida kasutatakse [menüü](menueue-menu.md) (_menu_) nimede või - [ikoonide](ikoon-icon.md) (_icons_) [kuvamiseks](kuva-display.md) (_display_).
 
 **Sünonüüm:** _action bar_&#x20;
 {% endtab %}
