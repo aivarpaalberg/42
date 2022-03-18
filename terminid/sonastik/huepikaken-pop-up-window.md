@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
-Kuvaaken (_window_), mis ilmub kiiresti [kuvapinnale](kuvapind-display-surface.md) (_display surface_) vastusena mingile toimingule (_action_) või sündmusele (_event_).
+[Aken](aken-window.md) (_window_), mis ilmub kiiresti [kuvapinnale](kuvapind-display-surface.md) (_display surface_) vastusena mingile toimingule (_action_) või sündmusele (_event_).
 {% endtab %}
 {% endtabs %}
 
