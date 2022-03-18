@@ -239,6 +239,7 @@
   * [massiivtüüp (array type)](terminid/sonastik/massiivtueuep-array-type.md)
   * [meedium (medium)](terminid/sonastik/meedium-medium.md)
   * [meetod (method)](terminid/sonastik/meetod-method.md)
+  * [menüüriba (menu bar)](terminid/sonastik/menueueriba-menu-bar.md)
   * [mestima (to merge)](terminid/sonastik/mestima-to-merge.md)
   * [moodul (module)](terminid/sonastik/moodul-module.md)
   * [muudetav (mutable)](terminid/sonastik/muudetav-mutable.md)
