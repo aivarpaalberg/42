@@ -195,6 +195,7 @@
   * [kehtivuspiirkond (scope)](terminid/sonastik/kehtivuspiirkond-scope.md)
   * [keskseade (processing unit)](terminid/sonastik/keskseade-processing-unit.md)
   * [kirjamärk (graphic character)](terminid/sonastik/kirjamaerk-graphic-character.md)
+  * [kirje (record)](terminid/sonastik/kirje-record.md)
   * [kirjutama (to write)](terminid/sonastik/kirjutama-to-write.md)
   * [klass (class)](terminid/sonastik/klass-class.md)
   * [klassi muutuja (class variable)](terminid/sonastik/klassi-muutuja-class-variable.md)
