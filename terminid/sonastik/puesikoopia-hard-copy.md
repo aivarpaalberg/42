@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
-[Kuva](kuva-display.md) (_display_) püsiv koopia (_permanent copy_), mis on valmistatud [väljundseadmes](sisend-vaeljundseade-input-output-device.md) (_output unit_), näiteks printeris või plotteris, ja mida saab ära viia.
+[Kuva](kuva-display.md) (_display_) püsiv koopia (_permanent copy_), mis on valmistatud [väljundseadmes](sisend-vaeljundseade-input-output-device.md) (_output unit_), näiteks [printeris](printer-printer.md) või [plotteris](plotter-plotter.md), ja mida saab ära viia.
 {% endtab %}
 {% endtabs %}
 
