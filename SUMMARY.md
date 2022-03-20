@@ -142,6 +142,7 @@
   * [diagnostiline (diagnostic)](terminid/sonastik/diagnostiline-diagnostic.md)
   * [diskreetandmed (discrete data)](terminid/sonastik/diskreetandmed-discrete-data.md)
   * [diskreetesitus (discrete representation)](terminid/sonastik/diskreetesitus-discrete-representation.md)
+  * [diskreetne (discrete)](terminid/sonastik/diskreetne-discrete.md)
   * [eelvaatlus (preview)](terminid/sonastik/eelvaatlus-preview.md)
   * [eksemplar (instance)](terminid/sonastik/eksemplar-instance.md)
   * [eksitus (mistake)](terminid/sonastik/eksitus-mistake.md)
