@@ -19,14 +19,19 @@ See on graafilises kasutajaliideses (GUI) kõige kiirem viis rakenduste ja faili
 * kasutatav klaviatuurilt s.t. pole vaja kasutada [osutusseadist](../terminid/sonastik/osutusseadis-pointing-device.md) (_pointing device_)
 * pole vaja  teada rakenduse või faili asukohta ning liikuda [kaustade](../terminid/sonastik/kaust-folder.md) (_folder_) hierarhias
 
-### Spotlight avamine
+### Spotlight avamine ja sulgemine
 
 Spotlight (_Rambivalgus_) avamiseks on erinevad võimalused:
 
 * vajuta klaviatuuril üheaegselt ⌘ + ␣ (command + space)
-* klõpsa luubi ikoonil menüüriba (_menu bar_) paremas ääres
+* klõpsa luubi ikoonil [menüüriba](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_) paremas ääres
 
 Klaviatuurilt avamine on kõige kiirem ning kuna otsing tuleb igal juhul sisestada klaviatuurilt pole vaja käsi klaviatuurilt tõsta ja otsida klõpsamiseks osutusseadist.
+
+Juhul, kui oled Spotlighti avanud kogemata või mõtlesid ümber ning ei soovi Spotlighti kasutada, siis saab sellest väljuda:
+
+* vajuta klaviatuuril taas üheaegselt ⌘ + ␣ (command + space)
+* vajuta ␛klahvi
 
 Spotlighti avades kuvatakse otsinguaken:
 
@@ -38,7 +43,7 @@ Spotlight otsingu aken avaneb vaikimisi keset ekraani. Kui soovite, saate selle 
 
 ### Kiirklahvid
 
-Spotlight kiirklahvid:
+Alljärgnevate kiirklahvid toimimise eelduseks on avatud Spotlight aken.
 
 | Klahvivajutused         | Tegevus                  | Millal vajalik                    |
 | ----------------------- | ------------------------ | --------------------------------- |
