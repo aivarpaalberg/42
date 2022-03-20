@@ -276,6 +276,7 @@
   * [paiskefunktsioon (hash function)](terminid/sonastik/paiskefunktsioon-hash-function.md)
   * [pakett (package)](terminid/sonastik/pakett-package.md)
   * [plokk (block)](terminid/sonastik/plokk-block.md)
+  * [plotter (plotter)](terminid/sonastik/plotter-plotter.md)
   * [parameeter (parameter)](terminid/sonastik/parameeter-parameter.md)
   * [pilt (display image)](terminid/sonastik/pilt-display-image.md)
   * [prindivaade (print preview)](terminid/sonastik/prindivaade-print-preview.md)
