@@ -118,6 +118,7 @@
   * [alusjoon (baseline)](terminid/sonastik/alusjoon-baseline.md)
   * [andmed (data)](terminid/sonastik/andmed-data.md)
   * [andmeedastus (data transmission)](terminid/sonastik/andmeedastus-data-transmission.md)
+  * [andmeelement (data element)](terminid/sonastik/andmeelement-data-element.md)
   * [andmekandja (data medium)](terminid/sonastik/andmekandja-data-medium.md)
   * [andmeobjekt (data object)](terminid/sonastik/andmeobjekt-data-object.md)
   * [andmestruktuur (data structure)](terminid/sonastik/andmestruktuur-data-structure.md)
