@@ -12,7 +12,9 @@ Tervest ekraanist kuvatõmmise (_screenshot_) tegemiseks tuleb üheaegselt vajut
 
 &#x20;                ⇧ + ⌘ + 3   (shift + command + 3)
 
-Kuvatõmmise pisipilt (_thumbnail_) ilmub ekraani nurka. Sellel klõpsates saab seda enne salvestamist redigeerida. Ilma pisipildil klõpsamata salvestatakse kuvatõmmise fail vaikimisi asukohta milleks on töölaud (_desktop_).
+Kuvatõmmise pisipilt (_thumbnail_) ilmub ekraani nurka. Sellel klõpsates saab seda enne [salvestamist](../terminid/sonastik/salvestama-to-store.md) redigeerida. Juhul kui kuvatõmmis ebaõnnestus saab selle ilma salvestamata kustutuda vajutades prügikasti (_trash_) ![](../.gitbook/assets/trash\_icon.png) ikoonil.&#x20;
+
+Ilma pisipildil klõpsamata salvestatakse kuvatõmmise fail vaikimisi asukohta milleks on töölaud (_desktop_).
 
 ## Kuidas teha kuvatõmmist ekraani teatud osast
 
@@ -26,23 +28,31 @@ Lohista (_drag_) ristmärki (_crosshair_) valimaks ekraani osa millest teha kuva
 
 Kuvatõmmise tegemiseks lase hiire nupp lahti või vabasta puuteplaat.&#x20;
 
-Kuvatõmmise pisipilt (_thumbnail_) ilmub ekraani nurka. Sellel klõpsates saab seda enne salvestamist redigeerida. Ilma pisipildil klõpsamata salvestatakse kuvatõmmise fail vaikimisi asukohta milleks on töölaud (_desktop_).
+Kuvatõmmise pisipilt (_thumbnail_) ilmub ekraani nurka. Sellel klõpsates saab seda enne [salvestamist](../terminid/sonastik/salvestama-to-store.md) redigeerida. Ilma pisipildil klõpsamata salvestatakse kuvatõmmise [fail](../terminid/sonastik/fail-file.md) vaikimisi asukohta milleks on töölaud (_desktop_).
 
 ## Kuidas teha kuvatõmmist aknast või menüüst
 
-Ava aken või menüü millest kuvatõmmis teha.&#x20;
+Ava aken või menüü millest kuvatõmmis teha. Vajuta üheaegselt kolmele klahvile:
 
-Vajuta üheaegselt neljale klahvile:
+&#x20;         ⇧ + ⌘ + 4 (shift + command + 4)
 
-&#x20;         ⇧ + ⌘ + 4 + ␣ (shift + command + 4 + space)
+[Osuti](../terminid/sonastik/osuti-pointer.md) (_pointer_) muutub ristmärgiks (_crosshair_) ![](https://support.apple.com/library/content/dam/edam/applecare/images/en\_US/macos/macos-mojave-screenshot-crosshair-inline-icon.png)
+
+&#x20;Vajuta klahvile
+
+&#x20;         ␣ (space)
 
 [Osuti](../terminid/sonastik/osuti-pointer.md) (_pointer_) muutub kaamera ikooniks ![](https://support.apple.com/library/content/dam/edam/applecare/images/en\_US/macos/macos-mojave-screenshot-window-inline-icon.png)
 
-Kuvatõmmise tegemisest loobumiseks vajuta paoklahvile ␛ (_escape_).
+Kuvatõmmise tegemisest saab loobuda vajutades paoklahvile ␛ (_escape_).
 
-Klõpsa aknal (_window_) või menüül (_menu_) millest tahad kuvatõmmist teha. Akna varju (_shadow_) välistamiseks hoia klõpsamise ajal all ⌥ (_option_) klahvi.
+Kuvatõmmise tegemiseks klõpsa [aknal](../terminid/sonastik/aken-window.md) (_window_) või [menüül](../terminid/sonastik/menueue-menu.md) (_menu_) millest tahad kuvatõmmist teha või liiguta [osuti](../terminid/sonastik/osuti-pointer.md) (_pointer_) aknale/menüüle ja vajuta sisestusklahvile ⏎ (_enter_).&#x20;
 
-Kuvatõmmise pisipilt (_thumbnail_) ilmub ekraani nurka. Sellel klõpsates saab seda enne salvestamist redigeerida. Ilma pisipildil klõpsamata salvestatakse kuvatõmmise fail vaikimisi asukohta milleks on töölaud (_desktop_).
+Akna varju (_shadow_) välistamiseks hoia klõpsamise ajal all ⌥ (_option_) klahvi.&#x20;
+
+Juhul kui soovid, et kuvatõmmisel oleks mõni menüü valikutest aktiivne siis liiguta osuti (_pointer_) sellele enne kuvatõmmise tegemise alustamist.
+
+Kuvatõmmise pisipilt (_thumbnail_) ilmub ekraani alumisse paremasse nurka. Sellel klõpsates saab seda enne [           ](../terminid/sonastik/salvestama-to-store.md) redigeerida. Ilma pisipildil klõpsamata salvestatakse kuvatõmmise fail vaikimisi asukohta milleks on töölaud (_desktop_).
 
 Vasakul pool on ekraanitõmmis mis on tehtud Safari brauseri menüüvalikust `Safari` ilma varjuta ja paremal pool ekraanitõmmis varjuga
 
