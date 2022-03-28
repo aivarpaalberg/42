@@ -146,6 +146,7 @@
   * [diskreetesitus (discrete representation)](terminid/sonastik/diskreetesitus-discrete-representation.md)
   * [diskreetne (discrete)](terminid/sonastik/diskreetne-discrete.md)
   * [eelvaatlus (preview)](terminid/sonastik/eelvaatlus-preview.md)
+  * [ekraan (screen)](terminid/sonastik/ekraan-screen.md)
   * [eksemplar (instance)](terminid/sonastik/eksemplar-instance.md)
   * [eksitus (mistake)](terminid/sonastik/eksitus-mistake.md)
   * [element (element)](terminid/sonastik/element-element.md)
