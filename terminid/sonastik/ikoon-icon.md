@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
-Ekraanil (_screen_) [kuvatav](kuva-display.md) (_displayed_) graafiline [sümbol](suembol-symbol.md) (_symbol_), mida kasutaja saab mingi funktsiooni või [tarkvara](tarkvara-software.md) (_software_) rakenduse valimiseks osutada mingi seadisega, näiteks [hiirega](hiir-mouse.md#taehendus) (_mouse_).
+[Ekraanil](ekraan-screen.md) (_screen_) [kuvatav](kuva-display.md) (_displayed_) graafiline [sümbol](suembol-symbol.md) (_symbol_), mida kasutaja saab mingi funktsiooni või [tarkvara](tarkvara-software.md) (_software_) rakenduse valimiseks osutada mingi seadisega, näiteks [hiirega](hiir-mouse.md#taehendus) (_mouse_).
 
 **Sünonüümid:** piktogramm (_pictogram_)
 
