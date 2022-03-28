@@ -5,6 +5,7 @@
 ## macOS
 
 * [Kuidas avada rakendusi ja faile](macos/untitled.md)
+* [Rakenduste akende vahel liikumine](macos/rakenduste-akende-vahel-liikumine.md)
 * [Screenshot](macos/kuvatommiste-screenshot-tegemine.md)
 * [Vimari](macos/vimari.md)
 * [bash](macos/bash/README.md)
