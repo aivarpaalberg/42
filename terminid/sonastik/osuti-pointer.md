@@ -8,7 +8,7 @@ description: mõiste osuti (pointer) määratlus
 
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
-ekraanil (_screen_) [kuvatav](kuva-display.md) (_displayed_) [sümbol](suembol-symbol.md) (_symbol_), mida kasutaja saab [informatsiooni](informatsioon-information.md) (_information_) valimiseks liigutada [osutusseadisega](osutusseadis-pointing-device.md) (_pointing device_), näiteks hiirega.
+[ekraanil](ekraan-screen.md) (_screen_) [kuvatav](kuva-display.md) (_displayed_) [sümbol](suembol-symbol.md) (_symbol_), mida kasutaja saab [informatsiooni](informatsioon-information.md) (_information_) valimiseks liigutada [osutusseadisega](osutusseadis-pointing-device.md) (_pointing device_), näiteks hiirega.
 {% endtab %}
 {% endtabs %}
 
