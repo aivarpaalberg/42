@@ -32,18 +32,21 @@ See on graafilises kasutajaliideses (GUI) kõige kiirem viis rakenduste ja faili
 Spotlight (_Rambivalgus_) avamiseks on erinevad võimalused:
 
 * vajuta klaviatuuril üheaegselt ⌘ + ␣ (command + space)
-* klõpsa luubi ikoonil [menüüriba](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_) paremas ääres
+* klõpsa luubi [ikoonil](../terminid/sonastik/ikoon-icon.md) ![](<../.gitbook/assets/magnifyingglass@2x (1).png>) [menüüriba](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_) paremas ääres
 
 Klaviatuurilt avamine on kõige kiirem ning kuna otsing tuleb igal juhul sisestada klaviatuurilt pole vaja käsi klaviatuurilt tõsta ja otsida klõpsamiseks osutusseadist.
 
 Juhul, kui oled Spotlighti avanud kogemata või mõtlesid ümber ning ei soovi Spotlighti kasutada, siis saab sellest väljuda:
 
 * vajuta klaviatuuril taas üheaegselt ⌘ + ␣ (command + space)
+* klõpsa taas luubi [ikoonil](../terminid/sonastik/ikoon-icon.md) ![](<../.gitbook/assets/magnifyingglass@2x (1).png>) [menüüriba](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_) paremas ääres
 * vajuta ␛klahvi (paoklahv)
 
 Spotlight avaneb [hüpikaknana](../terminid/sonastik/huepikaken-pop-up-window.md) (_pop-up window_) ja [kursor](../terminid/sonastik/kursor-cursor.md) (_cursor_) on vaikimisi aktiivne otsingu sisestamiseks:
 
-![](../.gitbook/assets/Spotlight.png)
+![Spotlight hüpikaken](../.gitbook/assets/Spotlight.png)
+
+Juhul kui leiate selle, mida otsite ning avate selle kasutates enter klahvi sulgub Spotlight hüpikaken automaatselt. Spotlighti taasavades on sellel sama seis mis otsingust lahkudes.
 
 ### Spotlight akna asukoha muutmine
 
