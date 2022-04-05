@@ -51,7 +51,7 @@ Spotlight otsingu [hüpikaken](../terminid/sonastik/huepikaken-pop-up-window.md)
 
 Kui soovite, saate hüpikakna asukohta muuta - lihtsalt klõpsake aknal, hoidke allavajutatuna ja lohistage (_click, hold and drag_) soovitud asukohta.
 
-Spotlight [hüpikakna](../terminid/sonastik/huepikaken-pop-up-window.md) vaikimisi asukoha taastamiseks klõpsake ja hoidke all luubi ![](../.gitbook/assets/magnifyingglass@2x.png) [ikooni](../terminid/sonastik/ikoon-icon.md) (_icon_) [menüüribal](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_).
+Spotlight [hüpikakna](../terminid/sonastik/huepikaken-pop-up-window.md) vaikimisi asukoha taastamiseks klõpsake ja hoidke all luubi [ikooni](../terminid/sonastik/ikoon-icon.md) (_icon_) ![](<../.gitbook/assets/magnifyingglass@2x (1).png>) [menüüribal](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_).
 
 ### Kiirklahvid
 
