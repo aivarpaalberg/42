@@ -10,7 +10,7 @@
 
 ## Kasutamine
 
-Funktsioon `all()`on samaväärne (_equivalent_) alljärgnevaga:
+[Funktsioon](../../terminid/sonastik/funktsioon-function.md#taehendus) `all()`on samaväärne (_equivalent_) alljärgnevaga:
 
 ```python
 def all(iterable):
@@ -26,16 +26,16 @@ def all(iterable):
 
 Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema [itereeritav](../../terminid/sonastik/itereeritav-iterable.md) ([sõne](../sisseehitatud-tueuebid/sone-str/), [loend](../../terminid/sonastik/loend-list.md), hulk, sõnastik vms).&#x20;
 
-Juhul kui [argumenti](../../terminid/sonastik/argument.md) ei edastata või edastatud argument ei ole [itereeritav](../../terminid/sonastik/itereeritav-iterable.md)  tõstetakse `TypeError`erand.
+Juhul kui [argumenti](../../terminid/sonastik/argument.md) ei edastata või edastatud argument ei ole [itereeritav](../../terminid/sonastik/itereeritav-iterable.md)  [seatakse erand](../../terminid/sonastik/erandit-seadma-to-raise-an-exception.md#taehendus) `TypeError`.
 
 ### Tagastatav väärtus
 
 Funktsioon tagastab tõesusväärtuse (booli):
 
-|  Väärtus  | Tingimus(ed)                                                   |
-| --------- | -------------------------------------------------------------- |
-| **True**  | kõik itereeritava elemendid on tõesed¹ või itereeritav on tühi |
-| **False** | vähemalt üks itereeritava element on väär¹                     |
+|  Väärtus  | Tingimus(ed)                                                                                                                |
+| --------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **True**  | kõik[ itereeritav](../../terminid/sonastik/itereeritav-iterable.md#taehendus)a elemendid on tõesed¹ või itereeritav on tühi |
+| **False** | vähemalt üks itereeritava element on väär¹                                                                                  |
 
 ¹ vt [tõesuse testimine](../sisseehitatud-tueuebid/toesuse-testimine.md)
 
