@@ -1,14 +1,20 @@
-# all\(iterable\)
+# all(iterable)
 
-## Käsk \(command\)
+## Käsk (command)
 
-{% hint style="info" %}
-tagasta True kui [itereeritava](../../terminid/sonastik/itereeritav-iterable.md) \(_iterable_\) kõik elemendid on tõesed \(true\) või kui itereeritav on tühi.
-{% endhint %}
+{% tabs %}
+{% tab title="Loomulik keel" %}
+[tagasta](../../terminid/sonastik/tagastama-to-return.md#taehendus) True kui [itereeritava](../../terminid/sonastik/itereeritav-iterable.md) (_iterable_) kõik elemendid on tõesed (true) või kui itereeritav on tühi.
+{% endtab %}
+
+{% tab title="Python" %}
+
+{% endtab %}
+{% endtabs %}
 
 ## Kasutamine
 
-Funktsioon `all()`on samaväärne \(_equivalent_\) alljärgnevaga:
+Funktsioon `all()`on samaväärne (_equivalent_) alljärgnevaga:
 
 ```python
 def all(iterable):
@@ -18,22 +24,22 @@ def all(iterable):
     return True
 ```
 
-[Koodist](../../terminid/sonastik/kood-code.md) on näha, et [funktsioon](../../terminid/sonastik/funktsioon-function.md) rakendab lühist \(_short circuit_\) s.t. et esimese väära \(_False_\) korral tagastab funktsioon väärtuse ning järelejäänud elemente enam ei kontrollita.
+[Koodist](../../terminid/sonastik/kood-code.md) on näha, et [funktsioon](../../terminid/sonastik/funktsioon-function.md) rakendab lühist (_short circuit_) s.t. et esimese väära (_False_) korral tagastab funktsioon väärtuse ning järelejäänud elemente enam ei kontrollita.
 
 ### Argument
 
-Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema [itereeritav](../../terminid/sonastik/itereeritav-iterable.md) \([sõne](../sisseehitatud-tueuebid/sone-str/), [loend](../../terminid/sonastik/loend-list.md), hulk, sõnastik vms\). 
+Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema [itereeritav](../../terminid/sonastik/itereeritav-iterable.md) ([sõne](../sisseehitatud-tueuebid/sone-str/), [loend](../../terminid/sonastik/loend-list.md), hulk, sõnastik vms).&#x20;
 
 Juhul kui [argumenti](../../terminid/sonastik/argument.md) ei edastata või edastatud argument ei ole [itereeritav](../../terminid/sonastik/itereeritav-iterable.md)  tõstetakse `TypeError`erand.
 
 ### Tagastatav väärtus
 
-Funktsioon tagastab tõesusväärtuse \(booli\):
+Funktsioon tagastab tõesusväärtuse (booli):
 
-|  Väärtus | Tingimus\(ed\) |
-| :--- | :--- |
-| **True** | kõik itereeritava elemendid on tõesed¹ või itereeritav on tühi |
-| **False** | vähemalt üks itereeritava element on väär¹ |
+|  Väärtus  | Tingimus(ed)                                                   |
+| --------- | -------------------------------------------------------------- |
+| **True**  | kõik itereeritava elemendid on tõesed¹ või itereeritav on tühi |
+| **False** | vähemalt üks itereeritava element on väär¹                     |
 
 ¹ vt [tõesuse testimine](../sisseehitatud-tueuebid/toesuse-testimine.md)
 
@@ -54,7 +60,7 @@ False
 
 **Kas kõik elemendid vastavad seatud tingimusele?**
 
-Antud on DNA ahel ning on vaja kontrollida kas see on kehtiv s.t. selles esinevad ainult `A`, `C`, `G` või `T` 
+Antud on DNA ahel ning on vaja kontrollida kas see on kehtiv s.t. selles esinevad ainult `A`, `C`, `G` või `T`&#x20;
 
 ```python
 >>> ahel = 'TATCAGAAAACACGCGCTTAAGTGAGCGGAACGGGTGGAACAAGGTTGTA'
@@ -70,6 +76,5 @@ False
 
 ## Viited
 
-* Pythoni ametlik dokumentatsioon \(inglise keeles\): [all\(iterable\)](https://docs.python.org/3/library/functions.html#all)
+* Pythoni ametlik dokumentatsioon (inglise keeles): [all(iterable)](https://docs.python.org/3/library/functions.html#all)
 * Pythoni interaktiivses interpretaatoris sisesta `help(all)`
-
