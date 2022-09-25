@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Loomulik keel" %}
-[tagasta](../../terminid/sonastik/tagastama-to-return.md#taehendus) True kui [itereeritava](../../terminid/sonastik/itereeritav-iterable.md) (_iterable_) kõik elemendid on tõesed (true) või kui itereeritav on tühi.
+[tagasta](../../terminid/sonastik/tagastama-to-return.md#taehendus) True kui [itereeritava](../../terminid/sonastik/itereeritav-iterable.md) (_iterable_) kõik elemendid on [tõesed](../sisseehitatud-tueuebid/toesuse-testimine.md) (true) või kui itereeritav on tühi.
 {% endtab %}
 {% endtabs %}
 
