@@ -3,12 +3,8 @@
 ## Käsk (command)
 
 {% tabs %}
-{% tab title="Loomulik keel" %}
+{% tab title="" %}
 [tagasta](../../terminid/sonastik/tagastama-to-return.md#taehendus) True kui [itereeritava](../../terminid/sonastik/itereeritav-iterable.md) (_iterable_) kõik elemendid on tõesed (true) või kui itereeritav on tühi.
-{% endtab %}
-
-{% tab title="Python" %}
-
 {% endtab %}
 {% endtabs %}
 
