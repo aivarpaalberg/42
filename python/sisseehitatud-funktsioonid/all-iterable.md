@@ -24,7 +24,7 @@ def all(iterable):
 
 ### Argument
 
-Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema [itereeritav](../../terminid/sonastik/itereeritav-iterable.md) ([sõne](../sisseehitatud-tueuebid/sone-str/), [loend](../../terminid/sonastik/loend-list.md), hulk, sõnastik vms).&#x20;
+Funktsioonile tuleb välja kutsudes edastada üks [argument](../../terminid/sonastik/argument.md) mis peab olema [itereeritav](../../terminid/sonastik/itereeritav-iterable.md) ([sõne](../sisseehitatud-tueuebid/sone-str/), [loend](../../terminid/sonastik/loend-list.md), hulk, [sõnastik](../../terminid/sonastik/sonastik-dictionary.md#taehendus) vms).&#x20;
 
 Juhul kui [argumenti](../../terminid/sonastik/argument.md) ei edastata või edastatud argument ei ole [itereeritav](../../terminid/sonastik/itereeritav-iterable.md)  [seatakse erand](../../terminid/sonastik/erandit-seadma-to-raise-an-exception.md#taehendus) `TypeError`.
 
