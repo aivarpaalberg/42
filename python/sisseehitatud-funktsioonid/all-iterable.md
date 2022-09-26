@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Lihtsalt" %}
-kas kõik on [tõesed](../sisseehitatud-tueuebid/toesuse-testimine.md)
+kas pole ühtegi väära
 {% endtab %}
 
 {% tab title="Üksikasjalikult" %}
