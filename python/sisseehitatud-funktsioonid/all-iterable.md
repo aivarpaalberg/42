@@ -3,7 +3,11 @@
 ## Käsk (command)
 
 {% tabs %}
-{% tab title="Loomulik keel" %}
+{% tab title="Lihtsalt" %}
+kas kõik on [tõesed](../sisseehitatud-tueuebid/toesuse-testimine.md)
+{% endtab %}
+
+{% tab title="Üksikasjalikult" %}
 [tagasta](../../terminid/sonastik/tagastama-to-return.md#taehendus) True kui [itereeritava](../../terminid/sonastik/itereeritav-iterable.md) (_iterable_) kõik elemendid on [tõesed](../sisseehitatud-tueuebid/toesuse-testimine.md) (true) või kui itereeritav on tühi.
 {% endtab %}
 {% endtabs %}
@@ -21,6 +25,8 @@ def all(iterable):
 ```
 
 [Koodist](../../terminid/sonastik/kood-code.md) on näha, et [funktsioon](../../terminid/sonastik/funktsioon-function.md) rakendab lühist (_short circuit_) s.t. et esimese väära (_False_) korral tagastab funktsioon väärtuse ning järelejäänud elemente enam ei kontrollita.
+
+**Oluline meeles pidada**: tühjas sõne tõesusväärtus on _False_ aga _all()_ tagastab tühja itereeritava korral _True_
 
 ### Argument
 
