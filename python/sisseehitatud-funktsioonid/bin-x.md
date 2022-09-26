@@ -1,10 +1,16 @@
-# bin\(x\)
+# bin(x)
 
-## Käsk \(command\)
+## Käsk (command)
 
-{% hint style="info" %}
-tagasta binaar sõne \(_binary string_\) eesliitega '0b'
-{% endhint %}
+{% tabs %}
+{% tab title="Lihtne" %}
+teisenda kümnendsüsteemis täisarv kahendsüsteemi ja sõneks
+{% endtab %}
+
+{% tab title="Üksikasjalikult" %}
+
+{% endtab %}
+{% endtabs %}
 
 ## Kasutamine
 
@@ -14,6 +20,5 @@ tagasta binaar sõne \(_binary string_\) eesliitega '0b'
 
 ### Viited
 
-* Pythoni ametlik dokumentatsioon \(inglise keeles\): [bin\(_x_\)](https://docs.python.org/3/library/functions.html#bin)
+* Pythoni ametlik dokumentatsioon (inglise keeles): [bin(_x_)](https://docs.python.org/3/library/functions.html#bin)
 * Pythoni interaktiivses interpretaatoris sisesta `help(bin)`
-

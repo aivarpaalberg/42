@@ -1,6 +1,6 @@
 # Screenshot
 
-Mac arvutites saab kuvatõmmiste tegemiseks ja kuva salvestamiseks kasutada rakendust **Screenshot** ja kiirklahve. &#x20;
+Mac arvutites saab kuvatõmmiste tegemiseks ja kuva salvestamiseks kasutada rakendust **Screenshot** või kiirklahve. &#x20;
 
 ## Kuvatõmmiste (screenshot) tegemine
 
@@ -22,7 +22,7 @@ Ekraani teatud osast kuvatõmmise tegemiseks tuleb üheaegselt vajutada kolmele 
 
 &#x20;         ⇧ + ⌘ + 4 (shift + command + 4)
 
-[Osuti](../terminid/sonastik/osuti-pointer.md) (_pointer_) muutub ristmärgiks (_crosshair_) <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-mojave-screenshot-crosshair-inline-icon.png" alt="" data-size="line">
+[Osuti](../terminid/sonastik/osuti-pointer.md) (_pointer_) muutub ristmärgiks (_crosshair_) ![](https://support.apple.com/library/content/dam/edam/applecare/images/en\_US/macos/macos-mojave-screenshot-crosshair-inline-icon.png)
 
 Lohista (_drag_) ristmärki (_crosshair_) valimaks ekraani osa millest teha kuvatõmmis. Valitud ekraaniosa liigutamiseks vajuta ja hoia all tühiku klahvi (_space bar_) ning lohista. Kuvatõmmise tegemisest loobumiseks vajuta paoklahvile ␛(_escape_).
 
@@ -36,13 +36,13 @@ Ava aken või menüü millest kuvatõmmis teha. Vajuta üheaegselt kolmele klahv
 
 &#x20;         ⇧ + ⌘ + 4 (shift + command + 4)
 
-[Osuti](../terminid/sonastik/osuti-pointer.md) (_pointer_) muutub ristmärgiks (_crosshair_) <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-mojave-screenshot-crosshair-inline-icon.png" alt="" data-size="line">
+[Osuti](../terminid/sonastik/osuti-pointer.md) (_pointer_) muutub ristmärgiks (_crosshair_) ![](https://support.apple.com/library/content/dam/edam/applecare/images/en\_US/macos/macos-mojave-screenshot-crosshair-inline-icon.png)
 
 &#x20;Vajuta klahvile
 
 &#x20;         ␣ (space)
 
-[Osuti](../terminid/sonastik/osuti-pointer.md) (_pointer_) muutub kaamera ikooniks <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-mojave-screenshot-window-inline-icon.png" alt="" data-size="line">
+[Osuti](../terminid/sonastik/osuti-pointer.md) (_pointer_) muutub kaamera ikooniks ![](https://support.apple.com/library/content/dam/edam/applecare/images/en\_US/macos/macos-mojave-screenshot-window-inline-icon.png)
 
 Kuvatõmmise tegemisest saab loobuda vajutades paoklahvile ␛ (_escape_).
 
@@ -56,7 +56,7 @@ Kuvatõmmise pisipilt (_thumbnail_) ilmub ekraani alumisse paremasse nurka. Sell
 
 Vasakul pool on ekraanitõmmis mis on tehtud Safari brauseri menüüvalikust `Safari` ilma varjuta ja paremal pool ekraanitõmmis varjuga
 
-&#x20;<img src="../.gitbook/assets/ekraanitõmmis_varjuta (1).png" alt="" data-size="original"> <img src="../.gitbook/assets/ekraanitõmmis_varjuga (1).png" alt="" data-size="original">&#x20;
+&#x20;![](<../.gitbook/assets/ekraanitõmmis\_varjuta (1).png>) ![](<../.gitbook/assets/ekraanitõmmis\_varjuga (1).png>)&#x20;
 
 
 
@@ -75,10 +75,10 @@ Kuvatõmmiste tegemiseks kasutatavat rakenduse Screenshot järgenvaid omadusi sa
 
 
 
-| Tegevus                         | Ikoon                                                                      |
-| ------------------------------- | -------------------------------------------------------------------------- |
-| Kuvatõmmis tervest ekraanist    |  <img src="../.gitbook/assets/image (2).png" alt="" data-size="original">  |
-| Kuvatõmmis ekraani teatud osast | <img src="../.gitbook/assets/image (4).png" alt="" data-size="original">   |
-| Kuvatõmmis aknast/menüüst       | <img src="../.gitbook/assets/image (3).png" alt="" data-size="original">   |
-| Terve ekraani kuva salvestus    | <img src="../.gitbook/assets/image (5).png" alt="" data-size="original">   |
-| Osa ekraani kuva salvestus      | <img src="../.gitbook/assets/image (6).png" alt="" data-size="original">   |
+| Tegevus                         | Ikoon                                     |
+| ------------------------------- | ----------------------------------------- |
+| Kuvatõmmis tervest ekraanist    |  ![](<../.gitbook/assets/image (2).png>)  |
+| Kuvatõmmis ekraani teatud osast | ![](<../.gitbook/assets/image (4).png>)   |
+| Kuvatõmmis aknast/menüüst       | ![](<../.gitbook/assets/image (3).png>)   |
+| Terve ekraani kuva salvestus    | ![](<../.gitbook/assets/image (5).png>)   |
+| Osa ekraani kuva salvestus      | ![](<../.gitbook/assets/image (6).png>)   |
