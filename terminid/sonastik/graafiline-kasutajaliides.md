@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title=" Infotehnoloogia" %}
-Graafikat (_graphics_) visuaalsete metafooridena rakendav kasutaja [liides](liides-interface.md) (_interface_)
+Graafikat (_graphics_) visuaalsete metafooridena rakendav[ kasutaja](kasutaja-user.md) (_user_)  [liides](liides-interface.md) (_interface_)
 
 **Sünonüüm**: GUI
 {% endtab %}
