@@ -14,6 +14,10 @@
   * [cut](macos/bash/cut.md)
   * [wc](macos/bash/wc.md)
 
+## iPhone
+
+* [Untitled](iphone/untitled.md)
+
 ## Python
 
 * [Alustuseks](python/alustuseks.md)
@@ -162,6 +166,7 @@
   * [generaator avaldis (generator expression)](terminid/sonastik/generaator-avaldis-generator-expression.md)
   * [generaator iteraator (generator iterator)](terminid/sonastik/generaator-iteraator-generator-iterator.md)
   * [globaalne (global)](terminid/sonastik/globaalne-global.md)
+  * [graafiline kasutajaliides](terminid/sonastik/graafiline-kasutajaliides.md)
   * [harilik pakett (regular package)](terminid/sonastik/harilik-pakett-regular-package.md)
   * [hiir (mouse)](terminid/sonastik/hiir-mouse.md)
   * [hulk (set)](terminid/sonastik/hulk-set.md)
