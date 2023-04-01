@@ -7,3 +7,5 @@ Mnemoonika: **wc** - **w**ord **c**ount
 ### Kirjeldus
 
 `wc` [kuvab](../../terminid/sonastik/kuva-display.md#taehendus) (_display_) sõnade, ridade, märkide ja baitide arvu igas sisendfailis või standardsisendis (_standard input_)
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>AB</td><td></td><td></td></tr><tr><td>CD</td><td></td><td></td></tr></tbody></table>
