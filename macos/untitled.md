@@ -1,6 +1,6 @@
 # Kuidas avada rakendusi ja faile
 
-[Arvutist](../terminid/sonastik/arvuti-computer.md) (_computer_) ilma [rakendustarkvarata](../terminid/sonastik/rakendustarkvara-application-software.md) (_application software_) on kasutajale vähe kasu. Selleks et arvutiga midagi korda saata (õppida, töötada või meelt lahutada) vajab arvuti [rakendusi](../terminid/sonastik/rakendustarkvara-application-software.md) (_applications_). Veebi sirvimiseks on brauser; e-kirjade lugemiseks, fotode töötlemiseks ja esitluste koostamiseks on oma rakendused.
+[Arvutist](../terminid/sonastik/arvuti-computer.md) (_computer_) ilma [rakendustarkvarata](../terminid/sonastik/rakendustarkvara-application-software.md) (_application software_) on [kasutajale](../terminid/sonastik/kasutaja-user.md) vähe kasu. Selleks et arvutiga midagi korda saata (õppida, töötada või meelt lahutada) vajab arvuti [rakendusi](../terminid/sonastik/rakendustarkvara-application-software.md) (_applications_). Veebi sirvimiseks on brauser; e-kirjade lugemiseks, fotode töötlemiseks ja esitluste koostamiseks on oma rakendused.
 
 Selleks, et neid rakendusi kasutama hakata on vaja need kõigepealt **üles leida ja avada**.&#x20;
 
@@ -22,7 +22,7 @@ Rakendusi ja faile saab avada kasutades klaviatuuri või [osutusseadist](../term
 
 Rakenduste ja failide leidmiseks ning avamiseks on macOS-is rakendus **Spotlight** (_Rambivalgus_).&#x20;
 
-See on graafilises kasutajaliideses (GUI) kõige kiirem viis rakenduste ja failide leidmiseks ja avamiseks. Selle eelisteks on:
+See on [graafilises kasutajaliideses](../terminid/sonastik/graafiline-kasutajaliides.md) (GUI) kõige kiirem viis rakenduste ja failide leidmiseks ja avamiseks. Selle eelisteks on:
 
 * kasutatav klaviatuurilt s.t. pole vaja kasutada [osutusseadist](../terminid/sonastik/osutusseadis-pointing-device.md) (_pointing device_)
 * pole vaja  teada rakenduse või faili asukohta ning liikuda [kaustade](../terminid/sonastik/kaust-folder.md) (_folder_) hierarhias
@@ -32,14 +32,14 @@ See on graafilises kasutajaliideses (GUI) kõige kiirem viis rakenduste ja faili
 Spotlight (_Rambivalgus_) avamiseks on erinevad võimalused:
 
 * vajuta klaviatuuril üheaegselt ⌘ + ␣ (command + space)
-* klõpsa luubi [ikoonil](../terminid/sonastik/ikoon-icon.md) ![](<../.gitbook/assets/magnifyingglass@2x (1).png>) [menüüriba](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_) paremas ääres
+* klõpsa luubi [ikoonil](../terminid/sonastik/ikoon-icon.md) <img src="../.gitbook/assets/magnifyingglass@2x (1).png" alt="" data-size="line"> [menüüriba](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_) paremas ääres
 
 Klaviatuurilt avamine on kõige kiirem ning kuna otsing tuleb igal juhul sisestada klaviatuurilt pole vaja käsi klaviatuurilt tõsta ja otsida klõpsamiseks osutusseadist.
 
 Juhul, kui oled Spotlighti avanud kogemata või mõtlesid ümber ning ei soovi Spotlighti kasutada, siis saab sellest väljuda:
 
 * vajuta klaviatuuril taas üheaegselt ⌘ + ␣ (command + space)
-* klõpsa taas luubi [ikoonil](../terminid/sonastik/ikoon-icon.md) ![](<../.gitbook/assets/magnifyingglass@2x (1).png>) [menüüriba](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_) paremas ääres
+* klõpsa taas luubi [ikoonil](../terminid/sonastik/ikoon-icon.md) <img src="../.gitbook/assets/magnifyingglass@2x (1).png" alt="" data-size="line"> [menüüriba](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_) paremas ääres
 * vajuta ␛klahvi (paoklahv)
 
 Spotlight avaneb [hüpikaknana](../terminid/sonastik/huepikaken-pop-up-window.md) (_pop-up window_) ja [kursor](../terminid/sonastik/kursor-cursor.md) (_cursor_) on vaikimisi aktiivne otsingu sisestamiseks:
@@ -54,7 +54,7 @@ Spotlight otsingu [hüpikaken](../terminid/sonastik/huepikaken-pop-up-window.md)
 
 Kui soovite, saate hüpikakna asukohta muuta - lihtsalt klõpsake aknal, hoidke allavajutatuna ja lohistage (_click, hold and drag_) soovitud asukohta.
 
-Spotlight [hüpikakna](../terminid/sonastik/huepikaken-pop-up-window.md) vaikimisi asukoha taastamiseks klõpsake ja hoidke all luubi [ikooni](../terminid/sonastik/ikoon-icon.md) (_icon_) ![](<../.gitbook/assets/magnifyingglass@2x (1).png>) [menüüribal](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_).
+Spotlight [hüpikakna](../terminid/sonastik/huepikaken-pop-up-window.md) vaikimisi asukoha taastamiseks klõpsake ja hoidke all luubi [ikooni](../terminid/sonastik/ikoon-icon.md) (_icon_) <img src="../.gitbook/assets/magnifyingglass@2x (1).png" alt="" data-size="line"> [menüüribal](../terminid/sonastik/menueueriba-menu-bar.md) (_menu bar_).
 
 ### Kiirklahvid
 

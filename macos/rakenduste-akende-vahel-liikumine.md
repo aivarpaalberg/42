@@ -2,13 +2,16 @@
 
 ## Taustaks
 
-Kui avada [rakendus](../terminid/sonastik/rakendustarkvara-application-software.md) (_app_) Mac arvutis siis avaneb töölaual (desktop) selle rakenduse [aken](../terminid/sonastik/aken-window.md) (window). Aktiivne saab olla ainult üks rakendus korraga; [menüüribal](../terminid/sonastik/menueueriba-menu-bar.md) (menu bar) on näha aktiivse rakenduse nimi paksult (bold) ja konkreetse rakenduse [menüü](../terminid/sonastik/menueue-menu.md).
+Kui avada [rakendus](../terminid/sonastik/rakendustarkvara-application-software.md) (_app_) Mac [arvutis](../terminid/sonastik/arvuti-computer.md) siis avaneb töölaual (desktop) selle rakenduse [aken](../terminid/sonastik/aken-window.md) (window). Aktiivne saab olla ainult üks rakendus korraga; [menüüribal](../terminid/sonastik/menueueriba-menu-bar.md) (menu bar) on näha aktiivse rakenduse nimi paksult (bold) ja konkreetse rakenduse [menüü](../terminid/sonastik/menueue-menu.md).
 
 Mõned rakendused (näiteks Safari, Mail jpt) lubavad avada mitu [akent](../terminid/sonastik/aken-window.md) või erinevat tüüpi aknaid üheaegselt. macOS pakub mitmeid võimalusi rakenduste ja nende akende haldamiseks.
 
-[Akende](../terminid/sonastik/aken-window.md) kaudu suhtlevad kasutajad rakendusega ning seetõttu on see oluline osa kasutajakogemusest. Akende kasutamise oskus tõstab arvuti kasutamise tõhusust. Ilma rakendusteta pole arvutist eriti kasu ja kuna kogu suhtlus rakendustega toimub läbi akende siis on nende kasutamise ja käitlemise oskus oluline osa arvutikasutamise (baas)oskusest.&#x20;
+[Akende](../terminid/sonastik/aken-window.md) kaudu suhtlevad [kasutajad](../terminid/sonastik/kasutaja-user.md) rakendusega ning seetõttu on see oluline osa kasutajakogemusest. Akende kasutamise oskus tõstab arvuti kasutamise tõhusust. Ilma rakendusteta pole arvutist eriti kasu ja kuna kogu suhtlus rakendustega toimub läbi akende siis on nende kasutamise ja käitlemise oskus oluline osa arvutikasutamise (baas)oskusest.&#x20;
 
-Akende kasutamises võib eristada kahte olekut: aknad ühe rakenduse piires (ühe rakenduse aknad) ja erinevate rakenduste aknad.
+Akende kasutamises võib eristada kahte olekut:&#x20;
+
+* aknad ühe rakenduse piires (ühe rakenduse aknad)
+* erinevate rakenduste aknad.
 
 See on üsna tavapärane, et üks rakendus on avatud mitmes aknas (nt Safari); samuti on tavapärane et korraga on avatud rohkem kui üks aken (nt brauser ja meilirakendus). Kui aknaid on rohkem avatud muutub akende kasutamise oskus väga oluliseks vastasel korral ei leia üles vajalikku rakendust või siis rakenduse vajalikku akent. Selleks on operatsioonisüsteemi sisse ehitatud rikkalikud võimalused akende käitlemiseks, seda nii klaviatuurilt või [osutuseadisega](../terminid/sonastik/osutusseadis-pointing-device.md) (hiir, puuteplaat).
 
