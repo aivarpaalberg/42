@@ -1,10 +1,10 @@
 # awk
 
-`awk` on sisemine (_built-in_) programm: mustritest juhinduv skaneerimise (_scanning_) ja töötlemise (_processing_) keel (_language_)
+`awk` on [bashi](./) sisemine (_built-in_) programm: mustritest juhinduv skaneerimise (_scanning_) ja töötlemise (_processing_) keel (_language_)
 
 ### Näited
 
-Oletame, et meil on csv fail nimega `test_data.csv`, milles olevad andmed eraldatud komadega ning milles on veerud nime, vanuse, pikkuse ja kaaluga:
+Oletame, et meil on csv [fail](../../terminid/sonastik/fail-file.md) nimega `test_data.csv`, milles olevad [andmed](../../terminid/sonastik/andmed-data.md) eraldatud komadega ning milles on veerud nime, vanuse, pikkuse ja kaaluga:
 
 ```csv
 Jüri,35,182,88
