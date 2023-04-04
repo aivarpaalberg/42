@@ -1,14 +1,16 @@
 ---
-description: mõiste masinorienteeritud keel (machine oriente language) tähendus
+description: mõiste masinorienteeritud keel (machine oriented language) tähendus
 ---
 
 # masinorienteeritud keel (machine oriented language)
 
 ## Tähendus
 
-[Programmikeel](programmeerimiskeel-programming-language.md), mille [lihtlaused](lihtlause-simple-statement.md) oma struktuurilt ühtuvad või sarnanevad konkreetse [arvuti](arvuti-computer.md) või arvutiklassi masinakäskudega.
+[Programmikeel](programmeerimiskeel-programming-language.md), mille [lihtlaused](lihtlause-simple-statement.md) oma struktuurilt ühtuvad või sarnanevad konkreetse [arvuti](arvuti-computer.md) või arvutiklassi [masinakäskudega](masinakaesk-machine-instruction.md).
 
-Kehtivuspiirkond (_scope_): infotehnoloogia
+**Sünonüüm:** computer-oriented language
+
+**Kehtivuspiirkond (scope):** infotehnoloogia
 
 ## Viited
 
