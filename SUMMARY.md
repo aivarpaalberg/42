@@ -245,6 +245,7 @@
   * [loendi hõlmamine (list comprehension)](terminid/sonastik/loendi-holmamine-list-comprehension.md)
   * [loomulik keel (natural language)](terminid/sonastik/loomulik-keel-natural-language.md)
   * [lugema (to read)](terminid/sonastik/lugema-to-read.md)
+  * [lähtekood (source code)](terminid/sonastik/laehtekood-source-code.md)
   * [manuskäsk (embedded command)](terminid/sonastik/manuskaesk-embedded-command.md)
   * [massiiv (array)](terminid/sonastik/massiiv-array.md)
   * [massiivtüüp (array type)](terminid/sonastik/massiivtueuep-array-type.md)
