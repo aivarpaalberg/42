@@ -247,6 +247,7 @@
   * [lugema (to read)](terminid/sonastik/lugema-to-read.md)
   * [lähtekood (source code)](terminid/sonastik/laehtekood-source-code.md)
   * [manuskäsk (embedded command)](terminid/sonastik/manuskaesk-embedded-command.md)
+  * [masinorienteeritud keel (machine oriented language)](terminid/sonastik/masinorienteeritud-keel-machine-oriented-language.md)
   * [massiiv (array)](terminid/sonastik/massiiv-array.md)
   * [massiivtüüp (array type)](terminid/sonastik/massiivtueuep-array-type.md)
   * [meedium (medium)](terminid/sonastik/meedium-medium.md)
