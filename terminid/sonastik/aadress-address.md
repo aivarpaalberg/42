@@ -6,7 +6,7 @@ description: mõiste aadress (address) määratlus (definition)
 
 ## Tähendus
 
-**Kehtivuspiirkond (scope):** infotehnoloogia
+**Kehtivuspiirkond** (_scope_)**:** infotehnoloogia
 
 [asukohta](asukoht-location.md) (_location_) identifitseeriv [väärtus](andmevaeaertus-data-value.md) (_value_)
 
