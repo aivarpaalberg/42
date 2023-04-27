@@ -126,6 +126,7 @@
   * [andmeelement (data element)](terminid/sonastik/andmeelement-data-element.md)
   * [andmekandja (data medium)](terminid/sonastik/andmekandja-data-medium.md)
   * [andmeobjekt (data object)](terminid/sonastik/andmeobjekt-data-object.md)
+  * [andmeside (data communication)](terminid/sonastik/andmeside-data-communication.md)
   * [andmesidevõrk (data network)](terminid/sonastik/andmesidevork-data-network.md)
   * [andmestruktuur (data structure)](terminid/sonastik/andmestruktuur-data-structure.md)
   * [andmetöötlus (data processing)](terminid/sonastik/andmetoeoetlus-data-processing.md)
