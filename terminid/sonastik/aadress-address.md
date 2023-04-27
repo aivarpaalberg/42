@@ -6,9 +6,11 @@ description: mõiste aadress (address) määratlus (definition)
 
 ## Tähendus
 
+**Kehtivuspiirkond (scope):** infotehnoloogia
+
 [asukohta](asukoht-location.md) (_location_) identifitseeriv [väärtus](andmevaeaertus-data-value.md) (_value_)
 
-**Näiteks:** [registri](register-register.md) number, [mäluseadme](maeluseade-storage-device.md) (_storage device_) teatava osa aadress, seadme aadress, võrgu aadress.
+**Näiteks:** [registri](register-register.md) number, [mäluseadme](maeluseade-storage-device.md) (_storage device_) teatava osa aadress, seadme aadress, [võrgu](vork-network.md) aadress.
 
 ## Viited
 
