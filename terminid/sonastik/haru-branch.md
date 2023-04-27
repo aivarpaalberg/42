@@ -6,6 +6,8 @@ description: mõiste haru (branch) määratlus (definition)
 
 ## Tähendus
 
+**Kehtivuspiirkond: infotehnoloogia**
+
 otseühendustee [võrgu](vork-network.md) (_network_) kahe [sõlme](solm-node.md) (_node_) vahel.
 
 **Märkus:** võrgu topoloogias või mingis abstraktses struktuuris on ühendusteedeks jooned skeemil. Arvutivõrgus on ühendusteedeks andmesidelülid.
