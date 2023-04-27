@@ -4,9 +4,15 @@ description: mõiste andmesidevõrk (data network) määratlus (definition)
 
 # andmesidevõrk (data network)
 
-## Tähendus
+## Määratlus
 
-[ võrk](vork-network.md) (_network_), milles kanalikontuurid (_data circuits_) ja võimalikud kommutatsioonivahendid võimaldavad andmesidet (_data communication_) andmelõpmike (_data terminal equipments_) vahel.
+**Kehtivuspiirkond (scope):** infotehnoloogia
+
+\-----------------------------------------------------------------------------------------------------
+
+[võrk](vork-network.md) (_network_), milles [kanalikontuurid](kanalikontuur-data-circuit.md) (_data circuits_) ja võimalikud kommutatsioonivahendid võimaldavad andmesidet (_data communication_) andmelõpmike (_data terminal equipments_) vahel.
+
+**----------------------------------------------------------------------------------------------------**
 
 **Sünonüüm:** andmevõrk
 
