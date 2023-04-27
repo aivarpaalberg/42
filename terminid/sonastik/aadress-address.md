@@ -4,7 +4,7 @@ description: mõiste aadress (address) määratlus (definition)
 
 # aadress (address)
 
-## Tähendus
+## Määratlus
 
 **Kehtivuspiirkond** (_scope_)**:** infotehnoloogia
 
