@@ -6,6 +6,8 @@ description: mõiste võrk (network) määratlus (definition)
 
 ## Tähendus
 
+**Kehtivuspiirkond (scope):** infotehnoloogia
+
 [sõlmede](solm-node.md) (_nodes_) ja neid ühendavate [harude](haru-branch.md) (_branches_) kogum.
 
 
