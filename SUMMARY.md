@@ -16,7 +16,7 @@
 
 ## iPhone
 
-* [Oma helinate tegemine](iphone/oma-helinate-tegemine.md)
+* [Oma helinate tegemine](iphone/untitled.md)
 
 ## Python
 
