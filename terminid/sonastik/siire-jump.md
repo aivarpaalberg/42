@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Infotehnoloogia" %}
 {% hint style="info" %}
-kõrvalekalle (_departure_) [käskude](kaesk-instruction.md) (_instructions_) või [lausete](lause-statement.md) (_statements_) __ järjestikku  (_sequentinal_) [täitmisest](taeitmine-execution.md) (_execution_).
+kõrvalekalle (_departure_) [käskude](kaesk-instruction.md) (_instructions_) või [lausete](lause-statement.md) (_statements_)  järjestikku  (_sequentinal_) [täitmisest](taeitmine-execution.md) (_execution_).
 {% endhint %}
 
 **Sünonüüm**: hüpe

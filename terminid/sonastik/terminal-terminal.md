@@ -18,4 +18,4 @@ Terminal on teksti sisestamise ja väljastamise keskkond. Terminali aken (ka _te
 
 [EVS-ISO 2382-12:1999](http://www.evs.ee/tooted/evs-iso-2382-12-1999), Infotehnoloogia. Sõnastik. Osa 12: Välisseadmed&#x20;
 
-* [terminal (_terminal)_](https://www.eki.ee/dict/its/index.cgi?Q=D2652667-6C03-1014-88DC-FC5F0DBED45A\&F=GUID\&C01=1\&C02=0\&C10=1)__
+* [terminal (_terminal)_](https://www.eki.ee/dict/its/index.cgi?Q=D2652667-6C03-1014-88DC-FC5F0DBED45A\&F=GUID\&C01=1\&C02=0\&C10=1)

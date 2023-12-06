@@ -8,11 +8,7 @@ Saab kasutada kettal olevate käskude aktiveerimiseks (_invoke_) kui eksisteerib
 
 Valikud:
 
-| Argument | Tähendus                                                                                               |   |
-| -------- | ------------------------------------------------------------------------------------------------------ | - |
-| -p       | kasuta vaikimisi tee (_PATH_) väärtust, mis garanteeritult leiab kõik standard utiliidid (_utilities_) |   |
-| -v       | väljasta (_print_) käsu (_command_) kirjeldus sarnaselt sisemisele käsul `type`                        |   |
-| -V       | väljasta (_print_) paljusõnalisem (_more verbose_) kirjeldus iga käsu (_command_) kohta                |   |
+<table><thead><tr><th>Argument</th><th>Tähendus</th><th data-hidden></th></tr></thead><tbody><tr><td>-p</td><td>kasuta vaikimisi tee (<em>PATH</em>) väärtust, mis garanteeritult leiab kõik standard utiliidid (<em>utilities</em>)</td><td></td></tr><tr><td>-v</td><td>väljasta (<em>print</em>) käsu (<em>command</em>) kirjeldus sarnaselt sisemisele käsul <code>type</code></td><td></td></tr><tr><td>-V</td><td>väljasta (<em>print</em>) paljusõnalisem (<em>more verbose</em>) kirjeldus iga käsu (<em>command</em>) kohta</td><td></td></tr></tbody></table>
 
 &#x20;
 
